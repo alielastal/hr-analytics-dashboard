@@ -1,0 +1,1953 @@
+EmployeeID,Name,Department,Gender,JobRole,Education,Age,Salary,Bonus,Attrition,TotalCompensation
+1001,Emp_1,Sales,Male,Manager,High School,39,39239.0,6909,No,46148.0
+1002,Emp_2,Marketing,Male,Consultant,Masters,53,30416.0,17150,No,47566.0
+1003,Emp_3,It,Female,Executive,High School,24,23412.0,28602,No,52014.0
+1004,Emp_4,Marketing,Female,Engineer,Masters,23,101976.0,5080,No,107056.0
+1005,Emp_5,Marketing,Male,Executive,Phd,54,44406.0,7083,No,51489.0
+1006,Emp_6,Finance,Female,Consultant,Phd,40,21875.0,18378,No,40253.0
+1007,Emp_7,It,Male,Manager,Masters,38,57066.0,20217,No,77283.0
+1008,Emp_8,It,Male,Analyst,Bachelors,54,25752.0,23074,No,48826.0
+1009,Emp_9,It,Male,Consultant,High School,33,106753.0,22140,No,128893.0
+1010,Emp_10,Marketing,Male,Manager,Phd,24,98025.0,7670,Yes,105695.0
+1011,Emp_11,Sales,Female,Engineer,Bachelors,47,21353.0,8751,No,30104.0
+1012,Emp_12,It,Male,Executive,High School,56,46986.0,16744,No,63730.0
+1013,Emp_13,Operations,Female,Executive,Phd,29,106907.0,10261,No,117168.0
+1014,Emp_14,Marketing,Female,Executive,Phd,57,34691.0,19691,No,54382.0
+1015,Emp_15,Finance,Female,Engineer,Masters,28,89847.0,11852,No,101699.0
+1016,Emp_16,Sales,Female,Manager,High School,57,68075.0,6494,No,74569.0
+1017,Emp_17,Operations,Male,Engineer,Bachelors,37,30794.0,27124,No,57918.0
+1018,Emp_18,Operations,Female,Executive,Bachelors,45,88470.0,29439,No,117909.0
+1019,Emp_19,Finance,Male,Consultant,Bachelors,22,36406.0,22285,No,58691.0
+1020,Emp_20,Sales,Female,Analyst,High School,46,95930.0,5672,Yes,101602.0
+1021,Emp_21,Marketing,Female,Engineer,Bachelors,31,46872.0,13630,,60502.0
+1022,Emp_22,Hr,Male,Engineer,Bachelors,37,61708.0,15268,,76976.0
+1023,Emp_23,Sales,Male,Manager,Bachelors,37,40800.0,5444,No,46244.0
+1024,Emp_24,Finance,Male,Manager,Masters,29,63397.0,14157,No,77554.0
+1025,Emp_25,Operations,Female,Engineer,Masters,50,57909.0,16982,No,74891.0
+1026,Emp_26,Marketing,Female,Executive,High School,49,41352.0,13655,No,55007.0
+1027,Emp_27,Sales,Male,Analyst,High School,27,113848.0,23582,No,137430.0
+1028,Emp_28,Hr,Male,Manager,Bachelors,37,35438.0,7287,No,42725.0
+1029,Emp_29,Hr,Male,Executive,Masters,41,108921.0,16957,No,125878.0
+1030,Emp_30,It,Male,Consultant,Phd,37,64999.0,9008,No,74007.0
+1031,Emp_31,It,Female,Manager,Phd,28,38482.0,16696,No,55178.0
+1032,Emp_32,Finance,Male,Executive,Bachelors,35,52471.0,14104,No,66575.0
+1033,Emp_33,Sales,Male,Executive,Bachelors,47,67279.0,5496,No,72775.0
+1034,Emp_34,Sales,Male,Analyst,Masters,47,74213.0,6463,No,80676.0
+1035,Emp_35,Operations,Male,Analyst,Masters,35,33026.0,28212,No,61238.0
+1036,Emp_36,Operations,Female,Consultant,Masters,28,105184.0,25637,No,130821.0
+1037,Emp_37,Operations,Male,Executive,High School,54,25435.0,17459,No,42894.0
+1038,Emp_38,It,Female,Executive,High School,47,28493.0,21877,No,50370.0
+1039,Emp_39,Sales,Male,Analyst,Bachelors,41,92227.0,26449,No,118676.0
+1040,Emp_40,Sales,Male,Manager,High School,24,79321.0,26814,No,106135.0
+1041,Emp_41,Hr,Female,Manager,Masters,25,22763.0,22810,No,45573.0
+1042,Emp_42,It,Male,Engineer,Masters,47,40389.0,14884,No,55273.0
+1043,Emp_43,Marketing,Female,Analyst,High School,32,51498.0,23177,Yes,74675.0
+1044,Emp_44,Unknown,Female,Engineer,Phd,23,83755.0,7723,No,91478.0
+1045,Emp_45,Marketing,Male,Analyst,Bachelors,35,55825.0,22042,Yes,77867.0
+1046,Emp_46,Hr,Female,Consultant,Phd,51,36934.0,9761,Yes,46695.0
+1047,Emp_47,Finance,Female,Executive,Bachelors,33,25574.0,12630,No,38204.0
+1048,Emp_48,Sales,Female,Consultant,Phd,47,58179.0,21375,No,79554.0
+1049,Emp_49,Hr,Female,Analyst,High School,54,21587.0,13741,,35328.0
+1050,Emp_50,Sales,Female,Executive,Bachelors,34,62782.0,9350,Yes,72132.0
+1051,Emp_51,Operations,Female,Manager,Bachelors,35,74412.0,5207,Yes,79619.0
+1052,Emp_52,Finance,Female,Manager,Bachelors,45,80561.0,9190,No,89751.0
+1053,Emp_53,Finance,Female,Engineer,Masters,55,97224.0,6883,,104107.0
+1054,Emp_54,Hr,Male,Analyst,Masters,47,24409.0,7886,No,32295.0
+1055,Emp_55,Finance,,Analyst,Phd,42,91319.0,21861,No,113180.0
+1056,Emp_56,Marketing,Female,Manager,High School,49,119016.0,13953,No,132969.0
+1057,Emp_57,Finance,Male,Consultant,Masters,57,46751.0,13381,No,60132.0
+1058,Emp_58,Sales,Male,Executive,Bachelors,23,58174.0,28238,No,86412.0
+1059,Emp_59,Sales,Female,Consultant,Masters,30,76572.0,18795,No,95367.0
+1060,Emp_60,Sales,Male,Consultant,High School,44,81416.0,22139,No,103555.0
+1061,Emp_61,Sales,Female,Manager,Masters,36,32041.0,14638,No,46679.0
+1062,Emp_62,Marketing,Female,Manager,Bachelors,34,43227.0,9931,No,53158.0
+1063,Emp_63,It,Female,Manager,Phd,44,55201.0,14855,No,70056.0
+1064,Emp_64,Operations,Female,Engineer,Bachelors,38,56069.0,10724,No,66793.0
+1065,Emp_65,Hr,Male,Consultant,High School,23,102190.0,17420,No,119610.0
+1066,Emp_66,Sales,Female,Analyst,Phd,41,46370.0,25534,No,71904.0
+1067,Emp_67,Finance,Female,Executive,Masters,41,115018.0,9060,No,124078.0
+1068,Emp_68,Sales,Female,Engineer,Masters,24,31586.0,9765,No,41351.0
+1069,Emp_69,Finance,Male,Analyst,Masters,33,70231.0,24996,No,95227.0
+1070,Emp_70,Operations,Female,Consultant,Phd,23,25322.0,11553,No,36875.0
+1071,Emp_71,Operations,Male,Manager,Bachelors,57,85294.0,12378,Yes,97672.0
+1072,Emp_72,Operations,Male,Consultant,Phd,35,99468.0,23073,No,122541.0
+1073,Emp_73,Finance,Female,Executive,Phd,37,49299.0,22700,,71999.0
+1074,Emp_74,Sales,Female,Engineer,High School,40,110715.0,12130,Yes,122845.0
+1075,Emp_75,Operations,Male,Engineer,Phd,55,90793.0,8186,No,98979.0
+1076,Emp_76,Marketing,Female,Executive,Masters,27,66501.0,10789,No,77290.0
+1077,Emp_77,Finance,Male,Analyst,Bachelors,34,77134.0,21122,No,98256.0
+1078,Emp_78,Finance,Male,Analyst,Bachelors,57,29777.0,22529,No,52306.0
+1079,Emp_79,Sales,Female,Engineer,Bachelors,43,31249.0,25778,No,57027.0
+1080,Emp_80,Finance,Female,Engineer,Masters,39,41390.0,12942,Yes,54332.0
+1081,Emp_81,Finance,Male,Manager,Masters,33,40369.0,12548,No,52917.0
+1082,Emp_82,Operations,Male,Analyst,Masters,51,32881.0,21944,No,54825.0
+1083,Emp_83,Sales,Male,Executive,Masters,28,29587.0,23296,Yes,52883.0
+1084,Emp_84,Operations,Male,Analyst,Masters,53,113800.0,23248,No,137048.0
+1085,Emp_85,Operations,Female,Manager,Phd,40,94327.0,5296,No,99623.0
+1086,Emp_86,Sales,Female,Engineer,Masters,27,107911.0,7409,No,115320.0
+1087,Emp_87,Hr,Female,Engineer,Masters,41,108147.0,29014,No,137161.0
+1088,Emp_88,Operations,Female,Manager,Masters,48,27833.0,6461,No,34294.0
+1089,Emp_89,Marketing,Female,Executive,Masters,58,67013.0,25676,No,92689.0
+1090,Emp_90,Marketing,Male,Engineer,Bachelors,28,83620.0,7268,No,90888.0
+1091,Emp_91,Finance,Female,Consultant,Masters,26,35754.0,22378,No,58132.0
+1092,Emp_92,Marketing,Female,Engineer,Phd,32,98113.0,11554,No,109667.0
+1093,Emp_93,Finance,Female,Consultant,Phd,36,116631.0,21391,No,138022.0
+1094,Emp_94,Hr,Female,Manager,Phd,24,106784.0,23899,No,130683.0
+1095,Emp_95,Sales,Female,Manager,High School,26,55282.0,22801,No,78083.0
+1096,Emp_96,Sales,Male,Engineer,Bachelors,44,56737.0,23700,No,80437.0
+1097,Emp_97,Sales,Male,Analyst,Masters,58,117427.0,12358,No,129785.0
+1098,Emp_98,Marketing,Male,Consultant,High School,30,44124.0,25316,No,69440.0
+1099,Emp_99,Hr,Female,Executive,Masters,36,90102.0,27588,No,117690.0
+1100,Emp_100,Marketing,Male,Engineer,High School,24,22196.0,22671,No,44867.0
+1101,Emp_101,Marketing,Male,Executive,High School,50,81527.0,22502,No,104029.0
+1102,Emp_102,Hr,Female,Engineer,Phd,27,116651.0,12637,No,129288.0
+1103,Emp_103,Hr,Female,Analyst,Phd,38,105395.0,5660,No,111055.0
+1104,Emp_104,Hr,Female,Analyst,High School,47,31345.0,13907,Yes,45252.0
+1106,Emp_106,Sales,Male,Analyst,High School,29,86400.0,16953,Yes,103353.0
+1107,Emp_107,It,Female,Manager,Bachelors,42,32055.0,29488,Yes,61543.0
+1108,Emp_108,It,Female,Manager,Phd,32,105283.0,27721,No,133004.0
+1109,Emp_109,Hr,Male,Consultant,Phd,59,64484.0,23913,No,88397.0
+1110,Emp_110,It,Male,Executive,Phd,29,97514.0,8970,Yes,106484.0
+1111,Emp_111,It,Female,Engineer,Bachelors,45,110135.0,8407,Yes,118542.0
+1112,Emp_112,Hr,Female,Engineer,High School,56,55771.0,14046,No,69817.0
+1113,Emp_113,It,Male,Manager,Masters,35,77654.0,28800,No,106454.0
+1114,Emp_114,Marketing,Female,Engineer,Phd,35,66540.0,19547,No,86087.0
+1115,Emp_115,Finance,Male,Manager,High School,31,103151.0,9760,No,112911.0
+1116,Emp_116,Finance,Male,Consultant,Bachelors,33,49377.0,23281,No,72658.0
+1117,Emp_117,Hr,Male,Executive,Masters,59,115567.0,27748,No,143315.0
+1118,Emp_118,Sales,Male,Consultant,Phd,55,69573.0,29848,No,99421.0
+1119,Emp_119,Hr,Female,Analyst,Bachelors,31,62733.0,18465,Yes,81198.0
+1120,Emp_120,Sales,Female,Analyst,Bachelors,38,31760.0,9087,No,40847.0
+1121,Emp_121,Finance,Male,Analyst,Masters,38,119250.0,25758,No,145008.0
+1122,Emp_122,Hr,Male,Consultant,High School,24,45762.0,12607,No,58369.0
+1123,Emp_123,Operations,Male,Engineer,Phd,52,70986.0,9019,No,80005.0
+1124,Emp_124,Marketing,Male,Executive,Phd,22,54332.0,5815,No,60147.0
+1125,Emp_125,It,Male,Analyst,High School,33,60100.0,17563,Yes,77663.0
+1126,Emp_126,Sales,Female,Analyst,High School,25,24944.0,18292,Yes,43236.0
+1127,Emp_127,Operations,Female,Analyst,High School,34,68825.0,28639,Yes,97464.0
+1128,Emp_128,It,Female,Executive,Masters,55,33877.0,21158,No,55035.0
+1129,Emp_129,It,Female,Analyst,Masters,42,49990.0,5922,No,55912.0
+1130,Emp_130,Hr,Male,Executive,Phd,43,119612.0,17929,No,137541.0
+1131,Emp_131,It,Male,Analyst,Masters,25,75283.0,19925,Yes,95208.0
+1132,Emp_132,Marketing,Male,Consultant,Bachelors,39,23258.0,26251,No,49509.0
+1133,Emp_133,Operations,Male,Consultant,Phd,26,51629.0,22648,No,74277.0
+1134,Emp_134,It,Male,Executive,Masters,40,57579.0,25108,No,82687.0
+1135,Emp_135,Hr,Female,Consultant,High School,23,42958.0,15979,,58937.0
+1136,Emp_136,Marketing,Male,Executive,Bachelors,33,59465.0,7722,Yes,67187.0
+1137,Emp_137,Finance,Female,Consultant,High School,38,105853.0,10355,No,116208.0
+1138,Emp_138,Operations,Female,Consultant,Phd,31,35775.0,18301,No,54076.0
+1139,Emp_139,It,Female,Executive,High School,55,96575.0,7550,Yes,104125.0
+1140,Emp_140,Hr,Female,Engineer,Masters,27,114633.0,26703,,141336.0
+1141,Emp_141,Finance,Male,Consultant,Masters,29,54207.0,16141,No,70348.0
+1142,Emp_142,Finance,Female,Analyst,Phd,32,42553.0,28070,No,70623.0
+1143,Emp_143,Sales,Female,Engineer,High School,33,73632.0,23057,No,96689.0
+1144,Emp_144,Marketing,Female,Executive,Phd,30,20055.0,25971,Yes,46026.0
+1145,Emp_145,It,Male,Engineer,High School,23,108697.0,16284,No,124981.0
+1146,Emp_146,Hr,Male,Manager,Bachelors,29,52873.0,26737,No,79610.0
+1147,Emp_147,Sales,Male,Manager,Masters,32,100720.0,28241,Yes,128961.0
+1148,Emp_148,Marketing,Female,Consultant,Phd,57,86205.0,23050,No,109255.0
+1149,Emp_149,Sales,Female,Consultant,Bachelors,31,98199.0,25895,Yes,124094.0
+1150,Emp_150,Operations,Male,Analyst,Bachelors,42,45318.0,27556,No,72874.0
+1151,Emp_151,Marketing,Female,Engineer,Phd,41,53734.0,6384,Yes,60118.0
+1152,Emp_152,Marketing,Male,Manager,Phd,29,102227.0,25787,Yes,128014.0
+1153,Emp_153,It,Male,Consultant,Bachelors,57,38522.0,25338,No,63860.0
+1154,Emp_154,Marketing,Female,Engineer,High School,50,31656.0,27689,Yes,59345.0
+1155,Emp_155,Sales,Female,Consultant,Bachelors,33,35893.0,13252,No,49145.0
+1156,Emp_156,Marketing,Female,Consultant,Phd,35,36493.0,12238,Yes,48731.0
+1157,Emp_157,It,Female,Manager,Bachelors,42,23632.0,28365,No,51997.0
+1158,Emp_158,It,Male,Manager,High School,43,115872.0,11026,Yes,126898.0
+1159,Emp_159,Operations,Male,Consultant,Masters,42,108648.0,27993,Yes,136641.0
+1160,Emp_160,Sales,Male,Executive,Masters,51,81779.0,15482,No,97261.0
+1161,Emp_161,Finance,Male,Consultant,Bachelors,41,58452.0,18801,No,77253.0
+1162,Emp_162,Finance,Male,Consultant,High School,45,33266.0,21120,No,54386.0
+1163,Emp_163,Marketing,Female,Analyst,Masters,44,81607.0,20580,No,102187.0
+1164,Emp_164,Operations,Male,Analyst,Bachelors,28,36940.0,13664,Yes,50604.0
+1165,Emp_165,Hr,Male,Analyst,Bachelors,30,44003.0,22342,No,66345.0
+1166,Emp_166,Marketing,Male,Executive,High School,22,118408.0,5493,Yes,123901.0
+1167,Emp_167,Operations,Female,Executive,Phd,47,54815.0,28426,No,83241.0
+1168,Emp_168,Sales,Female,Consultant,Bachelors,59,50869.0,21465,No,72334.0
+1169,Emp_169,Sales,Female,Analyst,Phd,59,69297.0,11999,No,81296.0
+1170,Emp_170,Sales,Female,Executive,Phd,43,80107.0,18833,No,98940.0
+1171,Emp_171,Sales,Male,Manager,Masters,31,102793.0,7970,Yes,110763.0
+1172,Emp_172,Sales,Male,Consultant,Phd,27,36682.0,5011,No,41693.0
+1173,Emp_173,Operations,Female,Engineer,High School,38,39622.0,29208,No,68830.0
+1174,Emp_174,Operations,Female,Consultant,Masters,59,50408.0,20551,No,70959.0
+1175,Emp_175,It,Male,Engineer,Masters,45,28837.0,22145,Yes,50982.0
+1176,Emp_176,Finance,Male,Analyst,Masters,31,84210.0,8185,No,92395.0
+1177,Emp_177,Sales,Female,Engineer,Bachelors,29,35407.0,21409,No,56816.0
+1178,Emp_178,Hr,Female,Analyst,Bachelors,42,49309.0,6806,No,56115.0
+1179,Emp_179,Operations,Female,Manager,Phd,27,91918.0,28035,No,119953.0
+1180,Emp_180,Hr,Female,Engineer,Masters,42,113190.0,10664,No,123854.0
+1181,Emp_181,Hr,Male,Consultant,Masters,45,38895.0,19126,,58021.0
+1182,Emp_182,Hr,Male,Analyst,High School,54,119087.0,17894,No,136981.0
+1183,Emp_183,It,Male,Consultant,Phd,39,106912.0,10154,No,117066.0
+1184,Emp_184,Operations,Female,Executive,High School,49,20370.0,27208,Yes,47578.0
+1185,Emp_185,Hr,Female,Analyst,Phd,53,20486.0,18767,Yes,39253.0
+1186,Emp_186,Sales,Male,Engineer,Phd,33,43762.0,25043,No,68805.0
+1187,Emp_187,Marketing,Male,Analyst,Bachelors,48,46613.0,20226,No,66839.0
+1188,Emp_188,Hr,Male,Consultant,Bachelors,31,23196.0,6525,No,29721.0
+1189,Emp_189,It,Male,Manager,High School,53,114937.0,5760,Yes,120697.0
+1190,Emp_190,Operations,Female,Analyst,Phd,47,96349.0,21978,,118327.0
+1191,Emp_191,It,Male,Engineer,Masters,46,84839.0,28576,Yes,113415.0
+1192,Emp_192,Hr,Male,Executive,Bachelors,32,61916.0,18880,No,80796.0
+1193,Emp_193,Operations,Male,Manager,Masters,44,28572.0,6055,No,34627.0
+1194,Emp_194,Marketing,Male,Executive,High School,55,48225.0,15046,Yes,63271.0
+1195,Emp_195,Hr,Male,Analyst,Bachelors,44,65853.0,8083,Yes,73936.0
+1196,Emp_196,It,Male,Consultant,Bachelors,50,69390.0,20678,No,90068.0
+1197,Emp_197,Finance,Male,Consultant,Phd,52,52275.0,17108,,69383.0
+1198,Emp_198,Sales,Female,Engineer,High School,28,92379.0,25059,No,117438.0
+1199,Emp_199,It,Female,Consultant,Phd,54,21105.0,14650,No,35755.0
+1200,Emp_200,Operations,Female,Manager,Bachelors,42,79896.0,10957,No,90853.0
+1201,Emp_201,Hr,,Consultant,High School,23,63209.0,10255,Yes,73464.0
+1202,Emp_202,Sales,Male,Engineer,Bachelors,39,117175.0,14411,No,131586.0
+1203,Emp_203,Hr,Female,Analyst,High School,54,62487.0,25612,No,88099.0
+1204,Emp_204,Operations,Female,Analyst,Bachelors,58,38051.0,21344,No,59395.0
+1205,Emp_205,Hr,Male,Consultant,Masters,55,114244.0,25565,No,139809.0
+1206,Emp_206,Finance,Male,Executive,Masters,41,97400.0,14691,Yes,112091.0
+1207,Emp_207,Sales,Female,Analyst,Phd,56,86961.0,23214,No,110175.0
+1208,Emp_208,Sales,Female,Consultant,Masters,39,80156.0,8395,No,88551.0
+1209,Emp_209,It,Male,Engineer,Bachelors,45,77175.0,6203,No,83378.0
+1210,Emp_210,Finance,Female,Consultant,Bachelors,29,26849.0,24194,No,51043.0
+1211,Emp_211,It,Male,Analyst,Masters,51,38976.0,24476,No,63452.0
+1212,Emp_212,Hr,Male,Engineer,Phd,31,119794.0,8044,No,127838.0
+1213,Emp_213,Marketing,Male,Consultant,Masters,44,76866.0,27455,No,104321.0
+1214,Emp_214,Unknown,Male,Manager,High School,32,67078.0,12272,No,79350.0
+1215,Emp_215,Hr,Female,Engineer,High School,23,51113.0,26057,No,77170.0
+1216,Emp_216,It,Male,Manager,High School,47,35401.0,8514,No,43915.0
+1217,Emp_217,Hr,Male,Executive,Masters,57,32884.0,14990,No,47874.0
+1219,Emp_219,Finance,Male,Manager,Masters,34,57563.0,15767,Yes,73330.0
+1220,Emp_220,Sales,Female,Analyst,High School,46,54414.0,21528,No,75942.0
+1221,Emp_221,Operations,Female,Analyst,Phd,25,36142.0,12507,No,48649.0
+1222,Emp_222,Marketing,,Executive,Bachelors,40,91492.0,9857,No,101349.0
+1223,Emp_223,Hr,Male,Engineer,Masters,39,99464.0,17118,No,116582.0
+1224,Emp_224,Hr,Female,Engineer,Phd,58,95257.0,22761,Yes,118018.0
+1225,Emp_225,It,Female,Engineer,Bachelors,51,96693.0,8146,No,104839.0
+1226,Emp_226,Operations,Male,Executive,Bachelors,40,55135.0,26408,No,81543.0
+1227,Emp_227,Finance,Female,Engineer,Bachelors,44,92232.0,22177,No,114409.0
+1228,Emp_228,Marketing,Female,Analyst,Phd,37,47862.0,10756,Yes,58618.0
+1229,Emp_229,Sales,Female,Manager,Phd,22,25190.0,9414,Yes,34604.0
+1230,Emp_230,Finance,Female,Analyst,High School,33,90199.0,22494,No,112693.0
+1231,Emp_231,Operations,Female,Analyst,Phd,45,24331.0,27056,Yes,51387.0
+1232,Emp_232,Sales,Male,Manager,Phd,55,72186.0,25437,Yes,97623.0
+1233,Emp_233,It,Female,Analyst,Phd,29,64648.0,8937,Yes,73585.0
+1234,Emp_234,It,Female,Executive,Bachelors,39,48549.0,8963,No,57512.0
+1236,Emp_236,Operations,Male,Analyst,High School,47,45761.0,10897,No,56658.0
+1237,Emp_237,Marketing,Male,Consultant,Masters,51,23262.0,13974,No,37236.0
+1238,Emp_238,Sales,Female,Analyst,Masters,34,71259.0,19377,No,90636.0
+1239,Emp_239,Finance,Male,Executive,Phd,40,92572.0,22500,Yes,115072.0
+1240,Emp_240,Operations,Female,Engineer,High School,50,73472.0,21056,No,94528.0
+1241,Emp_241,Operations,Female,Analyst,Masters,24,107858.0,6750,No,114608.0
+1242,Emp_242,It,Male,Engineer,Masters,47,104667.0,9027,No,113694.0
+1244,Emp_244,Hr,Female,Analyst,Phd,23,93508.0,10745,Yes,104253.0
+1245,Emp_245,Sales,Male,Manager,Masters,32,100865.0,26448,No,127313.0
+1246,Emp_246,It,Female,Engineer,Bachelors,49,70617.0,14679,No,85296.0
+1247,Emp_247,Operations,Male,Consultant,Masters,39,106029.0,10938,Yes,116967.0
+1248,Emp_248,Marketing,Male,Manager,Bachelors,34,38595.0,17150,No,55745.0
+1249,Emp_249,It,Male,Manager,Phd,58,107459.0,18406,No,125865.0
+1250,Emp_250,Sales,Female,Manager,Masters,43,80148.0,24781,No,104929.0
+1251,Emp_251,Unknown,Male,Manager,High School,33,66926.0,29649,,96575.0
+1252,Emp_252,It,Female,Analyst,High School,23,95271.0,22743,Yes,118014.0
+1253,Emp_253,Sales,Female,Analyst,Masters,58,54457.0,9853,Yes,64310.0
+1254,Emp_254,It,Female,Analyst,Phd,28,62531.0,23325,Yes,85856.0
+1255,Emp_255,Finance,Female,Consultant,Phd,47,93263.0,8148,No,101411.0
+1256,Emp_256,It,Male,Consultant,High School,47,93300.0,21243,Yes,114543.0
+1257,Emp_257,It,Female,Consultant,Masters,45,83171.0,12933,No,96104.0
+1258,Emp_258,Sales,Female,Executive,Phd,33,65771.0,14436,Yes,80207.0
+1260,Emp_260,Hr,Female,Analyst,Bachelors,44,86354.0,11474,No,97828.0
+1261,Emp_261,Hr,Male,Analyst,Masters,30,57289.0,19679,No,76968.0
+1262,Emp_262,Finance,Female,Executive,Bachelors,53,53892.0,16228,No,70120.0
+1263,Emp_263,Hr,Male,Executive,Bachelors,36,91196.0,5770,,96966.0
+1264,Emp_264,It,Female,Consultant,Phd,58,115057.0,6843,No,121900.0
+1265,Emp_265,Sales,Male,Engineer,Phd,34,58409.0,5073,No,63482.0
+1266,Emp_266,Hr,Female,Executive,Phd,26,54470.0,23044,No,77514.0
+1267,Emp_267,Hr,Female,Manager,Masters,32,38385.0,21059,No,59444.0
+1268,Emp_268,Finance,Male,Analyst,Bachelors,31,43296.0,25733,No,69029.0
+1269,Emp_269,Operations,Male,Manager,Masters,34,81716.0,28486,No,110202.0
+1270,Emp_270,Finance,Male,Analyst,Phd,36,109152.0,13000,No,122152.0
+1271,Emp_271,It,Male,Analyst,Bachelors,28,46382.0,25202,No,71584.0
+1272,Emp_272,Sales,Female,Executive,Masters,49,96675.0,18273,No,114948.0
+1273,Emp_273,Finance,Female,Executive,Masters,53,117596.0,21121,No,138717.0
+1274,Emp_274,Hr,Male,Manager,High School,56,42419.0,5331,Yes,47750.0
+1275,Emp_275,Sales,Female,Analyst,Masters,36,113321.0,22805,No,136126.0
+1276,Emp_276,Sales,Male,Manager,Phd,57,101238.0,12512,No,113750.0
+1277,Emp_277,Hr,Male,Engineer,Masters,42,114753.0,28274,No,143027.0
+1278,Emp_278,Finance,Female,Manager,Bachelors,27,59291.0,9931,Yes,69222.0
+1279,Emp_279,Hr,Female,Consultant,Masters,22,32397.0,17742,No,50139.0
+1280,Emp_280,Operations,,Manager,High School,25,77888.0,27409,No,105297.0
+1281,Emp_281,Sales,Female,Consultant,Bachelors,32,55169.0,18426,Yes,73595.0
+1282,Emp_282,Marketing,Female,Consultant,Bachelors,47,82182.0,25792,No,107974.0
+1284,Emp_284,It,Female,Engineer,Phd,44,62249.0,13419,No,75668.0
+1285,Emp_285,Hr,Male,Manager,Bachelors,50,48341.0,7881,Yes,56222.0
+1286,Emp_286,Hr,Male,Manager,Phd,42,95603.0,18145,Yes,113748.0
+1287,Emp_287,It,Male,Engineer,Bachelors,48,66144.0,18556,No,84700.0
+1289,Emp_289,It,Male,Executive,Phd,44,99360.0,7575,No,106935.0
+1290,Emp_290,Sales,Female,Manager,Bachelors,37,33444.0,17714,Yes,51158.0
+1291,Emp_291,Operations,Male,Executive,Phd,51,65647.0,11185,Yes,76832.0
+1292,Emp_292,Hr,Male,Engineer,High School,25,118843.0,13656,No,132499.0
+1293,Emp_293,Sales,Male,Analyst,Phd,37,30974.0,10741,No,41715.0
+1294,Emp_294,It,Male,Analyst,High School,52,58383.0,21661,No,80044.0
+1295,Emp_295,Hr,Male,Analyst,Bachelors,46,114826.0,5065,No,119891.0
+1296,Emp_296,Sales,Male,Engineer,Phd,33,101552.0,9262,Yes,110814.0
+1297,Emp_297,Unknown,Male,Consultant,Bachelors,47,117648.0,10704,No,128352.0
+1298,Emp_298,Sales,Female,Consultant,Phd,58,114049.0,20355,No,134404.0
+1299,Emp_299,Operations,Female,Executive,High School,54,22956.0,13594,No,36550.0
+1300,Emp_300,It,Male,Consultant,High School,49,28077.0,17175,No,45252.0
+1301,Emp_301,Operations,Female,Consultant,Phd,30,56490.0,29373,No,85863.0
+1302,Emp_302,Hr,Female,Analyst,High School,33,75612.0,17696,No,93308.0
+1303,Emp_303,It,Female,Analyst,Bachelors,26,56159.0,11255,No,67414.0
+1304,Emp_304,Hr,Female,Executive,Bachelors,49,59710.0,12441,No,72151.0
+1305,Emp_305,Marketing,Male,Manager,Masters,56,103536.0,26076,No,129612.0
+1306,Emp_306,Finance,Female,Executive,High School,26,33806.0,19986,No,53792.0
+1307,Emp_307,Operations,Female,Executive,Bachelors,55,98345.0,18350,No,116695.0
+1308,Emp_308,Finance,Female,Engineer,Phd,55,100391.0,19440,No,119831.0
+1309,Emp_309,Finance,Male,Engineer,High School,34,114924.0,25803,No,140727.0
+1310,Emp_310,Unknown,Male,Executive,Bachelors,35,26458.0,12960,No,39418.0
+1311,Emp_311,It,Male,Executive,High School,32,55524.0,27462,No,82986.0
+1312,Emp_312,Marketing,Male,Executive,Phd,59,26853.0,22821,Yes,49674.0
+1313,Emp_313,Hr,Male,Consultant,Bachelors,25,60477.0,28416,No,88893.0
+1314,Emp_314,Sales,Male,Engineer,Masters,54,52222.0,27115,No,79337.0
+1315,Emp_315,Hr,Male,Executive,Masters,28,38320.0,24762,No,63082.0
+1316,Emp_316,Sales,Female,Analyst,High School,29,114154.0,18665,No,132819.0
+1317,Emp_317,Hr,Female,Analyst,Phd,58,72243.0,29968,No,102211.0
+1318,Emp_318,Operations,Female,Consultant,Bachelors,31,65615.0,27731,Yes,93346.0
+1319,Emp_319,Marketing,Male,Consultant,Phd,36,37352.0,27785,No,65137.0
+1320,Emp_320,Sales,Male,Manager,Bachelors,59,92833.0,11629,,104462.0
+1321,Emp_321,It,Male,Manager,High School,36,113476.0,18828,No,132304.0
+1322,Emp_322,Hr,Male,Manager,Bachelors,26,23203.0,9541,No,32744.0
+1323,Emp_323,Hr,Male,Consultant,Phd,50,59267.0,12876,Yes,72143.0
+1324,Emp_324,Sales,Female,Consultant,Phd,40,57941.0,18311,No,76252.0
+1325,Emp_325,It,Female,Consultant,High School,31,102809.0,29917,Yes,132726.0
+1326,Emp_326,It,Male,Analyst,Phd,33,45368.0,29708,No,75076.0
+1327,Emp_327,Operations,,Consultant,Bachelors,25,97186.0,19588,No,116774.0
+1328,Emp_328,Operations,Male,Analyst,High School,52,50984.0,21648,No,72632.0
+1329,Emp_329,Operations,Male,Manager,Bachelors,39,61941.0,17380,Yes,79321.0
+1330,Emp_330,Operations,Female,Manager,Phd,37,92918.0,14877,Yes,107795.0
+1331,Emp_331,Operations,Male,Manager,High School,57,72683.0,22818,No,95501.0
+1332,Emp_332,Operations,Male,Executive,Bachelors,46,20801.0,26711,Yes,47512.0
+1333,Emp_333,Marketing,Male,Executive,Phd,44,67965.0,10097,No,78062.0
+1334,Emp_334,It,Male,Engineer,Phd,33,105269.0,23044,No,128313.0
+1335,Emp_335,Hr,Female,Engineer,Masters,55,29969.0,27076,No,57045.0
+1336,Emp_336,It,Male,Engineer,Phd,57,55969.0,23738,No,79707.0
+1337,Emp_337,It,Male,Executive,Bachelors,58,102269.0,29841,No,132110.0
+1338,Emp_338,Finance,Female,Executive,High School,24,52449.0,11461,No,63910.0
+1339,Emp_339,Marketing,Female,Engineer,Masters,30,111679.0,12044,No,123723.0
+1340,Emp_340,Operations,Female,Engineer,Phd,39,45705.0,10497,No,56202.0
+1341,Emp_341,Hr,Male,Consultant,Phd,56,80303.0,25933,Yes,106236.0
+1342,Emp_342,Sales,Male,Engineer,Phd,55,48363.0,27718,No,76081.0
+1343,Emp_343,Hr,Female,Consultant,Bachelors,35,50720.0,27394,Yes,78114.0
+1344,Emp_344,Marketing,Female,Analyst,Masters,25,29972.0,18751,Yes,48723.0
+1345,Emp_345,Sales,Female,Executive,Bachelors,50,53351.0,26310,Yes,79661.0
+1346,Emp_346,Marketing,Female,Engineer,Masters,36,56145.0,14304,No,70449.0
+1347,Emp_347,It,Female,Executive,High School,49,107948.0,15426,No,123374.0
+1348,Emp_348,Sales,Female,Executive,Bachelors,37,109614.0,16058,No,125672.0
+1349,Emp_349,It,Male,Executive,Bachelors,33,108116.0,27449,No,135565.0
+1350,Emp_350,Hr,Male,Analyst,High School,26,76235.0,16260,No,92495.0
+1351,Emp_351,Hr,Male,Manager,Masters,55,34855.0,23563,No,58418.0
+1352,Emp_352,Sales,Female,Engineer,Phd,22,56169.0,26351,No,82520.0
+1353,Emp_353,Sales,Female,Manager,High School,53,66404.0,5634,Yes,72038.0
+1354,Emp_354,Operations,Female,Manager,Phd,47,39569.0,25015,No,64584.0
+1355,Emp_355,Marketing,Female,Manager,Phd,38,74437.0,15057,Yes,89494.0
+1356,Emp_356,Operations,Female,Executive,High School,48,68506.0,18345,No,86851.0
+1357,Emp_357,Marketing,Female,Consultant,Masters,45,45738.0,15147,No,60885.0
+1358,Emp_358,Operations,Male,Executive,Phd,56,26772.0,26061,No,52833.0
+1359,Emp_359,It,Male,Executive,High School,47,110410.0,23602,No,134012.0
+1360,Emp_360,Sales,Female,Manager,Bachelors,59,39731.0,6389,No,46120.0
+1361,Emp_361,Hr,Male,Executive,Bachelors,44,30131.0,18071,No,48202.0
+1362,Emp_362,Marketing,Female,Manager,Bachelors,43,86324.0,16322,No,102646.0
+1363,Emp_363,Marketing,Male,Consultant,High School,25,74097.0,9276,No,83373.0
+1364,Emp_364,Hr,Female,Engineer,Bachelors,30,101720.0,17306,Yes,119026.0
+1365,Emp_365,Operations,Female,Manager,Phd,25,116433.0,6249,No,122682.0
+1366,Emp_366,Marketing,Male,Consultant,Bachelors,28,22889.0,29024,No,51913.0
+1367,Emp_367,It,Male,Engineer,Bachelors,44,29569.0,27096,,56665.0
+1368,Emp_368,Sales,Female,Analyst,Phd,23,107193.0,22629,No,129822.0
+1369,Emp_369,Hr,Female,Manager,Bachelors,45,95677.0,13245,No,108922.0
+1370,Emp_370,Sales,,Manager,Phd,52,105192.0,16102,No,121294.0
+1371,Emp_371,Marketing,Male,Analyst,Bachelors,52,107154.0,21226,No,128380.0
+1372,Emp_372,Marketing,Female,Analyst,Phd,55,97470.0,15588,No,113058.0
+1373,Emp_373,Hr,Male,Manager,Bachelors,45,108822.0,5442,No,114264.0
+1374,Emp_374,It,Female,Analyst,Phd,47,27612.0,11976,No,39588.0
+1375,Emp_375,Finance,Female,Executive,High School,37,71644.0,9675,No,81319.0
+1376,Emp_376,Hr,Female,Engineer,Phd,34,52069.0,16803,No,68872.0
+1378,Emp_378,Operations,Male,Engineer,Bachelors,48,47331.0,9377,No,56708.0
+1379,Emp_379,Finance,Male,Executive,Masters,25,75897.0,15599,No,91496.0
+1380,Emp_380,It,Male,Analyst,Phd,37,33934.0,12058,No,45992.0
+1381,Emp_381,Operations,Male,Consultant,High School,51,30095.0,22206,No,52301.0
+1382,Emp_382,Finance,Male,Analyst,Phd,51,111494.0,16894,No,128388.0
+1383,Emp_383,Operations,Male,Manager,Phd,57,38706.0,7939,No,46645.0
+1384,Emp_384,Finance,Male,Engineer,High School,24,63516.0,28480,No,91996.0
+1385,Emp_385,It,Female,Analyst,Phd,43,117008.0,27149,No,144157.0
+1386,Emp_386,Finance,Male,Consultant,High School,43,54629.0,6031,No,60660.0
+1387,Emp_387,Finance,Male,Manager,High School,33,66910.0,15208,Yes,82118.0
+1388,Emp_388,Finance,Female,Executive,Phd,42,108540.0,5562,No,114102.0
+1389,Emp_389,Hr,Male,Executive,Phd,25,40431.0,15730,Yes,56161.0
+1390,Emp_390,Hr,Male,Consultant,Bachelors,52,76733.0,21724,No,98457.0
+1391,Emp_391,Hr,Female,Manager,Bachelors,52,60088.0,25951,Yes,86039.0
+1392,Emp_392,It,Male,Engineer,Masters,44,64135.0,21152,No,85287.0
+1393,Emp_393,Operations,Male,Analyst,Masters,41,58015.0,18998,No,77013.0
+1394,Emp_394,Marketing,Male,Manager,Phd,36,51385.0,29246,No,80631.0
+1395,Emp_395,Finance,Female,Executive,High School,44,90199.0,23680,No,113879.0
+1396,Emp_396,Finance,Male,Consultant,Masters,49,58677.0,21618,No,80295.0
+1397,Emp_397,It,Male,Consultant,Phd,37,32818.0,26586,No,59404.0
+1398,Emp_398,Finance,Female,Analyst,Masters,58,108222.0,14308,No,122530.0
+1399,Emp_399,Hr,Male,Consultant,High School,42,83001.0,14609,No,97610.0
+1400,Emp_400,Marketing,Female,Consultant,Phd,36,43977.0,22675,No,66652.0
+1401,Emp_401,Sales,Female,Manager,High School,38,69832.0,26111,No,95943.0
+1402,Emp_402,Finance,Male,Engineer,Phd,58,60931.0,13720,No,74651.0
+1403,Emp_403,Hr,Female,Analyst,Masters,34,103990.0,15172,No,119162.0
+1404,Emp_404,Sales,Female,Manager,Bachelors,40,98894.0,19457,,118351.0
+1405,Emp_405,Marketing,Male,Engineer,Masters,51,92204.0,7939,No,100143.0
+1406,Emp_406,Sales,Female,Manager,Masters,39,65784.0,19345,No,85129.0
+1407,Emp_407,Hr,Female,Manager,Bachelors,35,29921.0,21158,No,51079.0
+1408,Emp_408,Operations,Male,Consultant,Bachelors,57,54959.0,10435,No,65394.0
+1409,Emp_409,Operations,,Engineer,Phd,57,52328.0,28365,No,80693.0
+1410,Emp_410,Sales,Male,Analyst,Phd,41,28859.0,10392,No,39251.0
+1411,Emp_411,It,Female,Analyst,High School,40,109506.0,12972,Yes,122478.0
+1412,Emp_412,Sales,Male,Engineer,High School,28,94408.0,22617,Yes,117025.0
+1413,Emp_413,Finance,Female,Consultant,Masters,25,104766.0,24184,No,128950.0
+1414,Emp_414,Finance,Female,Executive,Bachelors,55,46708.0,19799,No,66507.0
+1415,Emp_415,Operations,Female,Manager,High School,23,38847.0,24159,No,63006.0
+1416,Emp_416,It,Female,Consultant,Masters,26,75989.0,20052,No,96041.0
+1417,Emp_417,Hr,Female,Engineer,Bachelors,31,112641.0,11044,No,123685.0
+1418,Emp_418,Finance,Female,Manager,Phd,53,24922.0,24871,No,49793.0
+1419,Emp_419,Operations,Female,Analyst,Masters,34,89928.0,28767,No,118695.0
+1420,Emp_420,Marketing,Male,Executive,Phd,26,72335.0,19415,No,91750.0
+1421,Emp_421,Operations,Male,Analyst,High School,31,33541.0,25234,No,58775.0
+1422,Emp_422,Unknown,Female,Engineer,High School,31,39551.0,26381,Yes,65932.0
+1423,Emp_423,Finance,Female,Manager,Bachelors,59,39381.0,22274,No,61655.0
+1424,Emp_424,Operations,Male,Engineer,Masters,48,75673.0,18858,No,94531.0
+1425,Emp_425,Hr,Female,Manager,Phd,42,42948.0,27304,No,70252.0
+1426,Emp_426,Sales,Male,Consultant,Bachelors,29,112264.0,22572,No,134836.0
+1427,Emp_427,Finance,Male,Executive,High School,22,79072.0,10644,No,89716.0
+1428,Emp_428,Operations,Male,Consultant,High School,49,87560.0,22124,Yes,109684.0
+1429,Emp_429,Operations,Female,Consultant,Masters,35,102249.0,22753,No,125002.0
+1430,Emp_430,It,,Engineer,Phd,42,22486.0,23384,,45870.0
+1431,Emp_431,Sales,Male,Executive,Masters,51,86691.0,22855,No,109546.0
+1432,Emp_432,Marketing,Male,Manager,Phd,42,30082.0,22920,No,53002.0
+1433,Emp_433,Hr,Male,Manager,Phd,30,104105.0,21702,No,125807.0
+1434,Emp_434,Marketing,Male,Analyst,Masters,38,27086.0,10153,No,37239.0
+1435,Emp_435,Sales,Male,Manager,Bachelors,26,87853.0,6894,Yes,94747.0
+1436,Emp_436,Sales,Female,Engineer,Masters,52,90027.0,12991,No,103018.0
+1437,Emp_437,Sales,Male,Consultant,Masters,59,35916.0,20439,Yes,56355.0
+1438,Emp_438,Marketing,Female,Consultant,High School,40,35248.0,14467,No,49715.0
+1439,Emp_439,Sales,,Consultant,High School,57,88047.0,29976,No,118023.0
+1440,Emp_440,Operations,Female,Executive,Masters,54,44226.0,10935,No,55161.0
+1441,Emp_441,Marketing,Female,Manager,Masters,34,45025.0,22107,No,67132.0
+1442,Emp_442,Sales,Female,Engineer,High School,35,68380.0,7329,No,75709.0
+1443,Emp_443,Operations,Female,Executive,Phd,54,27848.0,14327,No,42175.0
+1444,Emp_444,It,Female,Analyst,Masters,50,34274.0,7770,Yes,42044.0
+1445,Emp_445,Sales,Female,Engineer,Bachelors,57,74545.0,28929,No,103474.0
+1446,Emp_446,Marketing,Male,Engineer,Bachelors,31,116494.0,9846,No,126340.0
+1447,Emp_447,Finance,Female,Engineer,Bachelors,52,55233.0,21651,Yes,76884.0
+1448,Emp_448,Sales,Male,Consultant,Masters,27,36304.0,21276,No,57580.0
+1449,Emp_449,Finance,Female,Engineer,Phd,22,31294.0,19633,No,50927.0
+1450,Emp_450,Operations,Female,Manager,Phd,28,46425.0,18628,No,65053.0
+1451,Emp_451,It,Male,Engineer,High School,48,88711.0,5569,No,94280.0
+1452,Emp_452,Hr,Female,Consultant,Masters,42,113311.0,6973,No,120284.0
+1453,Emp_453,It,Male,Engineer,Phd,49,29425.0,7822,No,37247.0
+1454,Emp_454,Sales,Male,Analyst,Masters,37,111549.0,25844,No,137393.0
+1455,Emp_455,Finance,,Analyst,High School,44,113464.0,5270,No,118734.0
+1456,Emp_456,Finance,Male,Consultant,High School,41,64990.0,21320,Yes,86310.0
+1458,Emp_458,Finance,Female,Manager,Bachelors,46,88295.0,13930,No,102225.0
+1459,Emp_459,Marketing,Male,Executive,Masters,49,36091.0,11680,No,47771.0
+1460,Emp_460,Operations,Female,Consultant,High School,26,20002.0,6257,Yes,26259.0
+1461,Emp_461,Hr,Female,Engineer,Masters,42,70411.0,13250,No,83661.0
+1462,Emp_462,Sales,Male,Consultant,Bachelors,39,60958.0,10370,Yes,71328.0
+1463,Emp_463,Marketing,Female,Executive,Bachelors,27,115696.0,9858,No,125554.0
+1464,Emp_464,Hr,Male,Consultant,High School,50,40707.0,13581,Yes,54288.0
+1465,Emp_465,Finance,Male,Consultant,High School,40,35248.0,18491,No,53739.0
+1467,Emp_467,Hr,Female,Manager,Masters,22,98322.0,17436,Yes,115758.0
+1468,Emp_468,Finance,Female,Engineer,High School,24,71720.0,17870,No,89590.0
+1469,Emp_469,Operations,Male,Executive,Phd,42,35037.0,21504,No,56541.0
+1470,Emp_470,Operations,Male,Analyst,Masters,56,87421.0,11908,No,99329.0
+1471,Emp_471,Hr,,Manager,High School,24,101867.0,15844,Yes,117711.0
+1472,Emp_472,Marketing,Female,Analyst,Phd,46,60612.0,23687,No,84299.0
+1473,Emp_473,Marketing,Female,Manager,Phd,59,108031.0,9861,No,117892.0
+1474,Emp_474,Hr,Female,Engineer,Masters,41,33450.0,7911,No,41361.0
+1475,Emp_475,Marketing,Male,Engineer,Phd,55,29491.0,13991,Yes,43482.0
+1476,Emp_476,Marketing,Female,Consultant,Masters,42,94804.0,16572,No,111376.0
+1477,Emp_477,Operations,Male,Analyst,Masters,44,113293.0,15298,No,128591.0
+1478,Emp_478,Marketing,Male,Manager,Masters,27,26791.0,12236,No,39027.0
+1479,Emp_479,It,Female,Engineer,Bachelors,34,48314.0,10565,No,58879.0
+1480,Emp_480,Sales,Female,Executive,Phd,44,71883.0,27915,No,99798.0
+1481,Emp_481,Finance,,Engineer,Masters,30,114119.0,22493,No,136612.0
+1482,Emp_482,It,Male,Executive,High School,38,107086.0,11929,No,119015.0
+1483,Emp_483,Marketing,Female,Manager,Bachelors,23,85629.0,22634,No,108263.0
+1484,Emp_484,Operations,Female,Engineer,Bachelors,40,29967.0,29561,No,59528.0
+1485,Emp_485,Hr,Male,Engineer,Phd,40,101754.0,23033,No,124787.0
+1487,Emp_487,Operations,Male,Engineer,Phd,41,94163.0,27295,No,121458.0
+1488,Emp_488,Unknown,Female,Executive,Bachelors,30,24947.0,24340,,49287.0
+1489,Emp_489,Marketing,Male,Engineer,Masters,38,59419.0,19901,No,79320.0
+1490,Emp_490,Hr,Female,Analyst,High School,48,76131.0,15638,No,91769.0
+1491,Emp_491,Operations,Female,Consultant,Masters,23,108714.0,10828,No,119542.0
+1492,Emp_492,Operations,Male,Executive,Bachelors,57,48876.0,26378,No,75254.0
+1493,Emp_493,Operations,Male,Analyst,High School,40,108444.0,16556,No,125000.0
+1494,Emp_494,Sales,Female,Manager,Masters,38,39971.0,27820,No,67791.0
+1495,Emp_495,Marketing,Male,Executive,High School,26,82539.0,28998,No,111537.0
+1496,Emp_496,Sales,Male,Consultant,High School,39,118120.0,23099,No,141219.0
+1497,Emp_497,Finance,,Consultant,Bachelors,28,69228.0,13150,No,82378.0
+1498,Emp_498,Unknown,Male,Manager,High School,38,94495.0,15107,No,109602.0
+1499,Emp_499,Marketing,Female,Manager,Phd,57,48261.0,24867,No,73128.0
+1500,Emp_500,Sales,Female,Executive,Bachelors,25,81260.0,29059,No,110319.0
+1501,Emp_501,Hr,Male,Engineer,Phd,59,101371.0,6757,No,108128.0
+1502,Emp_502,Operations,Male,Manager,High School,46,104793.0,23193,No,127986.0
+1503,Emp_503,Operations,Male,Engineer,Phd,26,23346.0,26923,Yes,50269.0
+1504,Emp_504,Marketing,Male,Analyst,Masters,51,116343.0,27432,Yes,143775.0
+1505,Emp_505,Finance,Female,Consultant,High School,33,115954.0,16199,No,132153.0
+1506,Emp_506,Finance,Female,Engineer,Masters,25,76176.0,21295,No,97471.0
+1507,Emp_507,Operations,Male,Consultant,Phd,45,72300.0,17807,Yes,90107.0
+1508,Emp_508,Marketing,Male,Engineer,Masters,50,31340.0,22535,No,53875.0
+1509,Emp_509,Sales,Male,Analyst,High School,30,53012.0,10492,No,63504.0
+1510,Emp_510,Finance,Female,Manager,Masters,25,55393.0,28095,No,83488.0
+1511,Emp_511,Sales,Male,Analyst,Phd,45,95133.0,11302,No,106435.0
+1512,Emp_512,Finance,Female,Manager,Phd,35,45557.0,20929,No,66486.0
+1514,Emp_514,It,Female,Consultant,High School,39,93273.0,19238,No,112511.0
+1515,Emp_515,Finance,Male,Analyst,Phd,40,37276.0,13402,No,50678.0
+1516,Emp_516,Hr,Female,Engineer,High School,33,74639.0,15686,No,90325.0
+1517,Emp_517,Marketing,Male,Analyst,Masters,39,27310.0,9681,No,36991.0
+1518,Emp_518,Marketing,Male,Consultant,Phd,38,55167.0,23891,No,79058.0
+1519,Emp_519,Sales,Male,Manager,Masters,51,104880.0,24347,Yes,129227.0
+1520,Emp_520,Finance,Female,Consultant,Bachelors,45,30391.0,8428,No,38819.0
+1521,Emp_521,Hr,Male,Executive,Masters,32,70621.0,12494,No,83115.0
+1522,Emp_522,Sales,Female,Executive,Bachelors,56,30892.0,8955,No,39847.0
+1523,Emp_523,It,,Engineer,Masters,44,96733.0,25089,No,121822.0
+1524,Emp_524,Sales,Male,Consultant,High School,38,98586.0,19026,Yes,117612.0
+1525,Emp_525,Sales,Male,Engineer,Masters,22,56142.0,25422,No,81564.0
+1526,Emp_526,Finance,Male,Engineer,High School,36,65679.0,14244,Yes,79923.0
+1527,Emp_527,It,Female,Executive,High School,53,61615.0,5713,No,67328.0
+1528,Emp_528,Sales,Male,Engineer,Phd,30,67553.0,28644,Yes,96197.0
+1529,Emp_529,Hr,Female,Executive,High School,36,99071.0,16080,No,115151.0
+1530,Emp_530,Hr,Female,Manager,Bachelors,49,61002.0,28395,Yes,89397.0
+1531,Emp_531,Marketing,Male,Consultant,Phd,45,90658.0,13521,Yes,104179.0
+1532,Emp_532,It,Male,Engineer,Phd,56,29852.0,6746,No,36598.0
+1533,Emp_533,It,Male,Executive,Masters,43,25387.0,22591,No,47978.0
+1534,Emp_534,Marketing,Male,Analyst,High School,48,117295.0,22168,Yes,139463.0
+1535,Emp_535,Unknown,Male,Engineer,High School,40,59994.0,7696,Yes,67690.0
+1536,Emp_536,It,Male,Manager,Bachelors,33,53725.0,17012,Yes,70737.0
+1537,Emp_537,Hr,Female,Manager,Masters,41,92682.0,19688,No,112370.0
+1538,Emp_538,Hr,Female,Analyst,Masters,22,20560.0,28457,No,49017.0
+1539,Emp_539,Finance,Female,Executive,Phd,42,76565.0,10036,Yes,86601.0
+1540,Emp_540,Hr,Male,Engineer,Phd,22,21312.0,12127,No,33439.0
+1541,Emp_541,Sales,Female,Executive,Phd,31,38205.0,8718,No,46923.0
+1542,Emp_542,Marketing,Female,Manager,Bachelors,53,31595.0,27159,No,58754.0
+1543,Emp_543,Marketing,Female,Executive,Bachelors,43,107566.0,12910,No,120476.0
+1545,Emp_545,Operations,Female,Executive,Masters,53,88187.0,22009,Yes,110196.0
+1546,Emp_546,Finance,Male,Analyst,Bachelors,48,95542.0,20858,No,116400.0
+1547,Emp_547,Marketing,Male,Consultant,Masters,49,55645.0,25092,No,80737.0
+1549,Emp_549,Finance,Female,Analyst,High School,50,113382.0,20932,No,134314.0
+1550,Emp_550,It,Female,Consultant,Phd,39,107310.0,12692,No,120002.0
+1551,Emp_551,Hr,Male,Consultant,High School,29,89619.0,11398,No,101017.0
+1552,Emp_552,Finance,Male,Engineer,Phd,52,53513.0,12252,No,65765.0
+1553,Emp_553,Marketing,Female,Engineer,Phd,55,28749.0,16721,No,45470.0
+1554,Emp_554,Unknown,Male,Analyst,Masters,28,50783.0,22939,No,73722.0
+1555,Emp_555,Finance,Male,Analyst,Phd,57,80645.0,16825,Yes,97470.0
+1556,Emp_556,Finance,Female,Manager,Masters,39,102861.0,9187,No,112048.0
+1557,Emp_557,Operations,Male,Manager,Masters,59,73175.0,29151,No,102326.0
+1558,Emp_558,It,Male,Engineer,Phd,30,104216.0,5036,Yes,109252.0
+1559,Emp_559,It,Female,Engineer,Masters,30,82709.0,23171,Yes,105880.0
+1560,Emp_560,Hr,Male,Manager,Masters,29,37323.0,11283,No,48606.0
+1561,Emp_561,Sales,Male,Manager,Masters,56,70762.0,20202,No,90964.0
+1562,Emp_562,Finance,Female,Executive,Bachelors,39,108220.0,13060,No,121280.0
+1563,Emp_563,Marketing,Male,Executive,Masters,26,84222.0,13065,Yes,97287.0
+1564,Emp_564,Finance,Male,Manager,Bachelors,35,54493.0,8880,No,63373.0
+1565,Emp_565,Marketing,Female,Executive,Bachelors,49,78328.0,10932,No,89260.0
+1566,Emp_566,It,Female,Consultant,Masters,51,32213.0,13328,No,45541.0
+1567,Emp_567,Marketing,Female,Engineer,Masters,25,117367.0,11333,No,128700.0
+1568,Emp_568,Sales,Male,Engineer,Bachelors,41,66930.0,27143,No,94073.0
+1569,Emp_569,Hr,Female,Manager,Bachelors,46,47713.0,27869,No,75582.0
+1570,Emp_570,Marketing,Male,Analyst,Masters,49,92723.0,18870,No,111593.0
+1571,Emp_571,Marketing,Female,Manager,Masters,33,118336.0,16268,No,134604.0
+1572,Emp_572,Hr,Male,Executive,Phd,23,52583.0,10067,No,62650.0
+1573,Emp_573,Sales,Female,Analyst,Bachelors,35,99944.0,20616,No,120560.0
+1574,Emp_574,Finance,Female,Executive,Bachelors,43,42369.0,17075,No,59444.0
+1575,Emp_575,Marketing,Female,Consultant,Phd,52,67928.0,22045,No,89973.0
+1576,Emp_576,Hr,Female,Executive,Bachelors,44,88950.0,12973,Yes,101923.0
+1577,Emp_577,It,Male,Consultant,High School,41,39510.0,27770,No,67280.0
+1578,Emp_578,Hr,Female,Consultant,Bachelors,59,32120.0,15002,No,47122.0
+1579,Emp_579,It,Female,Executive,Phd,25,119847.0,12887,No,132734.0
+1580,Emp_580,Sales,Male,Executive,High School,36,118575.0,5414,No,123989.0
+1581,Emp_581,Finance,Female,Consultant,Masters,45,25295.0,11850,Yes,37145.0
+1582,Emp_582,Hr,Male,Analyst,Phd,46,40460.0,29918,Yes,70378.0
+1583,Emp_583,Operations,Female,Consultant,Phd,22,34963.0,7729,No,42692.0
+1584,Emp_584,Marketing,Female,Engineer,Masters,28,97116.0,16929,No,114045.0
+1585,Emp_585,Sales,Female,Consultant,Phd,52,107822.0,19988,Yes,127810.0
+1586,Emp_586,Hr,Male,Analyst,Bachelors,33,47328.0,8897,No,56225.0
+1587,Emp_587,Marketing,Female,Engineer,Masters,26,104629.0,7169,No,111798.0
+1588,Emp_588,Hr,Female,Manager,Phd,59,41605.0,18563,No,60168.0
+1589,Emp_589,It,Female,Manager,Masters,33,64813.0,23262,No,88075.0
+1590,Emp_590,Hr,Male,Analyst,Masters,39,66371.0,27838,No,94209.0
+1591,Emp_591,Operations,Male,Consultant,Masters,23,67598.0,17888,No,85486.0
+1592,Emp_592,Hr,Female,Executive,High School,31,80776.0,9570,No,90346.0
+1593,Emp_593,Hr,Male,Analyst,Phd,36,92258.0,6515,Yes,98773.0
+1594,Emp_594,Operations,Female,Engineer,High School,51,60969.0,21958,No,82927.0
+1595,Emp_595,Sales,Female,Engineer,Phd,38,56912.0,17634,Yes,74546.0
+1596,Emp_596,Hr,Female,Manager,Bachelors,25,58374.0,24251,Yes,82625.0
+1597,Emp_597,Operations,Female,Engineer,Bachelors,28,92302.0,18798,No,111100.0
+1598,Emp_598,Marketing,Female,Analyst,Bachelors,52,82784.0,24928,No,107712.0
+1599,Emp_599,It,Female,Engineer,Phd,55,69882.0,9477,No,79359.0
+1600,Emp_600,It,Female,Analyst,Masters,27,35928.0,21455,No,57383.0
+1601,Emp_601,Hr,Male,Executive,Masters,59,41274.0,24364,No,65638.0
+1602,Emp_602,Sales,Male,Manager,High School,55,54416.0,26876,No,81292.0
+1603,Emp_603,Sales,Male,Engineer,High School,36,106148.0,14551,No,120699.0
+1604,Emp_604,Marketing,Male,Analyst,Bachelors,35,80998.0,26143,No,107141.0
+1605,Emp_605,Hr,Male,Consultant,High School,27,49047.0,29468,Yes,78515.0
+1606,Emp_606,It,Male,Manager,Phd,58,63356.0,19179,No,82535.0
+1607,Emp_607,Sales,Male,Executive,Phd,53,57134.0,5039,No,62173.0
+1608,Emp_608,Hr,Female,Analyst,High School,24,87042.0,15222,No,102264.0
+1609,Emp_609,Sales,Female,Executive,High School,24,71310.0,26757,No,98067.0
+1610,Emp_610,Operations,Female,Executive,High School,43,100758.0,28949,,129707.0
+1611,Emp_611,Sales,Female,Engineer,High School,43,32363.0,21116,No,53479.0
+1612,Emp_612,It,Male,Engineer,Bachelors,31,105149.0,23284,No,128433.0
+1613,Emp_613,Finance,Male,Analyst,Bachelors,24,64563.0,23601,No,88164.0
+1614,Emp_614,Marketing,Female,Consultant,High School,33,50628.0,21049,,71677.0
+1615,Emp_615,Marketing,Female,Analyst,Phd,50,89672.0,9796,No,99468.0
+1616,Emp_616,It,Male,Consultant,Bachelors,38,66246.0,9606,No,75852.0
+1617,Emp_617,Sales,Female,Executive,Phd,28,31161.0,22667,No,53828.0
+1618,Emp_618,Hr,Female,Manager,Masters,34,109110.0,13775,No,122885.0
+1619,Emp_619,Sales,Female,Analyst,Phd,23,112438.0,19864,No,132302.0
+1620,Emp_620,It,Female,Analyst,High School,25,22810.0,19193,Yes,42003.0
+1621,Emp_621,Marketing,Male,Consultant,Masters,31,79860.0,19676,No,99536.0
+1622,Emp_622,Sales,Female,Executive,Bachelors,45,97199.0,15457,No,112656.0
+1623,Emp_623,Marketing,Female,Executive,Bachelors,38,91688.0,22199,No,113887.0
+1624,Emp_624,Hr,Male,Consultant,Masters,27,85548.0,21044,No,106592.0
+1625,Emp_625,Marketing,Male,Executive,Phd,40,82363.0,20066,No,102429.0
+1626,Emp_626,Marketing,Female,Engineer,Bachelors,26,31162.0,23895,No,55057.0
+1627,Emp_627,Finance,Male,Manager,High School,53,107858.0,5246,No,113104.0
+1628,Emp_628,Finance,Female,Analyst,Masters,31,93535.0,26209,No,119744.0
+1630,Emp_630,Finance,Male,Analyst,Masters,48,90864.0,21800,No,112664.0
+1631,Emp_631,Marketing,Female,Engineer,Bachelors,34,23621.0,18342,No,41963.0
+1632,Emp_632,It,Female,Executive,Phd,40,109792.0,28086,No,137878.0
+1633,Emp_633,Marketing,Female,Consultant,Masters,42,64433.0,25101,No,89534.0
+1634,Emp_634,It,Female,Engineer,Masters,45,96850.0,21491,Yes,118341.0
+1635,Emp_635,It,Male,Manager,High School,59,86188.0,14030,No,100218.0
+1636,Emp_636,Finance,Male,Consultant,Bachelors,25,74951.0,25897,No,100848.0
+1637,Emp_637,Sales,Female,Executive,High School,45,101718.0,6421,No,108139.0
+1638,Emp_638,Hr,Male,Engineer,Bachelors,56,56558.0,17970,No,74528.0
+1639,Emp_639,Finance,Female,Consultant,High School,24,35659.0,12283,No,47942.0
+1640,Emp_640,Finance,Female,Engineer,Masters,25,54413.0,20945,No,75358.0
+1641,Emp_641,Sales,Female,Engineer,High School,58,30435.0,5255,No,35690.0
+1642,Emp_642,Hr,Female,Executive,Phd,56,73911.0,28632,No,102543.0
+1643,Emp_643,Marketing,Female,Analyst,Bachelors,52,48067.0,16019,No,64086.0
+1644,Emp_644,Operations,Male,Consultant,Bachelors,46,107794.0,20487,No,128281.0
+1645,Emp_645,Operations,Female,Executive,Masters,34,113823.0,14029,No,127852.0
+1646,Emp_646,Marketing,Male,Engineer,Bachelors,25,89224.0,24346,No,113570.0
+1647,Emp_647,Finance,Male,Executive,Phd,35,93225.0,7282,No,100507.0
+1648,Emp_648,Hr,Female,Analyst,High School,34,21379.0,13744,No,35123.0
+1649,Emp_649,Finance,Female,Consultant,Masters,48,47624.0,29756,No,77380.0
+1650,Emp_650,It,Female,Analyst,Phd,27,111500.0,22861,No,134361.0
+1651,Emp_651,Finance,Female,Manager,Bachelors,38,108427.0,26336,No,134763.0
+1652,Emp_652,Finance,Female,Consultant,Bachelors,57,77745.0,27264,No,105009.0
+1653,Emp_653,Unknown,Male,Analyst,Phd,56,71805.0,14919,No,86724.0
+1654,Emp_654,Marketing,Female,Engineer,High School,38,32516.0,18335,No,50851.0
+1655,Emp_655,Marketing,Female,Consultant,High School,23,99422.0,26976,No,126398.0
+1656,Emp_656,Operations,Male,Consultant,Masters,34,105843.0,28475,No,134318.0
+1657,Emp_657,It,Male,Executive,Bachelors,23,44843.0,5591,Yes,50434.0
+1658,Emp_658,Marketing,Female,Engineer,Phd,49,25912.0,11277,Yes,37189.0
+1659,Emp_659,Hr,Male,Manager,High School,47,41514.0,7260,No,48774.0
+1660,Emp_660,Operations,Female,Analyst,Masters,43,107359.0,16139,No,123498.0
+1661,Emp_661,Sales,Male,Executive,Bachelors,24,77032.0,5347,Yes,82379.0
+1662,Emp_662,Hr,Male,Analyst,Bachelors,56,48797.0,29741,No,78538.0
+1663,Emp_663,Hr,Female,Manager,Masters,33,26449.0,26416,No,52865.0
+1664,Emp_664,Marketing,Male,Manager,Masters,45,21725.0,9443,No,31168.0
+1665,Emp_665,Sales,Male,Consultant,High School,26,101406.0,16088,No,117494.0
+1666,Emp_666,Sales,Male,Manager,Phd,41,29304.0,13774,No,43078.0
+1667,Emp_667,Operations,Male,Analyst,Bachelors,34,93058.0,11869,No,104927.0
+1668,Emp_668,Sales,Male,Engineer,Phd,33,33663.0,27080,Yes,60743.0
+1669,Emp_669,It,Male,Engineer,Bachelors,34,90320.0,24422,No,114742.0
+1670,Emp_670,Marketing,,Consultant,Bachelors,31,95008.0,7845,No,102853.0
+1671,Emp_671,Sales,Female,Analyst,Phd,54,114488.0,29248,No,143736.0
+1672,Emp_672,Operations,Male,Analyst,Masters,37,95591.0,27993,No,123584.0
+1673,Emp_673,It,Female,Manager,High School,56,115044.0,17386,No,132430.0
+1674,Emp_674,Unknown,Female,Analyst,Bachelors,24,32676.0,6265,No,38941.0
+1675,Emp_675,Finance,Female,Executive,Masters,26,45192.0,17445,No,62637.0
+1676,Emp_676,It,Male,Manager,Bachelors,47,44722.0,17938,No,62660.0
+1677,Emp_677,Operations,Female,Executive,High School,32,27446.0,16159,No,43605.0
+1678,Emp_678,It,Male,Consultant,Bachelors,28,24725.0,7274,No,31999.0
+1679,Emp_679,Marketing,Female,Engineer,High School,31,105597.0,23854,No,129451.0
+1680,Emp_680,Marketing,Male,Consultant,High School,55,108207.0,15482,No,123689.0
+1681,Emp_681,Finance,Male,Engineer,Bachelors,24,77632.0,23961,No,101593.0
+1682,Emp_682,Sales,Female,Consultant,Bachelors,29,86945.0,25044,No,111989.0
+1683,Emp_683,Operations,Female,Analyst,High School,52,93741.0,6068,No,99809.0
+1684,Emp_684,Finance,Male,Executive,Masters,32,36365.0,26975,Yes,63340.0
+1685,Emp_685,Sales,Female,Engineer,Phd,28,85792.0,19706,No,105498.0
+1686,Emp_686,Sales,Female,Manager,High School,23,84857.0,10974,No,95831.0
+1687,Emp_687,Marketing,Female,Executive,Bachelors,27,35704.0,15928,Yes,51632.0
+1688,Emp_688,Hr,Male,Manager,Bachelors,53,70575.0,26213,Yes,96788.0
+1689,Emp_689,Unknown,Male,Executive,Masters,41,49902.0,6950,No,56852.0
+1690,Emp_690,It,Female,Executive,Phd,55,21195.0,29667,Yes,50862.0
+1691,Emp_691,Marketing,Female,Consultant,High School,37,73517.0,24477,Yes,97994.0
+1692,Emp_692,Sales,Female,Engineer,High School,46,54012.0,15411,No,69423.0
+1693,Emp_693,Operations,Male,Engineer,Phd,33,31415.0,26695,Yes,58110.0
+1694,Emp_694,Hr,Male,Executive,High School,28,59534.0,18388,No,77922.0
+1695,Emp_695,Sales,Female,Analyst,Phd,38,41686.0,22771,No,64457.0
+1696,Emp_696,Hr,Female,Analyst,Bachelors,32,97198.0,9274,No,106472.0
+1697,Emp_697,Hr,Female,Manager,Phd,27,48743.0,7285,No,56028.0
+1698,Emp_698,Hr,Female,Manager,High School,44,52161.0,24590,No,76751.0
+1699,Emp_699,Operations,Female,Consultant,Phd,48,81313.0,24308,No,105621.0
+1700,Emp_700,Marketing,Female,Executive,Masters,27,22402.0,12045,No,34447.0
+1701,Emp_701,Operations,Male,Manager,Bachelors,59,83190.0,29855,No,113045.0
+1702,Emp_702,Finance,Female,Manager,Bachelors,23,72551.0,6618,No,79169.0
+1703,Emp_703,Sales,Male,Executive,Phd,43,33275.0,15979,No,49254.0
+1704,Emp_704,Marketing,Female,Consultant,High School,41,48182.0,13562,No,61744.0
+1705,Emp_705,Marketing,Female,Manager,Masters,46,34915.0,27280,No,62195.0
+1706,Emp_706,Marketing,Male,Consultant,Bachelors,36,20909.0,17026,No,37935.0
+1707,Emp_707,Marketing,Male,Engineer,Bachelors,50,85908.0,12843,No,98751.0
+1708,Emp_708,Operations,Male,Consultant,High School,29,42620.0,14895,No,57515.0
+1709,Emp_709,Marketing,Male,Analyst,High School,58,54112.0,28447,No,82559.0
+1710,Emp_710,It,Female,Analyst,Masters,54,94051.0,29879,Yes,123930.0
+1711,Emp_711,Sales,Male,Consultant,Phd,43,22431.0,16966,No,39397.0
+1712,Emp_712,Marketing,Female,Analyst,High School,26,106590.0,22732,No,129322.0
+1713,Emp_713,Sales,Male,Engineer,Phd,39,82175.0,26940,No,109115.0
+1714,Emp_714,It,Female,Executive,Masters,59,52624.0,10289,Yes,62913.0
+1715,Emp_715,It,Female,Analyst,Phd,58,96121.0,23806,No,119927.0
+1716,Emp_716,Sales,Female,Analyst,Bachelors,51,81264.0,25012,No,106276.0
+1717,Emp_717,Hr,Female,Consultant,Phd,52,51958.0,23812,No,75770.0
+1718,Emp_718,Finance,Female,Engineer,Masters,31,21695.0,8033,No,29728.0
+1720,Emp_720,Unknown,Male,Consultant,Masters,39,119323.0,13860,No,133183.0
+1721,Emp_721,Operations,Female,Consultant,Phd,44,64225.0,12813,No,77038.0
+1722,Emp_722,Hr,Male,Engineer,Bachelors,54,21403.0,22798,No,44201.0
+1723,Emp_723,Marketing,Male,Executive,High School,37,103346.0,18860,No,122206.0
+1725,Emp_725,Operations,Male,Executive,Phd,56,58636.0,19294,No,77930.0
+1726,Emp_726,It,Female,Engineer,Phd,55,30839.0,28019,Yes,58858.0
+1727,Emp_727,Hr,Male,Consultant,High School,49,85546.0,8621,No,94167.0
+1728,Emp_728,Unknown,Female,Consultant,Phd,23,67829.0,26699,No,94528.0
+1729,Emp_729,Sales,Male,Manager,Masters,51,29230.0,22138,No,51368.0
+1730,Emp_730,Finance,Female,Analyst,Masters,34,71977.0,7347,No,79324.0
+1731,Emp_731,Operations,Female,Engineer,Masters,37,60232.0,19882,No,80114.0
+1733,Emp_733,Sales,Female,Analyst,Masters,49,45651.0,9923,No,55574.0
+1734,Emp_734,Unknown,Male,Engineer,Phd,41,117919.0,24033,No,141952.0
+1735,Emp_735,Finance,Female,Executive,High School,45,59963.0,20611,No,80574.0
+1736,Emp_736,Sales,Male,Analyst,High School,48,75872.0,20367,Yes,96239.0
+1738,Emp_738,Finance,Male,Manager,Phd,48,33739.0,14066,No,47805.0
+1739,Emp_739,Finance,Female,Analyst,Bachelors,47,83294.0,8279,No,91573.0
+1740,Emp_740,Sales,Male,Analyst,Bachelors,28,68356.0,24368,No,92724.0
+1741,Emp_741,Finance,Male,Consultant,Phd,59,21789.0,8807,No,30596.0
+1742,Emp_742,Sales,Male,Engineer,Masters,26,39420.0,29260,Yes,68680.0
+1744,Emp_744,Marketing,Female,Consultant,Phd,49,57606.0,18965,No,76571.0
+1745,Emp_745,Hr,Male,Executive,Bachelors,55,58640.0,21123,No,79763.0
+1746,Emp_746,Sales,Female,Engineer,Bachelors,36,64135.0,21991,No,86126.0
+1747,Emp_747,It,Female,Analyst,Bachelors,53,57067.0,27553,No,84620.0
+1748,Emp_748,Operations,Male,Executive,Masters,47,78420.0,29174,Yes,107594.0
+1749,Emp_749,Hr,Male,Manager,Bachelors,52,37357.0,26957,No,64314.0
+1750,Emp_750,Hr,Female,Manager,Phd,40,59851.0,5634,No,65485.0
+1751,Emp_751,Hr,Male,Consultant,Phd,30,58262.0,17771,No,76033.0
+1752,Emp_752,Marketing,Female,Engineer,Bachelors,50,96853.0,22458,No,119311.0
+1753,Emp_753,Sales,Female,Consultant,Phd,25,78643.0,23298,No,101941.0
+1754,Emp_754,Marketing,Female,Consultant,Bachelors,24,41534.0,19340,No,60874.0
+1755,Emp_755,Sales,Female,Consultant,Bachelors,50,111270.0,5588,Yes,116858.0
+1756,Emp_756,Marketing,Female,Manager,High School,32,52872.0,8231,No,61103.0
+1757,Emp_757,Marketing,Female,Manager,Masters,54,27689.0,11351,No,39040.0
+1758,Emp_758,Operations,Male,Consultant,Masters,59,89103.0,8838,No,97941.0
+1759,Emp_759,It,Male,Manager,High School,32,106268.0,6973,No,113241.0
+1760,Emp_760,Marketing,Female,Engineer,High School,48,106310.0,19346,Yes,125656.0
+1761,Emp_761,Operations,Female,Consultant,Masters,54,108731.0,10044,No,118775.0
+1762,Emp_762,Finance,Female,Manager,Bachelors,42,57412.0,15247,No,72659.0
+1763,Emp_763,It,Male,Executive,Bachelors,52,67734.0,16672,No,84406.0
+1764,Emp_764,Marketing,Female,Consultant,Masters,59,107793.0,15271,No,123064.0
+1765,Emp_765,Hr,Male,Consultant,Bachelors,23,89930.0,27487,No,117417.0
+1767,Emp_767,Finance,Female,Analyst,Bachelors,57,97924.0,27221,No,125145.0
+1768,Emp_768,Operations,Male,Analyst,Bachelors,32,31319.0,16244,No,47563.0
+1769,Emp_769,Finance,Male,Engineer,Phd,39,26475.0,11783,No,38258.0
+1770,Emp_770,It,Female,Engineer,Phd,22,117091.0,10594,Yes,127685.0
+1771,Emp_771,Marketing,Female,Engineer,Phd,56,103694.0,8822,Yes,112516.0
+1772,Emp_772,Marketing,Female,Analyst,Bachelors,56,34728.0,8389,No,43117.0
+1773,Emp_773,Hr,Male,Engineer,Masters,52,49545.0,10914,No,60459.0
+1774,Emp_774,Operations,Male,Manager,High School,49,116636.0,23164,No,139800.0
+1775,Emp_775,Hr,Male,Consultant,Bachelors,22,101686.0,8688,No,110374.0
+1776,Emp_776,Finance,Male,Consultant,Masters,46,118750.0,19683,No,138433.0
+1777,Emp_777,Hr,Male,Executive,Bachelors,59,118412.0,18080,No,136492.0
+1778,Emp_778,It,Male,Executive,High School,41,81756.0,14916,No,96672.0
+1779,Emp_779,Unknown,Female,Consultant,Bachelors,24,88775.0,28595,No,117370.0
+1780,Emp_780,Finance,Female,Manager,High School,23,58699.0,10037,No,68736.0
+1781,Emp_781,Hr,Male,Analyst,Bachelors,39,56821.0,18453,No,75274.0
+1782,Emp_782,Operations,Female,Analyst,High School,31,50615.0,27703,No,78318.0
+1783,Emp_783,It,Female,Manager,Bachelors,26,33746.0,13640,No,47386.0
+1784,Emp_784,It,Male,Analyst,High School,30,106457.0,5081,No,111538.0
+1785,Emp_785,Hr,Female,Engineer,Phd,23,42745.0,11278,No,54023.0
+1786,Emp_786,Marketing,Male,Consultant,Bachelors,55,21245.0,21078,No,42323.0
+1787,Emp_787,Hr,Male,Consultant,Bachelors,59,44853.0,28383,No,73236.0
+1788,Emp_788,Finance,Female,Manager,Masters,52,47632.0,20536,Yes,68168.0
+1789,Emp_789,Hr,Male,Analyst,Masters,31,32856.0,22790,No,55646.0
+1790,Emp_790,It,Male,Executive,High School,33,76893.0,12410,No,89303.0
+1791,Emp_791,Hr,Male,Executive,Bachelors,57,90641.0,20926,No,111567.0
+1792,Emp_792,Marketing,Male,Analyst,High School,42,88049.0,20500,Yes,108549.0
+1793,Emp_793,Operations,Male,Executive,Phd,27,78182.0,6480,No,84662.0
+1794,Emp_794,Sales,Male,Manager,Masters,24,22801.0,14271,Yes,37072.0
+1795,Emp_795,Hr,Male,Manager,High School,31,117881.0,8598,No,126479.0
+1796,Emp_796,Marketing,Male,Analyst,High School,26,99431.0,20032,No,119463.0
+1797,Emp_797,Marketing,Female,Executive,Masters,47,59749.0,12993,No,72742.0
+1798,Emp_798,Operations,Female,Manager,Bachelors,42,93757.0,25567,No,119324.0
+1799,Emp_799,It,Female,Manager,High School,47,75654.0,25064,No,100718.0
+1800,Emp_800,Marketing,,Engineer,Masters,59,91574.0,15895,No,107469.0
+1801,Emp_801,Marketing,Male,Engineer,Bachelors,47,117567.0,20367,Yes,137934.0
+1802,Emp_802,Marketing,Female,Manager,Phd,29,75381.0,12644,No,88025.0
+1803,Emp_803,Marketing,Female,Analyst,Masters,26,78601.0,25694,Yes,104295.0
+1804,Emp_804,Finance,Female,Consultant,High School,36,35082.0,16948,No,52030.0
+1805,Emp_805,Finance,Male,Consultant,Phd,37,34648.0,23142,No,57790.0
+1806,Emp_806,It,Female,Manager,Bachelors,22,20364.0,7599,No,27963.0
+1807,Emp_807,Hr,Female,Manager,Bachelors,37,54568.0,27000,No,81568.0
+1808,Emp_808,Marketing,Male,Manager,Masters,58,99646.0,10813,Yes,110459.0
+1809,Emp_809,Operations,Female,Analyst,Masters,24,91494.0,8853,No,100347.0
+1810,Emp_810,Hr,Male,Engineer,Masters,52,94632.0,23676,No,118308.0
+1811,Emp_811,Operations,Male,Manager,Bachelors,34,27436.0,6501,No,33937.0
+1812,Emp_812,Hr,Male,Manager,Phd,37,106713.0,13422,No,120135.0
+1813,Emp_813,It,Female,Executive,Bachelors,42,46754.0,12550,No,59304.0
+1814,Emp_814,Marketing,Female,Analyst,High School,23,80194.0,9250,,89444.0
+1815,Emp_815,Marketing,Male,Manager,Bachelors,48,44544.0,11991,No,56535.0
+1816,Emp_816,Sales,Fem,Executive,High School,59,80180.0,21498,No,101678.0
+1817,Emp_817,Unknown,Female,Consultant,Phd,47,83295.0,9406,,92701.0
+1818,Emp_818,Hr,Female,Manager,Masters,59,32638.0,23731,Yes,56369.0
+1819,Emp_819,Hr,Female,Manager,Masters,46,85715.0,6041,Yes,91756.0
+1820,Emp_820,Unknown,Male,Executive,Bachelors,32,89409.0,11927,No,101336.0
+1821,Emp_821,Sales,Female,Analyst,Masters,29,103106.0,21395,Yes,124501.0
+1822,Emp_822,Unknown,Male,Manager,Phd,29,37157.0,29364,,66521.0
+1823,Emp_823,Finance,Male,Consultant,Masters,54,65565.0,12871,No,78436.0
+1824,Emp_824,Finance,Female,Manager,Bachelors,28,89996.0,11375,No,101371.0
+1825,Emp_825,Operations,Male,Consultant,Phd,59,85888.0,28482,No,114370.0
+1826,Emp_826,Operations,Female,Engineer,High School,42,76095.0,8676,No,84771.0
+1827,Emp_827,It,Female,Engineer,Bachelors,29,84947.0,27493,Yes,112440.0
+1829,Emp_829,Finance,Male,Analyst,Phd,41,90880.0,26781,No,117661.0
+1830,Emp_830,Sales,Male,Manager,Bachelors,29,24507.0,8065,No,32572.0
+1831,Emp_831,Hr,Male,Manager,Bachelors,52,63988.0,7036,No,71024.0
+1832,Emp_832,Operations,Female,Engineer,Phd,50,118421.0,8046,Yes,126467.0
+1833,Emp_833,Sales,Female,Consultant,Masters,30,36865.0,21924,No,58789.0
+1834,Emp_834,Marketing,Female,Manager,Bachelors,36,47213.0,5076,Yes,52289.0
+1835,Emp_835,Operations,Male,Manager,Bachelors,51,75954.0,24451,Yes,100405.0
+1836,Emp_836,Operations,Male,Analyst,High School,47,77450.0,20880,No,98330.0
+1837,Emp_837,It,Male,Executive,Masters,31,24477.0,21407,No,45884.0
+1838,Emp_838,Hr,,Engineer,High School,50,82222.0,26518,No,108740.0
+1839,Emp_839,Hr,Male,Engineer,High School,37,26533.0,22059,No,48592.0
+1840,Emp_840,Marketing,Female,Executive,Masters,57,69395.0,28052,No,97447.0
+1841,Emp_841,Marketing,Male,Manager,Masters,41,43396.0,9267,No,52663.0
+1842,Emp_842,Operations,Female,Analyst,Phd,58,32755.0,10988,No,43743.0
+1843,Emp_843,Finance,Female,Analyst,Masters,43,20865.0,29036,No,49901.0
+1844,Emp_844,It,Male,Engineer,Bachelors,28,31173.0,13680,No,44853.0
+1845,Emp_845,It,Male,Analyst,Masters,44,78905.0,6485,No,85390.0
+1846,Emp_846,Operations,Female,Executive,Phd,50,58097.0,19713,No,77810.0
+1847,Emp_847,Sales,Female,Manager,Phd,37,53371.0,25043,No,78414.0
+1848,Emp_848,Finance,Male,Executive,Phd,59,31254.0,7419,No,38673.0
+1849,Emp_849,Operations,Male,Consultant,Masters,49,24018.0,29124,No,53142.0
+1850,Emp_850,Finance,Female,Engineer,Masters,59,25192.0,28527,No,53719.0
+1851,Emp_851,Finance,Male,Analyst,High School,52,22015.0,20312,No,42327.0
+1852,Emp_852,Finance,Female,Consultant,High School,35,88916.0,8495,No,97411.0
+1853,Emp_853,Operations,Female,Analyst,Bachelors,54,48343.0,22140,No,70483.0
+1854,Emp_854,It,Male,Manager,High School,30,89306.0,15716,No,105022.0
+1855,Emp_855,It,Male,Manager,Bachelors,48,25829.0,17442,No,43271.0
+1856,Emp_856,Finance,Male,Manager,Phd,45,54381.0,29832,No,84213.0
+1857,Emp_857,Sales,Male,Analyst,High School,34,101081.0,23163,No,124244.0
+1858,Emp_858,Hr,Male,Consultant,Masters,47,38263.0,17961,No,56224.0
+1859,Emp_859,Operations,Female,Manager,High School,50,73260.0,15307,Yes,88567.0
+1860,Emp_860,Hr,Female,Consultant,Bachelors,49,63306.0,11487,No,74793.0
+1861,Emp_861,Sales,Male,Analyst,High School,49,111211.0,14664,No,125875.0
+1862,Emp_862,Operations,Male,Consultant,Phd,29,78418.0,21360,No,99778.0
+1863,Emp_863,Finance,Male,Analyst,Masters,44,110898.0,21642,No,132540.0
+1864,Emp_864,It,Female,Analyst,Bachelors,50,20148.0,9075,No,29223.0
+1865,Emp_865,Hr,Male,Engineer,Masters,26,21754.0,29882,No,51636.0
+1866,Emp_866,Marketing,Male,Analyst,Masters,28,46745.0,29398,Yes,76143.0
+1867,Emp_867,Marketing,Female,Analyst,Bachelors,57,92914.0,22502,No,115416.0
+1868,Emp_868,Sales,Female,Executive,Masters,48,75833.0,20285,No,96118.0
+1869,Emp_869,Finance,Male,Manager,Masters,23,40140.0,12631,No,52771.0
+1870,Emp_870,Hr,Male,Engineer,High School,46,94907.0,8017,Yes,102924.0
+1871,Emp_871,Finance,Male,Engineer,Masters,30,80653.0,25725,No,106378.0
+1872,Emp_872,Hr,Female,Engineer,Masters,48,112535.0,23042,Yes,135577.0
+1873,Emp_873,Sales,Male,Executive,Masters,22,81521.0,29762,No,111283.0
+1874,Emp_874,Sales,Male,Analyst,Masters,44,98315.0,23181,Yes,121496.0
+1875,Emp_875,Marketing,Male,Manager,Bachelors,31,51075.0,5784,No,56859.0
+1876,Emp_876,Finance,Female,Consultant,Phd,46,50697.0,10691,No,61388.0
+1877,Emp_877,Operations,Female,Analyst,High School,24,74544.0,20765,No,95309.0
+1878,Emp_878,Marketing,Male,Executive,Masters,27,29795.0,8196,Yes,37991.0
+1879,Emp_879,Finance,Male,Analyst,Masters,27,84555.0,14552,No,99107.0
+1880,Emp_880,Marketing,Female,Analyst,Bachelors,23,72204.0,13532,Yes,85736.0
+1881,Emp_881,Operations,Female,Executive,Phd,39,89754.0,21946,No,111700.0
+1882,Emp_882,It,Female,Engineer,Masters,44,84860.0,9746,No,94606.0
+1883,Emp_883,It,Female,Engineer,Bachelors,23,71529.0,7999,No,79528.0
+1884,Emp_884,It,Female,Manager,High School,33,31672.0,22577,No,54249.0
+1885,Emp_885,It,Female,Manager,High School,43,74238.0,16302,Yes,90540.0
+1886,Emp_886,Hr,Female,Engineer,Masters,58,116578.0,21452,No,138030.0
+1887,Emp_887,It,Female,Consultant,Masters,41,55950.0,20595,No,76545.0
+1888,Emp_888,Operations,Female,Analyst,Phd,45,31009.0,27063,No,58072.0
+1889,Emp_889,Sales,Male,Consultant,Phd,41,67096.0,23812,No,90908.0
+1890,Emp_890,Sales,Male,Analyst,Masters,22,39544.0,11200,No,50744.0
+1891,Emp_891,Unknown,Male,Engineer,Bachelors,22,75728.0,10396,Yes,86124.0
+1892,Emp_892,It,Female,Manager,Phd,38,49381.0,28377,No,77758.0
+1893,Emp_893,It,Male,Manager,Masters,22,45287.0,18410,No,63697.0
+1894,Emp_894,It,Female,Consultant,Phd,51,84610.0,18203,No,102813.0
+1895,Emp_895,Marketing,Female,Manager,Masters,24,88122.0,8598,No,96720.0
+1896,Emp_896,Finance,Male,Engineer,High School,32,88184.0,15564,No,103748.0
+1897,Emp_897,Marketing,Female,Consultant,Masters,45,60081.0,17748,Yes,77829.0
+1898,Emp_898,Finance,Male,Analyst,High School,43,103637.0,21957,No,125594.0
+1899,Emp_899,It,Male,Manager,Phd,47,65312.0,25598,No,90910.0
+1900,Emp_900,It,Male,Executive,Masters,34,107228.0,12636,No,119864.0
+1901,Emp_901,Marketing,Female,Manager,Phd,22,92943.0,22862,No,115805.0
+1902,Emp_902,Marketing,Male,Analyst,High School,45,102790.0,15265,No,118055.0
+1903,Emp_903,Finance,Female,Consultant,Masters,31,100770.0,14705,No,115475.0
+1904,Emp_904,Sales,Male,Analyst,Phd,56,72726.0,27511,No,100237.0
+1906,Emp_906,Marketing,Male,Engineer,Phd,49,49480.0,28060,No,77540.0
+1907,Emp_907,Operations,Female,Manager,Bachelors,57,67780.0,23580,No,91360.0
+1908,Emp_908,Marketing,Female,Consultant,High School,37,77138.0,14703,No,91841.0
+1909,Emp_909,Sales,Female,Engineer,High School,37,110382.0,18336,No,128718.0
+1910,Emp_910,Hr,Male,Analyst,High School,38,62503.0,13166,No,75669.0
+1911,Emp_911,Marketing,Male,Consultant,Masters,36,77893.0,21116,Yes,99009.0
+1912,Emp_912,Hr,Female,Engineer,Masters,37,66193.0,11050,No,77243.0
+1913,Emp_913,Sales,Female,Consultant,Masters,36,81358.0,16184,No,97542.0
+1914,Emp_914,Finance,Female,Executive,Bachelors,55,100857.0,26034,No,126891.0
+1915,Emp_915,Operations,Female,Executive,Bachelors,32,98182.0,17712,No,115894.0
+1916,Emp_916,Finance,Female,Manager,High School,22,42117.0,13484,No,55601.0
+1917,Emp_917,Hr,Female,Manager,Bachelors,36,79056.0,25910,Yes,104966.0
+1918,Emp_918,Operations,Male,Executive,Phd,47,78706.0,25796,No,104502.0
+1919,Emp_919,Finance,Female,Consultant,High School,25,90429.0,26827,No,117256.0
+1920,Emp_920,Marketing,Male,Executive,High School,26,29476.0,7593,No,37069.0
+1921,Emp_921,It,Male,Manager,Phd,56,102806.0,15315,No,118121.0
+1922,Emp_922,Hr,Female,Executive,High School,34,75006.0,20200,No,95206.0
+1923,Emp_923,Finance,,Executive,Bachelors,31,107238.0,14107,No,121345.0
+1924,Emp_924,Hr,Male,Consultant,Masters,32,89918.0,28236,No,118154.0
+1925,Emp_925,Hr,Female,Engineer,Phd,39,83155.0,28013,No,111168.0
+1926,Emp_926,Operations,Female,Manager,Bachelors,55,87321.0,8869,No,96190.0
+1927,Emp_927,Operations,Male,Consultant,Phd,44,65798.0,20447,No,86245.0
+1928,Emp_928,It,Male,Executive,Phd,28,97271.0,12971,No,110242.0
+1929,Emp_929,Marketing,Male,Executive,High School,24,50177.0,29206,No,79383.0
+1930,Emp_930,Hr,Female,Engineer,High School,33,116248.0,7989,No,124237.0
+1931,Emp_931,Finance,Male,Manager,Bachelors,28,102215.0,28446,No,130661.0
+1932,Emp_932,Sales,Female,Manager,Phd,47,63013.0,10340,Yes,73353.0
+1933,Emp_933,Hr,Male,Analyst,High School,54,102600.0,14643,Yes,117243.0
+1934,Emp_934,Hr,Male,Manager,High School,58,116099.0,8823,Yes,124922.0
+1935,Emp_935,It,Male,Engineer,Phd,36,73450.0,18454,No,91904.0
+1936,Emp_936,Marketing,Female,Analyst,Bachelors,23,118628.0,8932,Yes,127560.0
+1937,Emp_937,Sales,Female,Analyst,Bachelors,28,67928.0,15220,Yes,83148.0
+1938,Emp_938,Operations,Male,Executive,Phd,53,112403.0,13554,No,125957.0
+1939,Emp_939,Operations,Male,Executive,Bachelors,25,65382.0,7429,No,72811.0
+1940,Emp_940,Finance,Male,Manager,High School,41,119290.0,12444,Yes,131734.0
+1941,Emp_941,Sales,Female,Analyst,Phd,57,105038.0,15510,No,120548.0
+1942,Emp_942,Operations,Male,Executive,High School,53,20760.0,16277,No,37037.0
+1943,Emp_943,Finance,Female,Engineer,Masters,49,44142.0,15537,No,59679.0
+1944,Emp_944,Marketing,Male,Executive,Masters,34,37290.0,12147,No,49437.0
+1945,Emp_945,Finance,Male,Executive,Bachelors,22,91035.0,12631,No,103666.0
+1946,Emp_946,Operations,Male,Analyst,Masters,56,20364.0,8598,No,28962.0
+1947,Emp_947,It,Male,Analyst,High School,51,76921.0,9329,No,86250.0
+1948,Emp_948,It,Male,Consultant,Masters,57,39797.0,11718,No,51515.0
+1949,Emp_949,It,Male,Engineer,High School,46,52535.0,14923,No,67458.0
+1950,Emp_950,Operations,Female,Analyst,Bachelors,37,66300.0,29602,No,95902.0
+1951,Emp_951,It,,Manager,Bachelors,40,67176.0,18782,No,85958.0
+1952,Emp_952,Sales,Female,Engineer,High School,22,36105.0,21476,No,57581.0
+1953,Emp_953,Marketing,,Engineer,Masters,26,27939.0,29884,No,57823.0
+1954,Emp_954,Finance,Male,Analyst,Bachelors,43,99472.0,5051,No,104523.0
+1955,Emp_955,Finance,Female,Engineer,Phd,45,62029.0,21702,No,83731.0
+1956,Emp_956,Operations,Male,Analyst,Bachelors,58,35863.0,15184,No,51047.0
+1957,Emp_957,It,Female,Executive,Masters,57,98097.0,17468,No,115565.0
+1958,Emp_958,It,Female,Consultant,Phd,57,30447.0,27072,No,57519.0
+1959,Emp_959,Hr,Male,Executive,Masters,25,116160.0,20479,No,136639.0
+1960,Emp_960,Marketing,Female,Analyst,High School,57,66940.0,28402,No,95342.0
+1961,Emp_961,Sales,Female,Analyst,Phd,39,97947.0,12210,No,110157.0
+1962,Emp_962,Finance,Male,Executive,Masters,37,105001.0,17934,No,122935.0
+1963,Emp_963,Hr,Female,Manager,Phd,39,39642.0,8956,No,48598.0
+1964,Emp_964,Hr,Male,Manager,Masters,43,116798.0,11057,Yes,127855.0
+1965,Emp_965,Operations,Male,Manager,Phd,23,115899.0,16210,No,132109.0
+1966,Emp_966,Finance,Male,Analyst,Masters,42,87643.0,19590,No,107233.0
+1967,Emp_967,Operations,Male,Engineer,High School,57,27928.0,28259,No,56187.0
+1968,Emp_968,Sales,Female,Analyst,Phd,50,68002.0,25815,No,93817.0
+1969,Emp_969,Hr,Male,Engineer,Phd,47,104853.0,18864,No,123717.0
+1970,Emp_970,Hr,Male,Executive,Phd,42,45017.0,6525,No,51542.0
+1971,Emp_971,Marketing,Female,Consultant,Phd,38,99064.0,18277,No,117341.0
+1972,Emp_972,Sales,Male,Engineer,High School,37,33313.0,12043,No,45356.0
+1973,Emp_973,Hr,Male,Manager,Phd,52,21559.0,22662,No,44221.0
+1974,Emp_974,Sales,Female,Analyst,Bachelors,30,70893.0,13705,No,84598.0
+1975,Emp_975,Finance,Female,Executive,High School,52,35167.0,11125,No,46292.0
+1976,Emp_976,It,Female,Manager,Bachelors,35,100879.0,12874,No,113753.0
+1977,Emp_977,Hr,Female,Executive,Phd,58,58598.0,17529,No,76127.0
+1978,Emp_978,Marketing,Female,Consultant,Masters,23,27523.0,28284,No,55807.0
+1979,Emp_979,Finance,Female,Analyst,Bachelors,35,69777.0,19955,No,89732.0
+1980,Emp_980,Sales,Female,Analyst,Phd,54,48439.0,7500,No,55939.0
+1981,Emp_981,Operations,Male,Consultant,Bachelors,56,101060.0,8464,No,109524.0
+1982,Emp_982,Finance,Female,Analyst,Phd,41,33285.0,23643,Yes,56928.0
+1983,Emp_983,Hr,Female,Engineer,Phd,23,30973.0,20954,No,51927.0
+1984,Emp_984,Sales,Female,Executive,Phd,40,42694.0,28880,No,71574.0
+1985,Emp_985,It,Male,Manager,Masters,58,55774.0,24043,Yes,79817.0
+1986,Emp_986,Finance,Male,Consultant,Bachelors,39,24302.0,5255,No,29557.0
+1987,Emp_987,Hr,Female,Engineer,High School,37,42391.0,6502,No,48893.0
+1988,Emp_988,Marketing,,Manager,High School,25,24611.0,9656,No,34267.0
+1989,Emp_989,Operations,Female,Manager,High School,33,29372.0,15302,No,44674.0
+1990,Emp_990,Sales,Male,Consultant,High School,50,44312.0,10430,No,54742.0
+1991,Emp_991,Finance,Male,Engineer,Phd,28,34080.0,13598,No,47678.0
+1992,Emp_992,Finance,Female,Manager,Bachelors,35,100618.0,24560,Yes,125178.0
+1994,Emp_994,It,Female,Engineer,Masters,56,40874.0,6860,Yes,47734.0
+1995,Emp_995,Marketing,Male,Analyst,Bachelors,26,82537.0,11158,No,93695.0
+1996,Emp_996,Operations,Male,Manager,Bachelors,38,93914.0,10806,No,104720.0
+1997,Emp_997,Marketing,Female,Executive,Bachelors,53,21597.0,25738,No,47335.0
+1998,Emp_998,Hr,Female,Engineer,Masters,31,31600.0,22106,No,53706.0
+1999,Emp_999,Hr,Female,Manager,High School,38,23747.0,28963,No,52710.0
+2000,Emp_1000,Marketing,Female,Consultant,Bachelors,26,99415.0,14474,No,113889.0
+2001,Emp_1001,Operations,Male,Executive,Masters,30,98553.0,21997,No,120550.0
+2002,Emp_1002,Marketing,Male,Manager,Masters,54,44815.0,24715,No,69530.0
+2003,Emp_1003,Operations,Male,Executive,Phd,57,104500.0,10790,No,115290.0
+2004,Emp_1004,Operations,Female,Executive,Masters,57,114348.0,24500,Yes,138848.0
+2005,Emp_1005,Sales,Male,Analyst,High School,39,44714.0,15170,No,59884.0
+2006,Emp_1006,Operations,Female,Executive,Bachelors,30,38890.0,14004,No,52894.0
+2007,Emp_1007,It,Male,Analyst,Masters,50,81509.0,14978,No,96487.0
+2008,Emp_1008,Operations,Female,Engineer,High School,35,81824.0,21714,No,103538.0
+2009,Emp_1009,Unknown,Female,Analyst,Masters,46,24725.0,23596,No,48321.0
+2010,Emp_1010,Operations,Male,Consultant,Masters,36,63205.0,26877,No,90082.0
+2011,Emp_1011,Hr,,Manager,Masters,27,40684.0,12232,Yes,52916.0
+2012,Emp_1012,It,,Engineer,Masters,50,111861.0,17674,No,129535.0
+2013,Emp_1013,It,Male,Engineer,Masters,36,77911.0,26998,No,104909.0
+2014,Emp_1014,Marketing,Female,Consultant,High School,50,118078.0,27297,Yes,145375.0
+2015,Emp_1015,Sales,Female,Analyst,Bachelors,25,33092.0,21052,No,54144.0
+2016,Emp_1016,Operations,Female,Manager,Bachelors,39,115918.0,20774,No,136692.0
+2017,Emp_1017,Finance,Male,Analyst,Bachelors,37,59770.0,10913,No,70683.0
+2018,Emp_1018,Sales,Male,Executive,Bachelors,32,45457.0,19102,No,64559.0
+2019,Emp_1019,Unknown,Female,Analyst,High School,35,91667.0,20389,No,112056.0
+2020,Emp_1020,It,Male,Engineer,Phd,24,110751.0,15567,No,126318.0
+2021,Emp_1021,Sales,Female,Manager,Phd,59,82894.0,10611,Yes,93505.0
+2022,Emp_1022,Operations,Female,Analyst,High School,39,81305.0,14432,No,95737.0
+2023,Emp_1023,Operations,Female,Manager,High School,41,32612.0,5319,Yes,37931.0
+2024,Emp_1024,Hr,Female,Manager,Masters,46,98627.0,29469,No,128096.0
+2025,Emp_1025,Operations,Female,Executive,Masters,59,57089.0,17686,No,74775.0
+2026,Emp_1026,Operations,Male,Executive,Masters,34,115295.0,25584,No,140879.0
+2027,Emp_1027,It,Female,Engineer,Bachelors,25,72137.0,9791,No,81928.0
+2028,Emp_1028,Operations,Male,Consultant,Masters,35,20559.0,5329,No,25888.0
+2029,Emp_1029,Hr,Male,Manager,Phd,54,86249.0,13851,No,100100.0
+2030,Emp_1030,Finance,Female,Consultant,Bachelors,49,57361.0,16310,,73671.0
+2031,Emp_1031,It,Female,Engineer,Masters,58,100720.0,28126,No,128846.0
+2032,Emp_1032,Finance,Male,Manager,Bachelors,29,35261.0,26300,No,61561.0
+2033,Emp_1033,It,Male,Manager,Phd,55,40372.0,15164,Yes,55536.0
+2034,Emp_1034,Marketing,Male,Consultant,Masters,26,75355.0,23177,No,98532.0
+2035,Emp_1035,Sales,Female,Analyst,Phd,26,117676.0,27841,No,145517.0
+2036,Emp_1036,Marketing,Male,Executive,Phd,52,118560.0,29509,Yes,148069.0
+2037,Emp_1037,Operations,Female,Analyst,Phd,30,77920.0,10703,No,88623.0
+2039,Emp_1039,Operations,Female,Executive,High School,54,20037.0,27554,No,47591.0
+2040,Emp_1040,Marketing,Male,Analyst,Masters,24,63032.0,28028,No,91060.0
+2041,Emp_1041,It,Female,Executive,Phd,51,98233.0,28804,No,127037.0
+2042,Emp_1042,Sales,Female,Manager,Masters,33,61420.0,17672,No,79092.0
+2043,Emp_1043,Hr,Female,Analyst,Phd,50,117243.0,9155,No,126398.0
+2044,Emp_1044,Sales,Female,Executive,High School,24,111552.0,29795,Yes,141347.0
+2045,Emp_1045,Hr,Female,Executive,Bachelors,47,54600.0,7611,No,62211.0
+2046,Emp_1046,Sales,Male,Executive,High School,51,68285.0,27075,No,95360.0
+2047,Emp_1047,Hr,Female,Analyst,High School,30,82008.0,23977,No,105985.0
+2048,Emp_1048,Finance,Female,Engineer,Bachelors,47,109520.0,21479,No,130999.0
+2049,Emp_1049,Operations,Male,Analyst,Masters,23,25167.0,14180,No,39347.0
+2050,Emp_1050,Operations,Female,Consultant,Bachelors,24,20432.0,14304,Yes,34736.0
+2051,Emp_1051,Marketing,Male,Analyst,Masters,25,89687.0,27425,No,117112.0
+2052,Emp_1052,Operations,Female,Executive,Masters,46,91947.0,26447,Yes,118394.0
+2053,Emp_1053,It,Male,Manager,Phd,34,116324.0,19610,Yes,135934.0
+2054,Emp_1054,Sales,Male,Analyst,Phd,56,70903.0,13437,Yes,84340.0
+2055,Emp_1055,Marketing,Female,Analyst,Bachelors,44,112159.0,15350,No,127509.0
+2056,Emp_1056,It,Female,Executive,High School,30,74149.0,17521,No,91670.0
+2057,Emp_1057,It,Female,Manager,Bachelors,23,107640.0,24733,No,132373.0
+2058,Emp_1058,Hr,Male,Manager,Masters,52,76768.0,29028,No,105796.0
+2059,Emp_1059,Operations,Male,Consultant,Phd,23,80184.0,11560,Yes,91744.0
+2060,Emp_1060,Finance,,Analyst,Bachelors,53,85792.0,10247,No,96039.0
+2061,Emp_1061,Finance,Female,Manager,Bachelors,39,53439.0,26740,No,80179.0
+2062,Emp_1062,Marketing,Male,Manager,Phd,34,53257.0,9077,No,62334.0
+2063,Emp_1063,Finance,Male,Engineer,Phd,26,64674.0,26282,No,90956.0
+2064,Emp_1064,Sales,Female,Engineer,Phd,31,71248.0,15858,Yes,87106.0
+2065,Emp_1065,Finance,Male,Manager,Masters,46,103602.0,16391,No,119993.0
+2066,Emp_1066,Marketing,Male,Consultant,Phd,55,65371.0,15946,No,81317.0
+2067,Emp_1067,Finance,Female,Manager,High School,58,118282.0,20186,,138468.0
+2068,Emp_1068,Sales,Male,Executive,Bachelors,51,87996.0,6417,No,94413.0
+2069,Emp_1069,Hr,Female,Analyst,Phd,28,57297.0,21494,No,78791.0
+2070,Emp_1070,Unknown,Female,Consultant,Phd,27,74273.0,29665,No,103938.0
+2071,Emp_1071,Hr,Female,Executive,Masters,24,81256.0,13954,No,95210.0
+2072,Emp_1072,Hr,Female,Consultant,Masters,34,54743.0,18591,Yes,73334.0
+2073,Emp_1073,Unknown,Female,Executive,Bachelors,24,88752.0,12391,No,101143.0
+2074,Emp_1074,It,Male,Analyst,High School,47,99803.0,16364,No,116167.0
+2075,Emp_1075,Operations,Male,Analyst,Bachelors,45,95117.0,15371,No,110488.0
+2076,Emp_1076,It,Female,Engineer,Phd,27,90051.0,26516,No,116567.0
+2078,Emp_1078,Hr,Male,Engineer,High School,57,95312.0,29673,No,124985.0
+2079,Emp_1079,Marketing,Female,Executive,High School,23,107483.0,10239,No,117722.0
+2080,Emp_1080,Operations,Female,Engineer,High School,32,22963.0,21676,Yes,44639.0
+2081,Emp_1081,Sales,Female,Analyst,Bachelors,55,92322.0,23118,Yes,115440.0
+2082,Emp_1082,Sales,Male,Consultant,Masters,47,33866.0,10120,No,43986.0
+2083,Emp_1083,Finance,Male,Engineer,Masters,39,52305.0,11393,No,63698.0
+2084,Emp_1084,Operations,Female,Executive,Phd,42,82403.0,7196,No,89599.0
+2085,Emp_1085,Marketing,Female,Executive,Masters,57,102896.0,8466,No,111362.0
+2086,Emp_1086,It,Male,Analyst,Masters,43,52813.0,6906,No,59719.0
+2087,Emp_1087,Hr,Male,Executive,Masters,51,86729.0,23105,No,109834.0
+2088,Emp_1088,Finance,Female,Manager,Masters,51,80686.0,16883,No,97569.0
+2089,Emp_1089,Sales,Female,Consultant,Phd,29,24512.0,20437,No,44949.0
+2090,Emp_1090,It,Male,Engineer,Bachelors,55,42666.0,19497,No,62163.0
+2091,Emp_1091,It,Male,Consultant,High School,30,36630.0,6816,No,43446.0
+2092,Emp_1092,Hr,Male,Analyst,Masters,41,94519.0,29828,No,124347.0
+2093,Emp_1093,Operations,Female,Engineer,Bachelors,46,20636.0,25611,No,46247.0
+2094,Emp_1094,Sales,Male,Engineer,Masters,40,23775.0,15713,Yes,39488.0
+2095,Emp_1095,Marketing,Female,Manager,Masters,26,87957.0,27159,No,115116.0
+2096,Emp_1096,It,Male,Analyst,High School,32,84591.0,8849,,93440.0
+2097,Emp_1097,Hr,Male,Executive,High School,36,98561.0,26612,No,125173.0
+2098,Emp_1098,Marketing,Male,Manager,High School,29,94816.0,11849,No,106665.0
+2099,Emp_1099,Operations,Male,Manager,Masters,40,31351.0,6058,No,37409.0
+2100,Emp_1100,Sales,Female,Consultant,Masters,44,75184.0,16730,No,91914.0
+2101,Emp_1101,Operations,Female,Consultant,Masters,48,115707.0,23706,No,139413.0
+2102,Emp_1102,It,Male,Consultant,High School,53,89180.0,29762,No,118942.0
+2103,Emp_1103,Marketing,Female,Manager,Phd,47,101678.0,22332,No,124010.0
+2104,Emp_1104,Marketing,Male,Executive,Bachelors,48,93309.0,29563,No,122872.0
+2105,Emp_1105,Marketing,Male,Engineer,Phd,40,114002.0,9359,Yes,123361.0
+2106,Emp_1106,It,Male,Consultant,Masters,50,30778.0,17809,No,48587.0
+2107,Emp_1107,It,Male,Executive,Masters,54,32501.0,10660,No,43161.0
+2108,Emp_1108,Operations,Female,Analyst,Phd,40,22108.0,12254,Yes,34362.0
+2109,Emp_1109,Finance,Male,Consultant,Masters,58,114905.0,17822,No,132727.0
+2110,Emp_1110,Operations,Male,Engineer,Bachelors,40,56382.0,29785,No,86167.0
+2111,Emp_1111,Sales,Female,Analyst,Masters,54,111354.0,7093,No,118447.0
+2112,Emp_1112,Hr,Male,Analyst,Bachelors,37,95787.0,16730,No,112517.0
+2113,Emp_1113,Marketing,Male,Engineer,Phd,44,43341.0,22947,No,66288.0
+2114,Emp_1114,Finance,Male,Consultant,Phd,28,97214.0,13217,No,110431.0
+2115,Emp_1115,Hr,Female,Manager,Masters,47,34367.0,21558,No,55925.0
+2116,Emp_1116,Finance,Male,Engineer,Bachelors,53,115208.0,22718,Yes,137926.0
+2117,Emp_1117,Operations,Female,Engineer,Masters,33,89868.0,21705,No,111573.0
+2118,Emp_1118,It,Male,Engineer,High School,29,32002.0,27082,No,59084.0
+2119,Emp_1119,Marketing,Male,Analyst,High School,26,105820.0,17342,Yes,123162.0
+2120,Emp_1120,Operations,Female,Executive,High School,49,79949.0,17239,Yes,97188.0
+2121,Emp_1121,Hr,Male,Manager,High School,26,35700.0,18854,No,54554.0
+2122,Emp_1122,Hr,Male,Consultant,Masters,47,99305.0,18897,No,118202.0
+2123,Emp_1123,Hr,Female,Consultant,High School,26,82543.0,16419,Yes,98962.0
+2124,Emp_1124,Hr,Female,Executive,Bachelors,43,49318.0,15064,No,64382.0
+2125,Emp_1125,Unknown,Female,Engineer,Phd,36,109859.0,20003,No,129862.0
+2126,Emp_1126,Finance,Female,Manager,Phd,34,47610.0,26988,Yes,74598.0
+2127,Emp_1127,Operations,Female,Consultant,High School,49,92499.0,28126,No,120625.0
+2128,Emp_1128,Marketing,Male,Consultant,High School,54,93374.0,15259,No,108633.0
+2129,Emp_1129,It,Female,Engineer,High School,44,85226.0,28820,No,114046.0
+2130,Emp_1130,It,Male,Executive,Masters,54,65167.0,29908,No,95075.0
+2131,Emp_1131,Operations,Male,Manager,Phd,39,97779.0,10674,Yes,108453.0
+2132,Emp_1132,Operations,Male,Executive,High School,51,47939.0,10002,No,57941.0
+2133,Emp_1133,It,Female,Executive,Bachelors,47,81365.0,5910,Yes,87275.0
+2134,Emp_1134,It,Female,Manager,High School,37,87381.0,5949,No,93330.0
+2135,Emp_1135,Finance,Male,Manager,Phd,34,66710.0,26809,No,93519.0
+2136,Emp_1136,Sales,Female,Consultant,High School,54,36766.0,23898,No,60664.0
+2137,Emp_1137,Marketing,Female,Consultant,Phd,47,32780.0,16523,No,49303.0
+2138,Emp_1138,Hr,Female,Manager,High School,22,68458.0,29085,No,97543.0
+2139,Emp_1139,Sales,Female,Analyst,Bachelors,59,76221.0,16221,No,92442.0
+2140,Emp_1140,Operations,Male,Consultant,High School,23,21509.0,21484,No,42993.0
+2141,Emp_1141,It,Male,Analyst,Bachelors,27,109493.0,9646,No,119139.0
+2142,Emp_1142,Sales,Female,Manager,Bachelors,59,54346.0,11945,No,66291.0
+2143,Emp_1143,Marketing,Male,Consultant,High School,45,102799.0,7400,No,110199.0
+2144,Emp_1144,Operations,Female,Executive,Bachelors,39,66874.0,16563,No,83437.0
+2145,Emp_1145,Hr,Female,Manager,Masters,48,46148.0,27185,No,73333.0
+2146,Emp_1146,Unknown,Male,Engineer,High School,29,51533.0,23727,,75260.0
+2147,Emp_1147,Marketing,Male,Analyst,High School,49,98467.0,5352,No,103819.0
+2148,Emp_1148,Marketing,Male,Manager,Bachelors,31,21359.0,24339,No,45698.0
+2149,Emp_1149,It,Female,Manager,Bachelors,38,110068.0,20489,No,130557.0
+2150,Emp_1150,Hr,Male,Consultant,High School,50,80313.0,6018,No,86331.0
+2151,Emp_1151,Operations,Female,Consultant,Masters,27,40344.0,22563,No,62907.0
+2152,Emp_1152,Sales,Male,Consultant,Bachelors,35,89778.0,10193,No,99971.0
+2153,Emp_1153,Unknown,Male,Engineer,Bachelors,43,40601.0,20701,No,61302.0
+2154,Emp_1154,Finance,Female,Consultant,Phd,27,39116.0,8536,Yes,47652.0
+2155,Emp_1155,Finance,Female,Manager,Masters,47,76985.0,20449,Yes,97434.0
+2156,Emp_1156,Marketing,Female,Consultant,Masters,33,50782.0,16842,No,67624.0
+2157,Emp_1157,It,Female,Executive,High School,56,69819.0,23886,No,93705.0
+2158,Emp_1158,Finance,Female,Consultant,Masters,35,104416.0,8819,No,113235.0
+2159,Emp_1159,Hr,Female,Engineer,High School,43,89035.0,28239,Yes,117274.0
+2160,Emp_1160,Unknown,Female,Executive,Phd,44,117123.0,22363,No,139486.0
+2161,Emp_1161,Operations,Female,Manager,Masters,28,64458.0,5976,Yes,70434.0
+2162,Emp_1162,Marketing,Male,Manager,Bachelors,46,111556.0,23664,No,135220.0
+2163,Emp_1163,Sales,Female,Analyst,Phd,34,28080.0,10897,No,38977.0
+2164,Emp_1164,Marketing,Female,Executive,High School,42,108743.0,20957,Yes,129700.0
+2165,Emp_1165,Sales,Male,Analyst,Phd,31,53957.0,20359,No,74316.0
+2166,Emp_1166,Marketing,Female,Executive,High School,30,33908.0,18240,No,52148.0
+2167,Emp_1167,Marketing,Male,Executive,Phd,36,116188.0,5107,No,121295.0
+2168,Emp_1168,Marketing,Male,Engineer,High School,23,115880.0,20524,No,136404.0
+2169,Emp_1169,Sales,Female,Analyst,Masters,46,110570.0,6626,No,117196.0
+2170,Emp_1170,Unknown,Male,Engineer,Bachelors,34,111324.0,11229,No,122553.0
+2171,Emp_1171,Marketing,Female,Executive,High School,55,98287.0,11877,No,110164.0
+2172,Emp_1172,Finance,Male,Manager,Phd,55,67482.0,5874,No,73356.0
+2173,Emp_1173,It,Male,Executive,High School,56,119329.0,10543,No,129872.0
+2174,Emp_1174,It,Male,Engineer,High School,59,118375.0,8809,,127184.0
+2176,Emp_1176,Sales,Female,Analyst,Phd,27,94921.0,7107,No,102028.0
+2177,Emp_1177,Sales,Male,Engineer,Bachelors,40,103768.0,16745,No,120513.0
+2178,Emp_1178,Finance,Male,Analyst,Masters,24,35831.0,14465,No,50296.0
+2179,Emp_1179,It,Female,Consultant,Bachelors,39,40125.0,5559,No,45684.0
+2180,Emp_1180,It,Female,Manager,High School,30,82451.0,13308,No,95759.0
+2181,Emp_1181,Marketing,Male,Manager,Phd,33,65708.0,26353,No,92061.0
+2182,Emp_1182,Sales,Male,Manager,Bachelors,26,37682.0,20250,No,57932.0
+2183,Emp_1183,It,Female,Analyst,High School,24,102824.0,18255,No,121079.0
+2184,Emp_1184,Operations,Female,Analyst,Masters,32,55794.0,8046,No,63840.0
+2185,Emp_1185,Finance,Female,Executive,Masters,51,79372.0,18856,Yes,98228.0
+2186,Emp_1186,Operations,Female,Executive,Masters,25,59477.0,21427,No,80904.0
+2187,Emp_1187,Operations,Female,Manager,High School,26,73863.0,5508,No,79371.0
+2188,Emp_1188,Finance,Male,Consultant,Phd,22,109941.0,11107,No,121048.0
+2189,Emp_1189,Operations,Female,Executive,Bachelors,48,58737.0,18476,No,77213.0
+2190,Emp_1190,It,Male,Executive,Masters,49,22620.0,8439,Yes,31059.0
+2192,Emp_1192,Finance,Male,Consultant,High School,39,60138.0,26795,No,86933.0
+2193,Emp_1193,Marketing,Female,Manager,Bachelors,33,99390.0,18136,No,117526.0
+2194,Emp_1194,Operations,Female,Executive,Masters,34,73024.0,19167,No,92191.0
+2195,Emp_1195,Finance,Male,Consultant,High School,23,29677.0,22300,Yes,51977.0
+2196,Emp_1196,Hr,Male,Consultant,Bachelors,58,64111.0,22182,Yes,86293.0
+2197,Emp_1197,Hr,Female,Manager,Phd,37,44074.0,9971,No,54045.0
+2198,Emp_1198,Sales,Female,Consultant,Phd,45,37824.0,23144,No,60968.0
+2199,Emp_1199,It,Female,Consultant,Phd,56,20765.0,24659,No,45424.0
+2200,Emp_1200,Sales,Female,Consultant,Masters,43,65439.0,20883,No,86322.0
+2201,Emp_1201,Sales,Female,Executive,Bachelors,57,117151.0,5818,No,122969.0
+2202,Emp_1202,Sales,Male,Manager,Bachelors,32,68926.0,15360,No,84286.0
+2203,Emp_1203,Sales,Male,Consultant,High School,50,56860.0,26424,Yes,83284.0
+2204,Emp_1204,Marketing,Female,Consultant,High School,56,32975.0,16927,No,49902.0
+2205,Emp_1205,Marketing,Male,Executive,High School,36,94877.0,21023,Yes,115900.0
+2206,Emp_1206,Finance,Male,Manager,Bachelors,52,113677.0,8065,No,121742.0
+2207,Emp_1207,Hr,Male,Analyst,High School,37,97870.0,8259,No,106129.0
+2208,Emp_1208,Sales,Female,Executive,Bachelors,31,101371.0,22290,Yes,123661.0
+2209,Emp_1209,Finance,Male,Manager,Bachelors,53,46548.0,17300,Yes,63848.0
+2210,Emp_1210,Hr,Female,Consultant,Phd,23,110575.0,5602,No,116177.0
+2211,Emp_1211,Operations,Male,Manager,High School,45,118066.0,9295,No,127361.0
+2212,Emp_1212,It,Female,Manager,Phd,44,58736.0,14983,No,73719.0
+2213,Emp_1213,Marketing,Male,Manager,Masters,23,81562.0,8527,Yes,90089.0
+2214,Emp_1214,Operations,Female,Analyst,Masters,59,60409.0,25927,Yes,86336.0
+2215,Emp_1215,Hr,Female,Manager,Masters,52,104101.0,6811,Yes,110912.0
+2216,Emp_1216,Operations,Male,Analyst,Bachelors,47,29834.0,17103,No,46937.0
+2217,Emp_1217,It,Female,Consultant,Bachelors,50,20840.0,14032,No,34872.0
+2218,Emp_1218,Hr,Female,Analyst,Bachelors,24,99409.0,17877,No,117286.0
+2219,Emp_1219,Operations,Female,Consultant,High School,35,51568.0,12963,No,64531.0
+2220,Emp_1220,Marketing,Female,Consultant,Phd,46,30846.0,26633,No,57479.0
+2221,Emp_1221,Marketing,Female,Analyst,Bachelors,22,25899.0,20224,No,46123.0
+2222,Emp_1222,Finance,Female,Executive,Phd,24,106038.0,25999,No,132037.0
+2223,Emp_1223,Operations,Female,Engineer,Phd,47,86101.0,13916,No,100017.0
+2224,Emp_1224,Sales,Female,Manager,Phd,39,58773.0,11766,No,70539.0
+2225,Emp_1225,Operations,Male,Engineer,High School,30,94723.0,22186,No,116909.0
+2226,Emp_1226,Hr,Male,Manager,High School,59,92762.0,23966,No,116728.0
+2227,Emp_1227,Hr,Female,Manager,Masters,44,24311.0,27829,No,52140.0
+2228,Emp_1228,Operations,Female,Consultant,Masters,42,76888.0,25221,No,102109.0
+2229,Emp_1229,It,Male,Manager,Phd,22,61616.0,6665,No,68281.0
+2230,Emp_1230,Marketing,,Manager,Masters,42,72134.0,20932,Yes,93066.0
+2231,Emp_1231,Hr,Male,Analyst,Phd,48,111225.0,11975,No,123200.0
+2232,Emp_1232,Marketing,Female,Engineer,High School,27,26083.0,7552,Yes,33635.0
+2233,Emp_1233,Hr,Male,Analyst,High School,57,32598.0,28859,No,61457.0
+2234,Emp_1234,Finance,Female,Manager,High School,49,102476.0,18219,No,120695.0
+2235,Emp_1235,Sales,Female,Consultant,Bachelors,38,112416.0,19274,No,131690.0
+2236,Emp_1236,Hr,Male,Analyst,Phd,24,22580.0,17612,Yes,40192.0
+2237,Emp_1237,Marketing,Female,Analyst,High School,33,77395.0,7808,Yes,85203.0
+2238,Emp_1238,Finance,Female,Executive,Phd,33,62321.0,16090,No,78411.0
+2239,Emp_1239,Hr,Female,Manager,Masters,23,29386.0,27017,No,56403.0
+2240,Emp_1240,It,Female,Consultant,Masters,43,73171.0,17260,No,90431.0
+2241,Emp_1241,Sales,Male,Analyst,High School,44,39522.0,20295,No,59817.0
+2242,Emp_1242,Hr,Male,Analyst,Phd,51,85532.0,19837,No,105369.0
+2243,Emp_1243,Finance,Female,Consultant,High School,26,111760.0,27480,No,139240.0
+2244,Emp_1244,It,Female,Manager,Masters,30,34635.0,19669,No,54304.0
+2245,Emp_1245,Operations,Male,Executive,High School,42,20671.0,15523,No,36194.0
+2246,Emp_1246,Finance,Female,Analyst,Phd,32,53545.0,17762,No,71307.0
+2247,Emp_1247,Finance,Male,Executive,Masters,26,74079.0,18769,No,92848.0
+2248,Emp_1248,It,Female,Engineer,Bachelors,56,46855.0,18731,Yes,65586.0
+2249,Emp_1249,Finance,Female,Manager,Masters,48,55790.0,16877,No,72667.0
+2250,Emp_1250,It,Male,Engineer,Bachelors,23,71012.0,7456,Yes,78468.0
+2251,Emp_1251,Hr,Male,Engineer,High School,45,34260.0,10423,No,44683.0
+2252,Emp_1252,It,Male,Engineer,High School,52,85139.0,19246,No,104385.0
+2253,Emp_1253,It,Male,Manager,Phd,54,21074.0,17846,No,38920.0
+2254,Emp_1254,Sales,Female,Manager,Bachelors,51,62676.0,9317,No,71993.0
+2255,Emp_1255,It,Male,Consultant,High School,58,29475.0,22940,Yes,52415.0
+2256,Emp_1256,It,Female,Executive,Bachelors,49,98414.0,23589,No,122003.0
+2257,Emp_1257,Operations,Male,Executive,High School,52,35120.0,17635,No,52755.0
+2258,Emp_1258,Hr,Male,Consultant,Masters,32,43147.0,18470,Yes,61617.0
+2259,Emp_1259,Sales,Female,Consultant,High School,44,21986.0,18176,No,40162.0
+2260,Emp_1260,Operations,Male,Engineer,Phd,23,52430.0,25339,No,77769.0
+2261,Emp_1261,Marketing,Male,Consultant,Masters,48,75479.0,14113,No,89592.0
+2262,Emp_1262,Hr,Male,Analyst,Phd,56,102966.0,18546,No,121512.0
+2263,Emp_1263,Hr,Male,Executive,Masters,23,22176.0,11805,No,33981.0
+2264,Emp_1264,Marketing,Female,Consultant,Bachelors,58,104258.0,21788,No,126046.0
+2265,Emp_1265,It,Female,Analyst,Phd,42,104153.0,23004,No,127157.0
+2266,Emp_1266,Operations,Male,Analyst,High School,26,81918.0,24336,No,106254.0
+2267,Emp_1267,Finance,Male,Analyst,Bachelors,42,47115.0,13080,No,60195.0
+2268,Emp_1268,Sales,Male,Analyst,High School,50,97442.0,8118,No,105560.0
+2269,Emp_1269,Finance,Female,Engineer,Masters,41,60002.0,28764,Yes,88766.0
+2270,Emp_1270,Marketing,Female,Analyst,Masters,59,77124.0,11630,Yes,88754.0
+2271,Emp_1271,Hr,Female,Engineer,High School,41,26610.0,5565,No,32175.0
+2272,Emp_1272,Hr,Female,Engineer,High School,46,69752.0,20701,No,90453.0
+2273,Emp_1273,Sales,,Analyst,Bachelors,23,98947.0,19859,No,118806.0
+2274,Emp_1274,Hr,Male,Executive,High School,53,94716.0,26183,No,120899.0
+2275,Emp_1275,Hr,Male,Analyst,Phd,47,67993.0,12670,No,80663.0
+2276,Emp_1276,Sales,Female,Analyst,Phd,27,30073.0,24252,,54325.0
+2277,Emp_1277,Operations,Male,Analyst,High School,24,57251.0,14476,No,71727.0
+2278,Emp_1278,Operations,Female,Executive,Phd,54,116496.0,13776,No,130272.0
+2279,Emp_1279,Sales,Female,Manager,High School,22,91437.0,20021,No,111458.0
+2280,Emp_1280,Marketing,Male,Manager,Bachelors,26,58897.0,9327,No,68224.0
+2281,Emp_1281,Hr,Male,Engineer,Phd,34,70906.0,27797,No,98703.0
+2282,Emp_1282,Hr,Male,Engineer,Phd,40,71616.0,20275,No,91891.0
+2283,Emp_1283,Marketing,,Executive,High School,33,24482.0,12614,Yes,37096.0
+2284,Emp_1284,Operations,Female,Consultant,Phd,46,110964.0,6245,No,117209.0
+2285,Emp_1285,It,Male,Manager,Masters,56,92936.0,13243,No,106179.0
+2286,Emp_1286,It,Male,Engineer,Bachelors,33,59574.0,15355,No,74929.0
+2287,Emp_1287,It,Female,Manager,Bachelors,51,63284.0,5537,No,68821.0
+2288,Emp_1288,Operations,Male,Executive,Phd,26,92932.0,20924,Yes,113856.0
+2289,Emp_1289,Operations,Female,Executive,Phd,55,27338.0,21236,Yes,48574.0
+2290,Emp_1290,Marketing,Female,Consultant,Masters,43,62718.0,21924,No,84642.0
+2291,Emp_1291,Hr,Male,Consultant,Masters,34,32500.0,22198,No,54698.0
+2292,Emp_1292,Marketing,Male,Executive,Phd,24,31545.0,6415,No,37960.0
+2293,Emp_1293,Marketing,Male,Engineer,Phd,41,81480.0,16030,No,97510.0
+2294,Emp_1294,Operations,Male,Manager,Masters,52,25241.0,6652,No,31893.0
+2295,Emp_1295,It,Female,Analyst,High School,26,109314.0,15857,No,125171.0
+2296,Emp_1296,Finance,Female,Consultant,Masters,45,42821.0,25446,No,68267.0
+2297,Emp_1297,Hr,Female,Analyst,High School,54,24695.0,23740,No,48435.0
+2298,Emp_1298,Operations,Male,Engineer,Bachelors,29,97066.0,8810,No,105876.0
+2299,Emp_1299,It,Female,Consultant,Bachelors,45,34318.0,21569,Yes,55887.0
+2300,Emp_1300,Finance,Male,Analyst,Masters,41,70934.0,6551,No,77485.0
+2301,Emp_1301,Finance,Male,Engineer,High School,37,42331.0,18584,Yes,60915.0
+2302,Emp_1302,Operations,Male,Manager,Masters,33,72672.0,28397,No,101069.0
+2303,Emp_1303,Sales,Male,Engineer,Masters,34,111891.0,5761,No,117652.0
+2304,Emp_1304,Hr,Male,Consultant,High School,46,96860.0,17511,Yes,114371.0
+2305,Emp_1305,Finance,Male,Executive,Masters,53,113685.0,14471,No,128156.0
+2306,Emp_1306,Operations,Female,Manager,Bachelors,45,88754.0,17467,No,106221.0
+2307,Emp_1307,Operations,Male,Analyst,Phd,30,105677.0,11163,Yes,116840.0
+2308,Emp_1308,It,Female,Consultant,Phd,44,22837.0,21065,Yes,43902.0
+2309,Emp_1309,Sales,Female,Executive,Masters,34,60077.0,29019,No,89096.0
+2310,Emp_1310,Hr,Male,Engineer,High School,53,99915.0,16886,No,116801.0
+2311,Emp_1311,Marketing,Male,Executive,High School,36,24239.0,24665,No,48904.0
+2312,Emp_1312,It,Male,Consultant,Bachelors,57,106348.0,22920,,129268.0
+2313,Emp_1313,Finance,Female,Consultant,High School,26,49669.0,11201,No,60870.0
+2314,Emp_1314,Finance,Male,Executive,High School,43,68624.0,24548,No,93172.0
+2315,Emp_1315,It,Female,Engineer,Bachelors,37,95147.0,20580,No,115727.0
+2316,Emp_1316,Operations,Male,Executive,Masters,31,24150.0,24154,No,48304.0
+2317,Emp_1317,Finance,Male,Consultant,Phd,45,31109.0,12399,No,43508.0
+2318,Emp_1318,Sales,Female,Consultant,Bachelors,39,119750.0,25229,No,144979.0
+2319,Emp_1319,Hr,Female,Analyst,Masters,39,46016.0,24819,Yes,70835.0
+2320,Emp_1320,Sales,Male,Analyst,Bachelors,28,31936.0,26094,,58030.0
+2321,Emp_1321,Finance,Female,Manager,Masters,25,31036.0,21945,No,52981.0
+2322,Emp_1322,Marketing,Female,Consultant,Bachelors,47,59236.0,26101,No,85337.0
+2323,Emp_1323,Hr,Female,Analyst,Masters,26,34021.0,12623,No,46644.0
+2324,Emp_1324,Hr,Female,Executive,Bachelors,37,56943.0,15327,No,72270.0
+2325,Emp_1325,It,Female,Engineer,Masters,56,101007.0,12187,No,113194.0
+2326,Emp_1326,It,Male,Executive,Bachelors,47,70016.0,7180,Yes,77196.0
+2327,Emp_1327,Marketing,Male,Engineer,Phd,39,43244.0,6960,No,50204.0
+2328,Emp_1328,Operations,Female,Analyst,Phd,50,83027.0,25263,No,108290.0
+2329,Emp_1329,Hr,M,Manager,High School,44,58985.0,10153,Yes,69138.0
+2330,Emp_1330,Marketing,Male,Executive,Masters,35,21502.0,12035,No,33537.0
+2331,Emp_1331,It,Female,Executive,Bachelors,36,73836.0,16471,No,90307.0
+2332,Emp_1332,It,Male,Executive,Masters,54,119714.0,24654,Yes,144368.0
+2333,Emp_1333,Hr,Female,Engineer,Phd,46,23770.0,26071,No,49841.0
+2334,Emp_1334,Sales,Female,Analyst,Masters,42,62865.0,5582,No,68447.0
+2335,Emp_1335,Finance,Male,Executive,Bachelors,38,73811.0,20514,No,94325.0
+2336,Emp_1336,It,Female,Executive,Masters,44,24001.0,20531,No,44532.0
+2337,Emp_1337,Operations,Female,Manager,Bachelors,38,80848.0,21672,No,102520.0
+2338,Emp_1338,Operations,Female,Manager,Phd,35,72635.0,27048,No,99683.0
+2339,Emp_1339,It,Female,Analyst,Phd,50,40946.0,12979,No,53925.0
+2340,Emp_1340,Sales,Female,Analyst,Phd,41,86134.0,25243,No,111377.0
+2341,Emp_1341,Sales,Male,Consultant,High School,51,115852.0,8060,Yes,123912.0
+2342,Emp_1342,Marketing,Male,Manager,Phd,40,111103.0,18731,No,129834.0
+2343,Emp_1343,Operations,Female,Consultant,Masters,34,112044.0,17294,Yes,129338.0
+2344,Emp_1344,Marketing,Female,Engineer,High School,39,63744.0,22567,No,86311.0
+2345,Emp_1345,Operations,Male,Consultant,Phd,44,59159.0,25719,Yes,84878.0
+2346,Emp_1346,Finance,Female,Executive,Masters,54,115812.0,19274,No,135086.0
+2347,Emp_1347,Finance,Male,Consultant,Masters,39,43671.0,22830,No,66501.0
+2348,Emp_1348,Hr,Female,Analyst,Masters,30,36450.0,21348,No,57798.0
+2349,Emp_1349,Marketing,Female,Engineer,Bachelors,54,34908.0,28063,No,62971.0
+2350,Emp_1350,It,Female,Executive,High School,53,77275.0,27597,No,104872.0
+2351,Emp_1351,Marketing,Female,Consultant,Masters,38,64358.0,6903,No,71261.0
+2352,Emp_1352,It,Female,Engineer,Bachelors,40,69047.0,19551,No,88598.0
+2353,Emp_1353,Sales,Female,Engineer,Phd,48,55518.0,29278,No,84796.0
+2354,Emp_1354,Marketing,Female,Executive,Masters,27,77813.0,20141,Yes,97954.0
+2355,Emp_1355,Sales,Male,Consultant,Bachelors,56,116748.0,7377,No,124125.0
+2356,Emp_1356,Finance,Male,Engineer,Masters,58,26806.0,5847,No,32653.0
+2357,Emp_1357,Finance,Male,Engineer,High School,55,60891.0,28754,No,89645.0
+2358,Emp_1358,Hr,Female,Manager,High School,41,103551.0,19380,No,122931.0
+2359,Emp_1359,Marketing,Female,Engineer,Phd,46,59220.0,27725,No,86945.0
+2360,Emp_1360,Sales,Female,Manager,Masters,25,37158.0,22623,No,59781.0
+2361,Emp_1361,Marketing,Female,Consultant,Bachelors,31,100992.0,26984,No,127976.0
+2362,Emp_1362,Finance,Female,Consultant,Phd,31,47588.0,14524,No,62112.0
+2363,Emp_1363,Finance,Female,Consultant,Masters,45,82576.0,20231,No,102807.0
+2364,Emp_1364,It,Female,Analyst,Phd,42,108027.0,16698,No,124725.0
+2365,Emp_1365,Sales,Male,Consultant,Bachelors,32,44188.0,15571,No,59759.0
+2366,Emp_1366,Sales,Female,Engineer,Phd,48,112615.0,26175,No,138790.0
+2367,Emp_1367,Marketing,Male,Executive,Phd,37,78830.0,17314,Yes,96144.0
+2368,Emp_1368,Marketing,Male,Manager,Phd,47,24019.0,16429,Yes,40448.0
+2370,Emp_1370,Operations,Female,Consultant,Bachelors,37,53697.0,15604,Yes,69301.0
+2371,Emp_1371,Hr,Male,Consultant,High School,28,104932.0,16366,No,121298.0
+2372,Emp_1372,Finance,Male,Executive,Masters,37,115428.0,10055,No,125483.0
+2373,Emp_1373,Marketing,Female,Executive,High School,56,27973.0,10622,No,38595.0
+2374,Emp_1374,Sales,Female,Analyst,High School,37,106649.0,21756,Yes,128405.0
+2375,Emp_1375,It,Male,Manager,Masters,33,31136.0,12783,No,43919.0
+2376,Emp_1376,Sales,Female,Consultant,Masters,56,104739.0,6949,No,111688.0
+2377,Emp_1377,Finance,Female,Analyst,Bachelors,42,82502.0,21628,No,104130.0
+2378,Emp_1378,Operations,Female,Engineer,Bachelors,57,51285.0,15032,No,66317.0
+2379,Emp_1379,Sales,Male,Engineer,Phd,38,43039.0,29179,No,72218.0
+2380,Emp_1380,Hr,Male,Analyst,High School,53,86720.0,27156,No,113876.0
+2381,Emp_1381,Finance,Male,Consultant,Bachelors,27,108263.0,16619,No,124882.0
+2382,Emp_1382,Unknown,Female,Analyst,Phd,45,79155.0,21508,No,100663.0
+2384,Emp_1384,Operations,Male,Executive,Masters,41,20916.0,15945,No,36861.0
+2385,Emp_1385,Hr,Male,Analyst,Bachelors,46,79052.0,6919,No,85971.0
+2386,Emp_1386,Unknown,Male,Consultant,High School,23,89110.0,14827,Yes,103937.0
+2387,Emp_1387,It,Female,Analyst,Bachelors,30,37790.0,14617,No,52407.0
+2388,Emp_1388,Hr,Male,Analyst,High School,49,103161.0,14732,No,117893.0
+2389,Emp_1389,Operations,Male,Consultant,Masters,59,25206.0,5530,No,30736.0
+2390,Emp_1390,Hr,Female,Consultant,High School,24,105053.0,12849,No,117902.0
+2391,Emp_1391,Finance,Female,Manager,Bachelors,41,69950.0,11929,No,81879.0
+2392,Emp_1392,Marketing,Female,Analyst,Phd,27,76361.0,9349,No,85710.0
+2393,Emp_1393,Hr,Male,Engineer,Masters,54,81451.0,19456,No,100907.0
+2394,Emp_1394,Hr,Female,Analyst,Bachelors,22,57696.0,16295,,73991.0
+2395,Emp_1395,Operations,Female,Analyst,Masters,58,101641.0,26140,No,127781.0
+2396,Emp_1396,Operations,Male,Consultant,Masters,27,88226.0,23185,No,111411.0
+2397,Emp_1397,It,Female,Analyst,Bachelors,55,66728.0,10156,No,76884.0
+2398,Emp_1398,Operations,Male,Analyst,Bachelors,36,75401.0,29240,No,104641.0
+2399,Emp_1399,Sales,Male,Engineer,Phd,47,86226.0,26845,No,113071.0
+2400,Emp_1400,Finance,Female,Consultant,Masters,35,45103.0,14228,No,59331.0
+2401,Emp_1401,Finance,Female,Analyst,Masters,28,54263.0,26686,No,80949.0
+2402,Emp_1402,Marketing,Female,Executive,Bachelors,52,96621.0,16920,Yes,113541.0
+2403,Emp_1403,Marketing,Female,Manager,High School,45,70044.0,12432,No,82476.0
+2404,Emp_1404,Finance,Female,Engineer,Bachelors,52,77730.0,17203,No,94933.0
+2405,Emp_1405,Marketing,Female,Analyst,Masters,50,45825.0,11189,No,57014.0
+2406,Emp_1406,It,Male,Executive,Bachelors,53,96256.0,6142,No,102398.0
+2407,Emp_1407,Operations,Male,Analyst,Phd,38,57271.0,28460,No,85731.0
+2408,Emp_1408,Finance,Female,Analyst,High School,35,97256.0,12614,No,109870.0
+2409,Emp_1409,Marketing,Male,Consultant,Bachelors,57,66732.0,19253,No,85985.0
+2410,Emp_1410,Finance,Female,Consultant,Phd,45,86433.0,26224,No,112657.0
+2411,Emp_1411,Sales,Male,Consultant,Masters,48,102630.0,23013,No,125643.0
+2412,Emp_1412,Hr,Male,Executive,Bachelors,46,43572.0,26446,No,70018.0
+2413,Emp_1413,Operations,Male,Analyst,Masters,53,58546.0,22146,No,80692.0
+2414,Emp_1414,Finance,Female,Manager,Phd,39,35150.0,11905,Yes,47055.0
+2415,Emp_1415,Hr,Male,Engineer,Masters,39,74165.0,9889,No,84054.0
+2416,Emp_1416,Marketing,Female,Consultant,Phd,58,83690.0,9839,No,93529.0
+2417,Emp_1417,Hr,Male,Consultant,Phd,47,73664.0,8957,No,82621.0
+2418,Emp_1418,Operations,Male,Analyst,Phd,30,102335.0,5557,No,107892.0
+2419,Emp_1419,Finance,Male,Analyst,Bachelors,56,95199.0,9621,Yes,104820.0
+2420,Emp_1420,Sales,Male,Executive,Masters,29,56948.0,19932,No,76880.0
+2421,Emp_1421,Unknown,Male,Executive,Masters,41,57030.0,5839,No,62869.0
+2422,Emp_1422,Finance,Female,Consultant,High School,43,47007.0,29578,No,76585.0
+2423,Emp_1423,Operations,Female,Analyst,High School,40,111207.0,14243,No,125450.0
+2425,Emp_1425,It,Male,Engineer,High School,49,96772.0,29732,No,126504.0
+2426,Emp_1426,Hr,Male,Analyst,Masters,56,42024.0,11998,No,54022.0
+2427,Emp_1427,Operations,Male,Analyst,Phd,32,59384.0,15129,Yes,74513.0
+2428,Emp_1428,It,Female,Executive,Phd,52,102912.0,5510,No,108422.0
+2429,Emp_1429,Finance,Male,Engineer,Bachelors,57,38157.0,16596,Yes,54753.0
+2430,Emp_1430,Sales,Female,Consultant,Phd,51,105481.0,17974,No,123455.0
+2431,Emp_1431,Marketing,Male,Analyst,Masters,44,108553.0,6137,Yes,114690.0
+2432,Emp_1432,Hr,Female,Consultant,Masters,40,21756.0,18700,No,40456.0
+2433,Emp_1433,Marketing,Male,Analyst,Masters,33,88112.0,26990,No,115102.0
+2434,Emp_1434,Finance,Male,Consultant,Bachelors,36,111003.0,9666,No,120669.0
+2435,Emp_1435,Marketing,Female,Engineer,High School,52,116741.0,13906,No,130647.0
+2436,Emp_1436,Hr,,Executive,Phd,58,78051.0,26818,No,104869.0
+2437,Emp_1437,Finance,Male,Engineer,Masters,58,84595.0,15478,Yes,100073.0
+2438,Emp_1438,Marketing,Male,Manager,Masters,36,98210.0,27830,Yes,126040.0
+2439,Emp_1439,Sales,Female,Executive,High School,50,63094.0,7654,No,70748.0
+2440,Emp_1440,Operations,Male,Engineer,Masters,47,107889.0,5990,No,113879.0
+2441,Emp_1441,Finance,Male,Manager,Phd,23,115385.0,29204,No,144589.0
+2442,Emp_1442,Operations,Female,Analyst,Bachelors,41,24535.0,7160,Yes,31695.0
+2443,Emp_1443,Finance,Female,Analyst,Masters,36,76035.0,27124,Yes,103159.0
+2444,Emp_1444,Sales,Female,Consultant,Phd,25,67367.0,25841,No,93208.0
+2445,Emp_1445,Operations,Male,Executive,Masters,43,37118.0,20136,Yes,57254.0
+2446,Emp_1446,It,Male,Analyst,High School,59,79812.0,15336,Yes,95148.0
+2447,Emp_1447,Hr,Male,Executive,Masters,44,79884.0,19269,Yes,99153.0
+2448,Emp_1448,It,Female,Analyst,Masters,47,86168.0,21206,,107374.0
+2449,Emp_1449,Marketing,Male,Consultant,Bachelors,32,33280.0,7063,No,40343.0
+2450,Emp_1450,Sales,Male,Engineer,High School,49,34746.0,15795,Yes,50541.0
+2451,Emp_1451,It,Female,Consultant,High School,23,73251.0,23361,No,96612.0
+2452,Emp_1452,Finance,Female,Manager,Bachelors,29,104821.0,13567,No,118388.0
+2453,Emp_1453,Marketing,Female,Analyst,Masters,50,103583.0,13933,No,117516.0
+2454,Emp_1454,Marketing,Female,Manager,Phd,32,30207.0,24051,No,54258.0
+2455,Emp_1455,It,Female,Manager,High School,58,91127.0,20619,Yes,111746.0
+2456,Emp_1456,It,,Executive,High School,39,47757.0,9919,No,57676.0
+2457,Emp_1457,Sales,Female,Analyst,Masters,35,36226.0,16741,No,52967.0
+2459,Emp_1459,It,Male,Engineer,High School,56,81407.0,29026,Yes,110433.0
+2460,Emp_1460,It,Female,Manager,Masters,30,47206.0,13798,No,61004.0
+2461,Emp_1461,Operations,Female,Engineer,Phd,56,40256.0,21927,No,62183.0
+2462,Emp_1462,Finance,Female,Executive,High School,32,53822.0,19566,No,73388.0
+2463,Emp_1463,Operations,Male,Manager,Phd,33,61340.0,5883,No,67223.0
+2464,Emp_1464,Operations,Female,Consultant,Phd,24,72234.0,26182,No,98416.0
+2466,Emp_1466,Hr,Female,Engineer,Phd,49,68671.0,14415,No,83086.0
+2467,Emp_1467,Finance,Female,Executive,Masters,32,95320.0,16085,No,111405.0
+2468,Emp_1468,Sales,Female,Manager,Bachelors,46,55157.0,20008,Yes,75165.0
+2469,Emp_1469,Sales,Male,Analyst,Masters,42,39937.0,27102,No,67039.0
+2470,Emp_1470,It,Male,Analyst,Phd,31,74290.0,23452,No,97742.0
+2472,Emp_1472,Sales,Female,Engineer,Masters,40,31219.0,13120,Yes,44339.0
+2473,Emp_1473,It,Female,Analyst,Phd,43,29399.0,12820,No,42219.0
+2474,Emp_1474,Hr,Female,Engineer,High School,42,118848.0,16901,No,135749.0
+2475,Emp_1475,Operations,Male,Executive,High School,53,47657.0,23170,No,70827.0
+2476,Emp_1476,It,Female,Consultant,Masters,44,40047.0,21259,No,61306.0
+2477,Emp_1477,Marketing,Female,Consultant,Masters,34,96095.0,27099,Yes,123194.0
+2478,Emp_1478,It,Female,Executive,High School,26,105693.0,14649,No,120342.0
+2479,Emp_1479,Finance,Male,Consultant,Phd,25,92154.0,13269,Yes,105423.0
+2480,Emp_1480,Hr,Female,Manager,Phd,49,64891.0,16805,No,81696.0
+2481,Emp_1481,Finance,Male,Executive,Phd,35,26780.0,22692,No,49472.0
+2482,Emp_1482,Finance,Female,Engineer,Masters,29,47050.0,15379,No,62429.0
+2483,Emp_1483,Marketing,Male,Executive,Bachelors,30,93551.0,13744,No,107295.0
+2484,Emp_1484,Hr,Male,Analyst,Bachelors,56,88666.0,18285,Yes,106951.0
+2485,Emp_1485,Hr,Male,Engineer,Bachelors,58,113619.0,13473,No,127092.0
+2486,Emp_1486,Hr,Female,Analyst,Bachelors,42,102016.0,15679,No,117695.0
+2487,Emp_1487,Hr,Female,Engineer,Bachelors,39,73010.0,19605,No,92615.0
+2488,Emp_1488,Hr,Male,Consultant,Masters,54,58165.0,15985,Yes,74150.0
+2489,Emp_1489,Marketing,Male,Executive,Masters,29,31528.0,17391,No,48919.0
+2490,Emp_1490,It,Female,Manager,Bachelors,38,69608.0,9861,Yes,79469.0
+2491,Emp_1491,Finance,Female,Engineer,Masters,52,25914.0,24160,No,50074.0
+2492,Emp_1492,Hr,Male,Engineer,Masters,55,57136.0,6596,Yes,63732.0
+2493,Emp_1493,It,Female,Analyst,Bachelors,27,31179.0,21863,,53042.0
+2494,Emp_1494,It,Female,Consultant,Phd,43,106008.0,24696,Yes,130704.0
+2495,Emp_1495,Finance,Female,Analyst,Masters,35,32076.0,27540,No,59616.0
+2496,Emp_1496,Marketing,Female,Analyst,Phd,24,44783.0,15155,No,59938.0
+2497,Emp_1497,Sales,Male,Consultant,Masters,33,66716.0,12919,No,79635.0
+2498,Emp_1498,Sales,Female,Manager,Masters,57,70298.0,28128,No,98426.0
+2500,Emp_1500,Operations,Male,Analyst,Masters,23,99360.0,25282,No,124642.0
+2501,Emp_1501,Operations,Male,Engineer,High School,23,89835.0,19628,No,109463.0
+2502,Emp_1502,Finance,Female,Consultant,High School,36,28118.0,7072,Yes,35190.0
+2504,Emp_1504,It,Female,Manager,Phd,50,76911.0,10624,No,87535.0
+2505,Emp_1505,Marketing,Female,Manager,Phd,38,93489.0,5938,Yes,99427.0
+2506,Emp_1506,Sales,Male,Consultant,Phd,53,35185.0,13176,Yes,48361.0
+2507,Emp_1507,It,Male,Engineer,High School,28,61792.0,5761,No,67553.0
+2508,Emp_1508,It,Male,Engineer,Phd,51,100210.0,28638,No,128848.0
+2509,Emp_1509,Hr,Female,Consultant,Phd,49,70613.0,17941,No,88554.0
+2510,Emp_1510,Marketing,Female,Engineer,Bachelors,35,53927.0,6669,No,60596.0
+2511,Emp_1511,Hr,Female,Manager,Phd,51,20386.0,12128,No,32514.0
+2512,Emp_1512,Finance,Female,Manager,High School,38,112153.0,25246,No,137399.0
+2513,Emp_1513,Hr,Male,Executive,High School,53,92728.0,24069,Yes,116797.0
+2514,Emp_1514,Hr,Male,Consultant,High School,27,96281.0,17091,No,113372.0
+2515,Emp_1515,Sales,Female,Analyst,Bachelors,45,50020.0,28018,No,78038.0
+2516,Emp_1516,Operations,Male,Analyst,Bachelors,27,62678.0,23315,No,85993.0
+2517,Emp_1517,It,Female,Executive,Masters,48,106695.0,12308,No,119003.0
+2518,Emp_1518,Marketing,Female,Executive,Phd,39,81394.0,25323,No,106717.0
+2519,Emp_1519,Hr,Male,Engineer,Bachelors,45,88945.0,6126,Yes,95071.0
+2520,Emp_1520,Marketing,Female,Executive,High School,58,76414.0,11021,No,87435.0
+2521,Emp_1521,Operations,Female,Executive,High School,45,74816.0,11437,No,86253.0
+2522,Emp_1522,Operations,Male,Analyst,Bachelors,59,75918.0,12039,No,87957.0
+2523,Emp_1523,Hr,Female,Engineer,Bachelors,55,111281.0,26757,No,138038.0
+2524,Emp_1524,Finance,Female,Executive,Bachelors,36,82694.0,22587,Yes,105281.0
+2525,Emp_1525,Hr,Male,Executive,Masters,32,49455.0,9135,No,58590.0
+2526,Emp_1526,Sales,,Engineer,High School,43,58735.0,20111,No,78846.0
+2527,Emp_1527,It,Male,Consultant,Masters,45,114702.0,16964,No,131666.0
+2529,Emp_1529,Hr,Male,Analyst,Phd,39,32109.0,12904,No,45013.0
+2530,Emp_1530,Marketing,Male,Consultant,High School,33,65802.0,7283,No,73085.0
+2531,Emp_1531,Finance,Male,Manager,High School,49,88020.0,25942,No,113962.0
+2532,Emp_1532,Finance,Female,Engineer,Bachelors,28,54622.0,26731,No,81353.0
+2533,Emp_1533,Hr,Male,Analyst,Bachelors,44,22597.0,29251,No,51848.0
+2534,Emp_1534,Finance,Male,Consultant,Phd,42,60597.0,27328,No,87925.0
+2535,Emp_1535,Marketing,Male,Engineer,Masters,55,60954.0,7477,No,68431.0
+2536,Emp_1536,Operations,Male,Executive,Bachelors,32,89519.0,8093,No,97612.0
+2537,Emp_1537,Finance,Male,Engineer,Bachelors,43,76115.0,29918,No,106033.0
+2538,Emp_1538,Operations,Female,Manager,High School,56,63151.0,12207,No,75358.0
+2539,Emp_1539,Marketing,Female,Engineer,High School,50,37040.0,14394,No,51434.0
+2540,Emp_1540,Hr,Female,Consultant,Bachelors,49,64772.0,19841,No,84613.0
+2541,Emp_1541,It,Female,Consultant,High School,39,116090.0,11227,Yes,127317.0
+2542,Emp_1542,Finance,Female,Engineer,Phd,35,83832.0,18280,No,102112.0
+2543,Emp_1543,It,Female,Consultant,Bachelors,39,47916.0,8535,No,56451.0
+2544,Emp_1544,Marketing,Female,Executive,High School,49,64871.0,28388,,93259.0
+2545,Emp_1545,Finance,Male,Engineer,Phd,45,46372.0,15582,No,61954.0
+2546,Emp_1546,Operations,Female,Executive,High School,29,81707.0,7913,No,89620.0
+2547,Emp_1547,Sales,Male,Executive,High School,29,59080.0,7340,No,66420.0
+2548,Emp_1548,It,Male,Analyst,High School,25,62722.0,10289,No,73011.0
+2549,Emp_1549,Finance,,Engineer,Bachelors,48,49048.0,5597,No,54645.0
+2550,Emp_1550,It,Male,Consultant,Masters,57,105205.0,20025,No,125230.0
+2551,Emp_1551,Finance,Male,Executive,High School,26,29777.0,12145,No,41922.0
+2552,Emp_1552,Hr,Male,Analyst,Phd,54,74711.0,7902,Yes,82613.0
+2553,Emp_1553,Operations,Male,Engineer,Bachelors,55,56331.0,28029,Yes,84360.0
+2554,Emp_1554,It,Female,Engineer,Bachelors,51,40968.0,13955,No,54923.0
+2555,Emp_1555,Sales,,Manager,Phd,29,73969.0,12694,No,86663.0
+2556,Emp_1556,Sales,Female,Manager,High School,47,31292.0,9830,No,41122.0
+2557,Emp_1557,Marketing,Female,Executive,Masters,58,60794.0,28930,No,89724.0
+2558,Emp_1558,Finance,Female,Manager,High School,55,99459.0,28752,No,128211.0
+2559,Emp_1559,It,Female,Executive,Phd,28,70192.0,14834,No,85026.0
+2561,Emp_1561,It,Female,Executive,Masters,49,104193.0,20768,No,124961.0
+2562,Emp_1562,Finance,Female,Manager,Bachelors,35,89165.0,15364,No,104529.0
+2563,Emp_1563,Sales,Female,Consultant,Phd,59,87650.0,7160,Yes,94810.0
+2564,Emp_1564,Hr,Male,Manager,High School,25,76516.0,18268,No,94784.0
+2565,Emp_1565,Sales,Female,Executive,Masters,39,119981.0,27262,No,147243.0
+2566,Emp_1566,Marketing,Male,Analyst,Bachelors,46,111110.0,29047,No,140157.0
+2567,Emp_1567,Operations,Male,Engineer,Bachelors,28,117885.0,25133,Yes,143018.0
+2568,Emp_1568,Hr,Male,Manager,Bachelors,59,42257.0,19485,No,61742.0
+2569,Emp_1569,Marketing,Male,Executive,High School,49,103509.0,7922,Yes,111431.0
+2570,Emp_1570,Finance,Female,Consultant,Masters,26,111273.0,27870,No,139143.0
+2571,Emp_1571,Hr,Male,Manager,High School,24,71672.0,29496,No,101168.0
+2572,Emp_1572,Marketing,Female,Manager,High School,52,83308.0,8804,No,92112.0
+2573,Emp_1573,Finance,Female,Engineer,High School,41,97583.0,26262,No,123845.0
+2574,Emp_1574,Sales,Male,Executive,Phd,40,42113.0,7368,Yes,49481.0
+2575,Emp_1575,Operations,Female,Analyst,Phd,32,20694.0,20157,Yes,40851.0
+2576,Emp_1576,Finance,Male,Consultant,Phd,24,35588.0,13093,No,48681.0
+2577,Emp_1577,It,Male,Executive,Masters,44,81756.0,8932,Yes,90688.0
+2578,Emp_1578,Finance,Female,Consultant,High School,28,84085.0,16552,Yes,100637.0
+2579,Emp_1579,Finance,Female,Manager,High School,44,81142.0,10608,No,91750.0
+2580,Emp_1580,Operations,Male,Engineer,Phd,28,84373.0,28019,No,112392.0
+2581,Emp_1581,It,Female,Engineer,High School,55,105603.0,17899,No,123502.0
+2582,Emp_1582,Marketing,Female,Analyst,High School,40,26704.0,27779,Yes,54483.0
+2583,Emp_1583,Marketing,Female,Engineer,Bachelors,30,60136.0,27485,No,87621.0
+2584,Emp_1584,Finance,Male,Manager,High School,39,87507.0,14292,No,101799.0
+2585,Emp_1585,It,Male,Analyst,Bachelors,46,67361.0,14862,No,82223.0
+2586,Emp_1586,It,Female,Executive,High School,35,78847.0,10531,Yes,89378.0
+2587,Emp_1587,Operations,Female,Engineer,Masters,46,31441.0,15412,No,46853.0
+2588,Emp_1588,Sales,Female,Analyst,Phd,40,117012.0,26354,No,143366.0
+2589,Emp_1589,Marketing,Female,Manager,Bachelors,36,34677.0,11344,,46021.0
+2590,Emp_1590,Operations,Female,Consultant,Phd,37,47818.0,29792,No,77610.0
+2591,Emp_1591,Hr,Male,Consultant,Bachelors,48,21868.0,21759,Yes,43627.0
+2592,Emp_1592,Marketing,Female,Manager,Bachelors,31,103591.0,12887,Yes,116478.0
+2593,Emp_1593,Operations,Male,Manager,Bachelors,25,87264.0,22993,No,110257.0
+2594,Emp_1594,Marketing,Female,Consultant,Masters,40,93168.0,21158,No,114326.0
+2595,Emp_1595,Sales,Male,Analyst,High School,49,32043.0,24323,No,56366.0
+2596,Emp_1596,Hr,Female,Consultant,Bachelors,42,91939.0,25446,No,117385.0
+2597,Emp_1597,Sales,Male,Manager,Masters,35,35732.0,22997,No,58729.0
+2598,Emp_1598,Hr,Female,Engineer,Bachelors,54,75244.0,27962,No,103206.0
+2599,Emp_1599,Finance,Male,Executive,High School,31,38526.0,29235,Yes,67761.0
+2600,Emp_1600,Operations,Male,Engineer,Bachelors,40,29340.0,8679,No,38019.0
+2601,Emp_1601,Hr,,Engineer,Masters,51,42394.0,12540,No,54934.0
+2602,Emp_1602,Sales,Male,Manager,High School,43,118557.0,14488,Yes,133045.0
+2603,Emp_1603,Marketing,Male,Consultant,Masters,24,24102.0,12074,No,36176.0
+2604,Emp_1604,Hr,Male,Analyst,High School,58,39159.0,8996,No,48155.0
+2605,Emp_1605,Operations,Female,Engineer,High School,39,85092.0,26170,No,111262.0
+2606,Emp_1606,Hr,Male,Consultant,Phd,32,26212.0,10695,No,36907.0
+2607,Emp_1607,It,Female,Analyst,Phd,23,117360.0,28382,No,145742.0
+2608,Emp_1608,Marketing,Female,Engineer,Phd,33,57405.0,19235,Yes,76640.0
+2609,Emp_1609,Operations,Female,Analyst,High School,27,97061.0,7366,No,104427.0
+2610,Emp_1610,Operations,Female,Consultant,Bachelors,50,114296.0,19164,No,133460.0
+2611,Emp_1611,Finance,Female,Executive,Masters,51,75186.0,11764,No,86950.0
+2612,Emp_1612,Unknown,Male,Consultant,Masters,23,64239.0,20527,Yes,84766.0
+2613,Emp_1613,Finance,Male,Manager,Masters,30,112993.0,21292,No,134285.0
+2614,Emp_1614,Operations,Male,Analyst,Phd,23,30532.0,6614,No,37146.0
+2615,Emp_1615,Marketing,Female,Executive,High School,50,99054.0,25939,No,124993.0
+2616,Emp_1616,Hr,Male,Analyst,Phd,54,92012.0,19396,No,111408.0
+2617,Emp_1617,Hr,Male,Analyst,Bachelors,31,105279.0,23800,No,129079.0
+2618,Emp_1618,Marketing,Male,Engineer,High School,55,86540.0,28672,No,115212.0
+2619,Emp_1619,Operations,Male,Manager,Masters,29,23271.0,28246,No,51517.0
+2620,Emp_1620,Hr,Male,Analyst,Phd,58,65482.0,25037,No,90519.0
+2621,Emp_1621,Hr,Female,Consultant,Phd,54,20209.0,28023,No,48232.0
+2622,Emp_1622,Hr,Male,Consultant,Bachelors,27,110999.0,21880,No,132879.0
+2623,Emp_1623,Sales,Female,Engineer,Bachelors,40,25539.0,21888,No,47427.0
+2624,Emp_1624,Sales,Female,Manager,Phd,53,39977.0,29083,No,69060.0
+2625,Emp_1625,It,Female,Manager,Bachelors,48,94142.0,10733,No,104875.0
+2626,Emp_1626,Finance,Female,Consultant,Masters,22,119588.0,29439,Yes,149027.0
+2627,Emp_1627,Marketing,Female,Executive,Bachelors,54,88684.0,8216,No,96900.0
+2628,Emp_1628,Marketing,Male,Engineer,Bachelors,53,119072.0,27072,No,146144.0
+2629,Emp_1629,Marketing,Male,Engineer,Phd,26,25607.0,9364,No,34971.0
+2630,Emp_1630,It,Male,Consultant,Phd,38,105122.0,17269,No,122391.0
+2631,Emp_1631,Sales,Female,Consultant,High School,29,114786.0,27426,No,142212.0
+2632,Emp_1632,Operations,Male,Executive,High School,55,71939.0,22861,No,94800.0
+2633,Emp_1633,Operations,Male,Executive,Phd,30,38594.0,18829,No,57423.0
+2634,Emp_1634,It,Female,Manager,Bachelors,44,78382.0,9960,No,88342.0
+2635,Emp_1635,Operations,Female,Engineer,Bachelors,56,27399.0,23781,No,51180.0
+2636,Emp_1636,Marketing,Female,Engineer,High School,28,45117.0,13301,No,58418.0
+2637,Emp_1637,Finance,Female,Consultant,High School,36,118662.0,13841,Yes,132503.0
+2638,Emp_1638,Hr,Male,Manager,High School,41,53617.0,27578,No,81195.0
+2639,Emp_1639,Sales,Female,Engineer,Masters,46,27498.0,28954,No,56452.0
+2640,Emp_1640,Sales,Female,Manager,Masters,24,70624.0,12730,No,83354.0
+2641,Emp_1641,It,Male,Manager,High School,45,29628.0,22883,No,52511.0
+2642,Emp_1642,Sales,Male,Consultant,Bachelors,55,20329.0,28619,No,48948.0
+2643,Emp_1643,Marketing,Female,Manager,High School,43,58619.0,21979,No,80598.0
+2644,Emp_1644,Operations,Male,Executive,Masters,32,27032.0,5978,Yes,33010.0
+2645,Emp_1645,Marketing,Female,Executive,Bachelors,29,68094.0,5730,No,73824.0
+2646,Emp_1646,It,Female,Analyst,Masters,56,58034.0,5056,No,63090.0
+2647,Emp_1647,Marketing,Male,Consultant,Bachelors,59,106158.0,7243,No,113401.0
+2648,Emp_1648,Operations,Male,Analyst,Masters,29,75264.0,27263,No,102527.0
+2649,Emp_1649,Finance,Female,Executive,Bachelors,58,114120.0,6701,No,120821.0
+2650,Emp_1650,It,Female,Analyst,Bachelors,48,67850.0,28613,No,96463.0
+2651,Emp_1651,Finance,Female,Consultant,Bachelors,49,24722.0,22670,No,47392.0
+2652,Emp_1652,Hr,Male,Consultant,Bachelors,55,37772.0,13303,Yes,51075.0
+2653,Emp_1653,Finance,Female,Manager,Phd,53,106105.0,20100,No,126205.0
+2654,Emp_1654,Hr,Female,Engineer,Masters,36,61679.0,17998,No,79677.0
+2655,Emp_1655,Hr,Female,Manager,Masters,38,88771.0,14393,Yes,103164.0
+2656,Emp_1656,Finance,Female,Consultant,Phd,54,24576.0,5947,Yes,30523.0
+2658,Emp_1658,Operations,Male,Executive,Bachelors,50,119404.0,11553,No,130957.0
+2659,Emp_1659,Marketing,Female,Manager,Masters,30,61632.0,5757,No,67389.0
+2660,Emp_1660,Marketing,Female,Consultant,Phd,54,61476.0,19866,No,81342.0
+2661,Emp_1661,Operations,Female,Executive,Bachelors,50,50285.0,16580,No,66865.0
+2662,Emp_1662,Hr,Female,Consultant,Bachelors,34,44154.0,10651,No,54805.0
+2663,Emp_1663,Hr,Male,Executive,Bachelors,42,40054.0,12273,Yes,52327.0
+2664,Emp_1664,It,Male,Consultant,High School,42,37165.0,15033,Yes,52198.0
+2665,Emp_1665,Sales,Male,Analyst,Phd,26,34439.0,8535,No,42974.0
+2667,Emp_1667,Hr,Female,Consultant,High School,27,108051.0,22488,No,130539.0
+2668,Emp_1668,Marketing,Male,Manager,Phd,34,46962.0,13853,No,60815.0
+2669,Emp_1669,It,Male,Analyst,Bachelors,22,73934.0,5908,Yes,79842.0
+2670,Emp_1670,Finance,Male,Engineer,Masters,41,57763.0,27923,No,85686.0
+2671,Emp_1671,It,Female,Manager,High School,29,84094.0,9617,No,93711.0
+2672,Emp_1672,Finance,Female,Engineer,High School,31,39464.0,15048,Yes,54512.0
+2673,Emp_1673,Finance,Male,Executive,Bachelors,30,62036.0,28453,No,90489.0
+2674,Emp_1674,Operations,Male,Engineer,Bachelors,24,115949.0,7311,No,123260.0
+2675,Emp_1675,Hr,Male,Consultant,High School,32,53270.0,21020,No,74290.0
+2676,Emp_1676,It,Female,Engineer,Masters,33,62299.0,22173,No,84472.0
+2677,Emp_1677,It,Female,Manager,Masters,31,105805.0,18585,Yes,124390.0
+2678,Emp_1678,Operations,Female,Manager,Phd,46,51541.0,19017,No,70558.0
+2679,Emp_1679,Marketing,Male,Engineer,Bachelors,46,93545.0,21555,No,115100.0
+2680,Emp_1680,Marketing,Male,Manager,Masters,32,102543.0,17552,No,120095.0
+2681,Emp_1681,Hr,Female,Manager,Phd,57,111998.0,29373,No,141371.0
+2682,Emp_1682,Hr,Male,Engineer,Masters,47,97078.0,18337,Yes,115415.0
+2683,Emp_1683,Sales,Female,Analyst,Bachelors,35,102970.0,6885,,109855.0
+2684,Emp_1684,Operations,Male,Analyst,Phd,22,49765.0,6049,No,55814.0
+2685,Emp_1685,Marketing,Male,Executive,Phd,25,43769.0,25513,No,69282.0
+2686,Emp_1686,Finance,Male,Manager,Phd,51,108001.0,15503,,123504.0
+2687,Emp_1687,It,Male,Engineer,Masters,33,107404.0,6161,No,113565.0
+2688,Emp_1688,Hr,Female,Manager,Bachelors,56,40156.0,5815,No,45971.0
+2689,Emp_1689,It,Male,Consultant,Phd,34,105836.0,8766,No,114602.0
+2690,Emp_1690,It,Female,Manager,High School,52,70481.0,26045,No,96526.0
+2691,Emp_1691,Sales,Female,Manager,Bachelors,59,33435.0,8239,No,41674.0
+2692,Emp_1692,Marketing,Female,Analyst,High School,44,89650.0,18942,No,108592.0
+2693,Emp_1693,Hr,Male,Engineer,High School,25,66336.0,13272,No,79608.0
+2694,Emp_1694,It,Female,Manager,Phd,37,56135.0,24188,No,80323.0
+2695,Emp_1695,Hr,Female,Analyst,Phd,28,93631.0,29415,No,123046.0
+2696,Emp_1696,Finance,Female,Executive,Masters,43,57909.0,5869,No,63778.0
+2697,Emp_1697,Sales,Male,Analyst,Masters,50,89487.0,10526,No,100013.0
+2698,Emp_1698,Finance,Male,Analyst,Masters,32,41468.0,12741,No,54209.0
+2699,Emp_1699,Hr,Female,Analyst,Bachelors,54,112609.0,9694,Yes,122303.0
+2700,Emp_1700,Hr,Male,Manager,Masters,50,67655.0,6934,Yes,74589.0
+2701,Emp_1701,Marketing,Female,Manager,High School,33,54341.0,26556,No,80897.0
+2702,Emp_1702,It,Female,Executive,Masters,28,84182.0,22087,No,106269.0
+2703,Emp_1703,It,Male,Consultant,Phd,47,71786.0,21318,Yes,93104.0
+2704,Emp_1704,Finance,Female,Consultant,Masters,30,88304.0,23907,No,112211.0
+2705,Emp_1705,Sales,Male,Consultant,Bachelors,55,66514.0,24023,No,90537.0
+2706,Emp_1706,Operations,Male,Executive,Bachelors,34,53979.0,11159,No,65138.0
+2707,Emp_1707,It,Female,Consultant,High School,57,110887.0,20719,No,131606.0
+2708,Emp_1708,Marketing,Male,Consultant,Bachelors,46,100981.0,25293,No,126274.0
+2709,Emp_1709,Finance,Male,Analyst,Masters,45,75107.0,17993,No,93100.0
+2710,Emp_1710,Finance,Female,Manager,Phd,38,21160.0,18813,No,39973.0
+2711,Emp_1711,Operations,Female,Manager,Bachelors,23,107897.0,6164,No,114061.0
+2712,Emp_1712,Marketing,Male,Analyst,High School,34,92577.0,5619,Yes,98196.0
+2713,Emp_1713,Sales,Male,Analyst,Masters,52,104303.0,12982,No,117285.0
+2714,Emp_1714,Marketing,Female,Analyst,High School,50,30846.0,8066,Yes,38912.0
+2715,Emp_1715,Sales,Male,Manager,Bachelors,49,39924.0,26256,No,66180.0
+2716,Emp_1716,Marketing,Male,Consultant,Bachelors,48,33882.0,13638,Yes,47520.0
+2717,Emp_1717,Marketing,Male,Analyst,High School,36,100274.0,7337,No,107611.0
+2718,Emp_1718,Hr,,Executive,Masters,52,106555.0,29784,No,136339.0
+2719,Emp_1719,Finance,Male,Analyst,Bachelors,36,21095.0,10594,Yes,31689.0
+2720,Emp_1720,Marketing,Male,Engineer,Phd,54,60983.0,7460,No,68443.0
+2721,Emp_1721,Operations,Male,Analyst,Bachelors,41,34123.0,11820,Yes,45943.0
+2722,Emp_1722,Marketing,Female,Manager,Masters,33,113668.0,26930,No,140598.0
+2723,Emp_1723,It,Female,Analyst,Bachelors,58,86615.0,8442,No,95057.0
+2724,Emp_1724,Finance,Female,Engineer,High School,30,115193.0,21191,No,136384.0
+2725,Emp_1725,It,Female,Executive,Bachelors,44,65278.0,24095,No,89373.0
+2726,Emp_1726,Finance,Female,Consultant,Bachelors,29,117911.0,21326,No,139237.0
+2727,Emp_1727,It,Male,Analyst,Masters,53,110290.0,15529,No,125819.0
+2728,Emp_1728,Marketing,Male,Engineer,High School,35,71999.0,22675,No,94674.0
+2729,Emp_1729,Marketing,Male,Engineer,Masters,48,51153.0,15390,No,66543.0
+2730,Emp_1730,Hr,Male,Executive,Bachelors,46,38344.0,19030,No,57374.0
+2731,Emp_1731,Operations,Female,Manager,Phd,34,119777.0,10374,No,130151.0
+2732,Emp_1732,It,Male,Analyst,Bachelors,42,57656.0,18142,No,75798.0
+2733,Emp_1733,Sales,Male,Engineer,Masters,52,90515.0,24039,Yes,114554.0
+2734,Emp_1734,Hr,Female,Executive,Phd,58,21212.0,17204,No,38416.0
+2735,Emp_1735,It,Male,Consultant,Masters,26,29001.0,27897,No,56898.0
+2736,Emp_1736,It,Male,Engineer,Masters,34,98784.0,12394,No,111178.0
+2737,Emp_1737,Hr,Female,Executive,High School,49,118723.0,22088,Yes,140811.0
+2738,Emp_1738,Marketing,Male,Manager,Phd,46,101144.0,5825,No,106969.0
+2739,Emp_1739,It,Male,Manager,Bachelors,56,56427.0,14196,Yes,70623.0
+2740,Emp_1740,Marketing,Male,Engineer,Masters,28,51368.0,16652,No,68020.0
+2741,Emp_1741,Hr,Male,Engineer,Bachelors,59,90819.0,21760,No,112579.0
+2742,Emp_1742,Marketing,Male,Analyst,High School,53,81160.0,5972,No,87132.0
+2743,Emp_1743,Finance,Female,Executive,High School,24,45854.0,25597,No,71451.0
+2744,Emp_1744,Sales,Female,Engineer,Phd,58,30715.0,16268,No,46983.0
+2745,Emp_1745,It,Female,Analyst,High School,43,101701.0,5443,No,107144.0
+2746,Emp_1746,Operations,Female,Analyst,High School,29,78784.0,28903,No,107687.0
+2747,Emp_1747,Sales,Female,Engineer,Bachelors,38,119644.0,5754,No,125398.0
+2748,Emp_1748,Marketing,Female,Manager,High School,48,46797.0,21023,No,67820.0
+2749,Emp_1749,It,Male,Executive,High School,54,67573.0,26119,No,93692.0
+2750,Emp_1750,Marketing,Female,Executive,Masters,38,96120.0,15363,No,111483.0
+2751,Emp_1751,Finance,Female,Manager,High School,33,34780.0,15897,No,50677.0
+2752,Emp_1752,Hr,Male,Engineer,Masters,48,57905.0,10396,Yes,68301.0
+2754,Emp_1754,Finance,Female,Engineer,High School,44,53359.0,7711,No,61070.0
+2755,Emp_1755,Finance,Male,Engineer,Phd,50,86062.0,23791,No,109853.0
+2756,Emp_1756,It,Female,Analyst,Phd,41,93391.0,26972,Yes,120363.0
+2757,Emp_1757,Marketing,Male,Manager,Masters,37,63463.0,27488,No,90951.0
+2758,Emp_1758,Operations,Female,Engineer,High School,38,119596.0,10747,No,130343.0
+2759,Emp_1759,Finance,Male,Consultant,Bachelors,37,115018.0,23107,No,138125.0
+2760,Emp_1760,Sales,Male,Manager,Phd,40,36571.0,28608,No,65179.0
+2761,Emp_1761,Finance,Female,Executive,Bachelors,29,117276.0,6919,No,124195.0
+2762,Emp_1762,Operations,Female,Analyst,Phd,59,39142.0,22302,No,61444.0
+2763,Emp_1763,Marketing,Malee,Executive,Phd,59,45104.0,18473,Yes,63577.0
+2764,Emp_1764,Marketing,Female,Executive,High School,50,28625.0,25599,No,54224.0
+2765,Emp_1765,Sales,Female,Manager,Phd,57,59199.0,21965,Yes,81164.0
+2766,Emp_1766,Finance,Male,Executive,Bachelors,47,35926.0,19235,No,55161.0
+2767,Emp_1767,Marketing,Female,Engineer,Phd,52,51218.0,20710,Yes,71928.0
+2768,Emp_1768,Operations,Female,Executive,Masters,33,64472.0,19434,No,83906.0
+2769,Emp_1769,It,Male,Analyst,High School,38,111916.0,18478,Yes,130394.0
+2770,Emp_1770,Hr,Male,Analyst,High School,36,40566.0,8881,No,49447.0
+2771,Emp_1771,Hr,Female,Consultant,Masters,30,76125.0,25293,Yes,101418.0
+2772,Emp_1772,Hr,Male,Analyst,Masters,33,53205.0,6999,No,60204.0
+2773,Emp_1773,Finance,Male,Executive,Masters,53,49717.0,19849,No,69566.0
+2774,Emp_1774,Sales,Female,Analyst,Phd,46,69984.0,15903,Yes,85887.0
+2775,Emp_1775,Marketing,Male,Manager,High School,39,45135.0,21784,No,66919.0
+2776,Emp_1776,It,Male,Analyst,Masters,36,48164.0,19700,No,67864.0
+2777,Emp_1777,Operations,Female,Engineer,Phd,53,94489.0,25032,Yes,119521.0
+2778,Emp_1778,It,Female,Manager,Masters,27,58562.0,10445,Yes,69007.0
+2779,Emp_1779,Operations,Male,Consultant,Bachelors,56,89110.0,7628,No,96738.0
+2780,Emp_1780,Finance,Male,Engineer,Bachelors,55,40169.0,23040,Yes,63209.0
+2781,Emp_1781,Hr,Female,Executive,High School,59,79858.0,22004,Yes,101862.0
+2782,Emp_1782,Finance,Male,Executive,Phd,26,41604.0,5246,No,46850.0
+2783,Emp_1783,Sales,Male,Executive,Bachelors,39,109670.0,10212,No,119882.0
+2784,Emp_1784,Sales,Male,Engineer,Bachelors,37,108738.0,8339,No,117077.0
+2785,Emp_1785,Operations,Female,Engineer,Phd,29,20684.0,28142,Yes,48826.0
+2786,Emp_1786,Marketing,Male,Engineer,Masters,46,28007.0,28470,No,56477.0
+2788,Emp_1788,Operations,Female,Manager,Masters,47,69582.0,26103,No,95685.0
+2789,Emp_1789,Sales,Male,Executive,Bachelors,43,94791.0,7368,Yes,102159.0
+2790,Emp_1790,Sales,Male,Analyst,Bachelors,52,117798.0,17186,No,134984.0
+2791,Emp_1791,Sales,Female,Executive,Bachelors,31,103629.0,6839,No,110468.0
+2792,Emp_1792,Finance,Female,Consultant,High School,33,25782.0,24287,No,50069.0
+2793,Emp_1793,Sales,Female,Manager,High School,49,86770.0,11205,No,97975.0
+2794,Emp_1794,It,Female,Engineer,High School,27,77645.0,9395,No,87040.0
+2795,Emp_1795,Hr,Male,Manager,Phd,41,119724.0,20290,Yes,140014.0
+2796,Emp_1796,Sales,Male,Engineer,Bachelors,26,51996.0,27151,No,79147.0
+2797,Emp_1797,Operations,Female,Consultant,Bachelors,44,49204.0,8691,No,57895.0
+2798,Emp_1798,Hr,Female,Consultant,Phd,30,37152.0,12470,No,49622.0
+2799,Emp_1799,Finance,Male,Manager,High School,50,75186.0,8841,No,84027.0
+2800,Emp_1800,Operations,Female,Engineer,Phd,37,110555.0,9348,Yes,119903.0
+2801,Emp_1801,Hr,Male,Consultant,High School,43,105024.0,28005,No,133029.0
+2802,Emp_1802,Operations,Female,Executive,Bachelors,29,39689.0,22776,No,62465.0
+2803,Emp_1803,Finance,Male,Executive,Masters,41,70690.0,11060,No,81750.0
+2804,Emp_1804,It,Female,Engineer,High School,35,114042.0,25639,No,139681.0
+2805,Emp_1805,Finance,Female,Manager,Bachelors,58,103251.0,20525,No,123776.0
+2806,Emp_1806,Finance,Male,Consultant,Bachelors,55,77320.0,9300,Yes,86620.0
+2807,Emp_1807,Operations,Female,Manager,Masters,32,84226.0,8338,,92564.0
+2808,Emp_1808,Marketing,Male,Executive,Bachelors,54,76091.0,10487,No,86578.0
+2809,Emp_1809,Sales,Male,Consultant,Bachelors,52,99301.0,8514,,107815.0
+2810,Emp_1810,Sales,Male,Manager,High School,55,41942.0,22143,Yes,64085.0
+2811,Emp_1811,It,Male,Analyst,High School,28,58712.0,16280,No,74992.0
+2812,Emp_1812,It,Male,Engineer,Masters,44,85277.0,15307,No,100584.0
+2813,Emp_1813,Sales,Female,Engineer,Masters,28,69632.0,14915,Yes,84547.0
+2814,Emp_1814,Marketing,Female,Analyst,Bachelors,46,58031.0,16158,No,74189.0
+2815,Emp_1815,Sales,Male,Executive,High School,24,40478.0,13621,No,54099.0
+2816,Emp_1816,Marketing,,Consultant,Masters,59,42551.0,15547,No,58098.0
+2817,Emp_1817,It,Male,Engineer,Masters,41,68068.0,28177,No,96245.0
+2818,Emp_1818,Hr,Female,Analyst,Phd,55,113608.0,18485,No,132093.0
+2819,Emp_1819,Operations,Female,Analyst,Masters,51,55561.0,7459,No,63020.0
+2820,Emp_1820,It,Female,Executive,Bachelors,38,22892.0,10273,No,33165.0
+2821,Emp_1821,It,Female,Executive,High School,31,119502.0,23102,No,142604.0
+2822,Emp_1822,Finance,Male,Manager,Masters,56,44395.0,14457,Yes,58852.0
+2823,Emp_1823,Finance,Male,Engineer,Phd,41,38756.0,10423,No,49179.0
+2824,Emp_1824,Finance,Female,Manager,High School,39,107710.0,22692,No,130402.0
+2825,Emp_1825,Operations,Female,Analyst,Masters,48,54651.0,22434,No,77085.0
+2826,Emp_1826,Finance,Male,Consultant,Phd,57,86333.0,10479,Yes,96812.0
+2827,Emp_1827,Unknown,Female,Consultant,Masters,44,93745.0,20419,Yes,114164.0
+2828,Emp_1828,Sales,Male,Executive,High School,53,69306.0,7249,No,76555.0
+2830,Emp_1830,It,Male,Consultant,High School,32,48024.0,7921,No,55945.0
+2831,Emp_1831,Marketing,Female,Consultant,Bachelors,59,114950.0,9676,No,124626.0
+2832,Emp_1832,Hr,Male,Analyst,Masters,27,60818.0,25425,No,86243.0
+2833,Emp_1833,Marketing,Female,Consultant,Bachelors,55,25947.0,7417,No,33364.0
+2834,Emp_1834,Marketing,Male,Consultant,High School,57,95153.0,21916,Yes,117069.0
+2836,Emp_1836,Sales,Female,Manager,Masters,38,114238.0,13167,No,127405.0
+2837,Emp_1837,Finance,Female,Analyst,Bachelors,33,87428.0,6469,No,93897.0
+2838,Emp_1838,Operations,Male,Executive,Masters,42,49754.0,12292,No,62046.0
+2839,Emp_1839,Sales,Male,Manager,Phd,40,83355.0,28526,No,111881.0
+2840,Emp_1840,Operations,Female,Engineer,Bachelors,24,78241.0,27384,No,105625.0
+2841,Emp_1841,It,Female,Analyst,High School,39,88960.0,28465,No,117425.0
+2842,Emp_1842,It,Female,Analyst,Bachelors,40,33418.0,26033,No,59451.0
+2843,Emp_1843,It,Male,Engineer,Masters,27,115422.0,11931,No,127353.0
+2844,Emp_1844,Hr,Male,Engineer,Masters,37,108593.0,24808,Yes,133401.0
+2845,Emp_1845,Operations,Male,Engineer,Masters,29,75184.0,6091,Yes,81275.0
+2846,Emp_1846,Sales,Male,Executive,Masters,39,24833.0,21363,No,46196.0
+2847,Emp_1847,Sales,Female,Consultant,High School,33,95430.0,29233,Yes,124663.0
+2848,Emp_1848,Marketing,Female,Analyst,Bachelors,31,61833.0,26038,Yes,87871.0
+2849,Emp_1849,Marketing,Male,Consultant,High School,28,20565.0,5260,No,25825.0
+2850,Emp_1850,Marketing,Male,Consultant,High School,22,60180.0,15456,No,75636.0
+2851,Emp_1851,It,Female,Engineer,High School,57,38402.0,27320,No,65722.0
+2852,Emp_1852,Sales,Male,Executive,Masters,42,62845.0,18435,No,81280.0
+2853,Emp_1853,Operations,Male,Manager,Masters,58,95851.0,14377,No,110228.0
+2854,Emp_1854,It,Male,Executive,Masters,45,32834.0,20813,Yes,53647.0
+2855,Emp_1855,Hr,Male,Consultant,Bachelors,46,87850.0,25754,No,113604.0
+2856,Emp_1856,Marketing,Male,Executive,Phd,28,57180.0,9301,No,66481.0
+2857,Emp_1857,It,Male,Engineer,Masters,38,23883.0,12207,No,36090.0
+2859,Emp_1859,Hr,Male,Engineer,Masters,51,31695.0,21476,No,53171.0
+2860,Emp_1860,Finance,Male,Manager,Masters,28,43123.0,26545,No,69668.0
+2861,Emp_1861,Sales,Female,Consultant,High School,54,78481.0,29016,Yes,107497.0
+2862,Emp_1862,Operations,Female,Manager,High School,28,93438.0,27592,No,121030.0
+2863,Emp_1863,Finance,Female,Manager,High School,45,37573.0,13556,No,51129.0
+2864,Emp_1864,Marketing,Male,Manager,Bachelors,32,114910.0,26300,No,141210.0
+2865,Emp_1865,It,Female,Executive,Phd,30,76494.0,18795,No,95289.0
+2866,Emp_1866,Hr,Male,Executive,Phd,33,32288.0,25102,Yes,57390.0
+2867,Emp_1867,Hr,Male,Consultant,Bachelors,56,66978.0,11125,No,78103.0
+2868,Emp_1868,Sales,Male,Manager,Masters,25,92420.0,6924,No,99344.0
+2869,Emp_1869,Finance,Female,Analyst,Bachelors,57,96095.0,24479,No,120574.0
+2870,Emp_1870,Sales,Female,Consultant,Masters,49,74672.0,11683,Yes,86355.0
+2871,Emp_1871,It,Female,Manager,Bachelors,34,81821.0,26565,No,108386.0
+2872,Emp_1872,Sales,Female,Manager,Bachelors,44,103661.0,23922,No,127583.0
+2873,Emp_1873,Operations,Female,Executive,Bachelors,40,89224.0,23660,No,112884.0
+2874,Emp_1874,Hr,Male,Consultant,Phd,58,109405.0,18331,No,127736.0
+2875,Emp_1875,Hr,Male,Manager,High School,45,74796.0,29578,No,104374.0
+2876,Emp_1876,Marketing,Male,Manager,Bachelors,37,64706.0,14945,No,79651.0
+2877,Emp_1877,Marketing,Male,Consultant,Phd,54,24023.0,22294,No,46317.0
+2878,Emp_1878,It,Female,Analyst,High School,33,102636.0,5306,No,107942.0
+2879,Emp_1879,Operations,Female,Consultant,High School,55,56735.0,27959,No,84694.0
+2880,Emp_1880,Finance,Male,Consultant,Bachelors,28,92959.0,9231,No,102190.0
+2881,Emp_1881,Sales,Female,Analyst,Masters,32,59218.0,11028,No,70246.0
+2882,Emp_1882,It,Female,Consultant,Masters,52,32213.0,17207,No,49420.0
+2883,Emp_1883,Marketing,Male,Manager,Masters,50,118694.0,11658,No,130352.0
+2884,Emp_1884,Sales,Male,Consultant,Bachelors,34,48460.0,11336,No,59796.0
+2885,Emp_1885,Marketing,Female,Analyst,Masters,52,84680.0,18896,No,103576.0
+2886,Emp_1886,Sales,Female,Engineer,Phd,23,51017.0,14630,No,65647.0
+2887,Emp_1887,Finance,Male,Consultant,Phd,36,118536.0,22256,Yes,140792.0
+2888,Emp_1888,It,Male,Executive,Phd,32,112038.0,6141,Yes,118179.0
+2889,Emp_1889,Sales,Male,Manager,Phd,55,50990.0,22049,No,73039.0
+2890,Emp_1890,Operations,Female,Manager,High School,25,39515.0,13400,Yes,52915.0
+2891,Emp_1891,Hr,Male,Executive,Phd,32,49991.0,5951,No,55942.0
+2892,Emp_1892,Operations,,Executive,Masters,50,27634.0,14249,Yes,41883.0
+2893,Emp_1893,Operations,,Consultant,Bachelors,23,97034.0,17936,Yes,114970.0
+2894,Emp_1894,Hr,Female,Executive,Masters,37,96452.0,19455,Yes,115907.0
+2895,Emp_1895,Operations,Female,Engineer,Phd,34,49377.0,9722,No,59099.0
+2896,Emp_1896,Sales,Female,Analyst,High School,58,53001.0,17812,No,70813.0
+2897,Emp_1897,Sales,Female,Executive,Phd,38,21391.0,9008,Yes,30399.0
+2898,Emp_1898,Sales,Male,Executive,Bachelors,42,85206.0,15060,No,100266.0
+2899,Emp_1899,Hr,Male,Engineer,Masters,40,62215.0,18056,No,80271.0
+2900,Emp_1900,Operations,Female,Manager,Bachelors,28,99720.0,11655,No,111375.0
+2901,Emp_1901,Hr,Female,Manager,Bachelors,59,47114.0,27574,No,74688.0
+2902,Emp_1902,Sales,Female,Consultant,Bachelors,29,31882.0,22155,Yes,54037.0
+2903,Emp_1903,Operations,,Engineer,Masters,34,37273.0,18027,No,55300.0
+2904,Emp_1904,Operations,Female,Analyst,Phd,58,65647.0,9030,Yes,74677.0
+2905,Emp_1905,Marketing,Male,Analyst,Bachelors,23,102665.0,29243,No,131908.0
+2906,Emp_1906,Marketing,Male,Engineer,Masters,32,84892.0,5521,Yes,90413.0
+2907,Emp_1907,Finance,Male,Analyst,High School,45,62679.0,24739,No,87418.0
+2908,Emp_1908,It,Male,Manager,Masters,27,20427.0,6400,No,26827.0
+2909,Emp_1909,Marketing,Female,Analyst,High School,47,116952.0,16930,Yes,133882.0
+2910,Emp_1910,Hr,Male,Analyst,Masters,28,86267.0,8723,No,94990.0
+2911,Emp_1911,Marketing,Female,Engineer,Phd,40,20799.0,11579,No,32378.0
+2912,Emp_1912,Finance,Female,Engineer,Bachelors,27,75659.0,24631,No,100290.0
+2913,Emp_1913,Unknown,Female,Analyst,Phd,50,114409.0,23242,No,137651.0
+2914,Emp_1914,Finance,Male,Executive,Masters,23,27025.0,9781,Yes,36806.0
+2915,Emp_1915,Operations,Female,Engineer,Bachelors,40,34481.0,25448,No,59929.0
+2916,Emp_1916,Operations,Male,Consultant,High School,25,45411.0,17873,No,63284.0
+2917,Emp_1917,It,Male,Consultant,Masters,27,116894.0,23782,No,140676.0
+2918,Emp_1918,Marketing,Female,Manager,Bachelors,58,34961.0,21526,No,56487.0
+2919,Emp_1919,Hr,Female,Analyst,High School,49,41767.0,26446,No,68213.0
+2920,Emp_1920,Hr,Female,Executive,High School,51,71690.0,16043,No,87733.0
+2921,Emp_1921,Sales,Male,Manager,Phd,28,72870.0,24853,No,97723.0
+2922,Emp_1922,Operations,Female,Analyst,Masters,30,56135.0,21375,No,77510.0
+2923,Emp_1923,Hr,Male,Engineer,High School,46,84514.0,25079,No,109593.0
+2924,Emp_1924,It,Female,Consultant,Bachelors,54,106928.0,22101,No,129029.0
+2925,Emp_1925,Operations,Female,Executive,High School,22,98798.0,5642,Yes,104440.0
+2926,Emp_1926,Unknown,Male,Consultant,High School,27,90765.0,23932,No,114697.0
+2927,Emp_1927,Hr,Male,Engineer,Phd,39,43772.0,16885,Yes,60657.0
+2928,Emp_1928,Hr,Male,Analyst,Phd,31,38799.0,29945,No,68744.0
+2929,Emp_1929,Sales,Male,Engineer,Bachelors,49,43555.0,25034,No,68589.0
+2931,Emp_1931,Operations,Male,Consultant,High School,54,39333.0,18397,No,57730.0
+2932,Emp_1932,Operations,Female,Executive,High School,22,24261.0,20074,No,44335.0
+2933,Emp_1933,Operations,Female,Engineer,Phd,34,89002.0,18771,No,107773.0
+2934,Emp_1934,Sales,Male,Consultant,High School,58,66553.0,5949,No,72502.0
+2935,Emp_1935,Sales,Female,Executive,High School,41,23088.0,26828,No,49916.0
+2936,Emp_1936,Hr,Male,Analyst,Bachelors,22,65783.0,21905,No,87688.0
+2937,Emp_1937,Finance,Female,Analyst,Phd,24,21115.0,28016,No,49131.0
+2938,Emp_1938,Finance,Female,Manager,High School,39,90114.0,27432,No,117546.0
+2939,Emp_1939,Sales,Male,Consultant,Phd,35,88126.0,19732,Yes,107858.0
+2940,Emp_1940,Hr,Male,Executive,Bachelors,52,92908.0,21738,No,114646.0
+2941,Emp_1941,Finance,Male,Engineer,Phd,48,89109.0,22866,Yes,111975.0
+2942,Emp_1942,Hr,Female,Analyst,High School,38,22978.0,14839,No,37817.0
+2943,Emp_1943,Hr,Male,Executive,Phd,50,29422.0,17823,No,47245.0
+2944,Emp_1944,Hr,Female,Consultant,High School,57,63626.0,28378,No,92004.0
+2945,Emp_1945,Marketing,Male,Manager,High School,58,109233.0,23599,No,132832.0
+2946,Emp_1946,Operations,Female,Analyst,High School,47,76174.0,26100,No,102274.0
+2947,Emp_1947,Hr,Female,Executive,Bachelors,38,116356.0,27205,No,143561.0
+2949,Emp_1949,Sales,Female,Executive,Bachelors,46,90461.0,19690,No,110151.0
+2950,Emp_1950,Finance,Female,Consultant,Phd,23,77199.0,11339,No,88538.0
+2951,Emp_1951,Operations,Male,Consultant,Bachelors,43,49430.0,15956,Yes,65386.0
+2952,Emp_1952,Finance,Female,Consultant,Masters,26,48834.0,26303,No,75137.0
+2953,Emp_1953,Operations,Male,Engineer,High School,25,44435.0,28459,No,72894.0
+2954,Emp_1954,Finance,Male,Executive,High School,57,107212.0,8765,Yes,115977.0
+2955,Emp_1955,Operations,Male,Analyst,Bachelors,27,75797.0,28466,No,104263.0
+2956,Emp_1956,Finance,Male,Consultant,Masters,42,63554.0,7827,No,71381.0
+2957,Emp_1957,Finance,Female,Consultant,High School,34,74555.0,7058,Yes,81613.0
+2958,Emp_1958,Finance,Female,Executive,Phd,58,105350.0,29133,Yes,134483.0
+2959,Emp_1959,Unknown,Female,Consultant,Bachelors,46,34716.0,16519,No,51235.0
+2960,Emp_1960,Hr,Male,Engineer,High School,47,80261.0,5730,No,85991.0
+2961,Emp_1961,Hr,Female,Engineer,High School,41,47528.0,6832,No,54360.0
+2962,Emp_1962,It,Female,Consultant,Bachelors,54,21995.0,13600,Yes,35595.0
+2963,Emp_1963,Marketing,Male,Executive,Bachelors,35,42414.0,27889,Yes,70303.0
+2964,Emp_1964,It,Male,Executive,Phd,57,33844.0,20618,No,54462.0
+2965,Emp_1965,It,Female,Executive,Phd,38,56659.0,12170,No,68829.0
+2966,Emp_1966,Operations,Male,Manager,High School,42,35522.0,9179,No,44701.0
+2967,Emp_1967,Hr,Male,Consultant,High School,37,94034.0,11299,No,105333.0
+2968,Emp_1968,Operations,Male,Executive,Bachelors,37,62322.0,12830,Yes,75152.0
+2969,Emp_1969,Hr,Male,Engineer,High School,41,87638.0,16439,No,104077.0
+2970,Emp_1970,Hr,Female,Analyst,High School,50,28524.0,9802,No,38326.0
+2971,Emp_1971,Finance,Male,Analyst,Bachelors,49,50846.0,27441,No,78287.0
+2972,Emp_1972,Sales,Male,Executive,High School,29,93643.0,11615,No,105258.0
+2973,Emp_1973,Finance,Male,Analyst,High School,45,80096.0,11762,,91858.0
+2974,Emp_1974,Sales,Male,Analyst,Masters,24,103804.0,10543,Yes,114347.0
+2975,Emp_1975,Operations,Male,Manager,Phd,46,67703.0,29709,No,97412.0
+2976,Emp_1976,Sales,Male,Engineer,Bachelors,40,44399.0,9883,No,54282.0
+2977,Emp_1977,Operations,Male,Engineer,Masters,54,95160.0,28434,No,123594.0
+2978,Emp_1978,It,Male,Manager,Phd,23,112662.0,26343,No,139005.0
+2979,Emp_1979,It,Female,Manager,Phd,36,108667.0,20739,No,129406.0
+2980,Emp_1980,Sales,Male,Analyst,Phd,43,68591.0,5666,No,74257.0
+2981,Emp_1981,Sales,Female,Consultant,Masters,31,40714.0,5276,Yes,45990.0
+2983,Emp_1983,Finance,Male,Manager,Phd,43,104106.0,5881,No,109987.0
+2984,Emp_1984,Operations,Male,Engineer,High School,48,98018.0,7060,No,105078.0
+2985,Emp_1985,Finance,Femal,Analyst,High School,34,119854.0,19677,No,139531.0
+2986,Emp_1986,It,Female,Consultant,Masters,54,79136.0,23466,Yes,102602.0
+2987,Emp_1987,Hr,,Analyst,Masters,26,53414.0,11702,No,65116.0
+2988,Emp_1988,Sales,Male,Executive,Masters,47,106576.0,14429,No,121005.0
+2989,Emp_1989,Finance,Female,Analyst,Phd,34,98943.0,20853,No,119796.0
+2990,Emp_1990,Operations,Female,Manager,High School,48,65468.0,5158,No,70626.0
+2991,Emp_1991,It,Male,Engineer,Masters,35,118841.0,20996,No,139837.0
+2992,Emp_1992,Finance,Female,Engineer,Masters,45,99702.0,10229,No,109931.0
+2993,Emp_1993,Operations,Female,Manager,Bachelors,24,92108.0,12956,No,105064.0
+2994,Emp_1994,Sales,Female,Executive,Phd,51,118538.0,28898,No,147436.0
+2995,Emp_1995,Sales,Male,Manager,Bachelors,56,112508.0,29187,No,141695.0
+2996,Emp_1996,Marketing,Male,Analyst,High School,35,66835.0,17566,No,84401.0
+2997,Emp_1997,Hr,Male,Manager,Bachelors,33,83333.0,7526,No,90859.0
+2998,Emp_1998,Marketing,Female,Manager,Bachelors,49,62464.0,29686,No,92150.0
+2999,Emp_1999,It,Male,Executive,Bachelors,50,42923.0,12803,No,55726.0
+3000,Emp_2000,Finance,Female,Analyst,Phd,38,81855.0,11574,Yes,93429.0

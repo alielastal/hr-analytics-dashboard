@@ -1,0 +1,24 @@
+FEATURE ENGINEERING SUMMARY REPORT
+==================================================
+
+Original dataset shape: (2000, 11)
+Engineered dataset shape: (2000, 17)
+New features created: 6
+
+NEW FEATURES:
+------------------------------
+AgeSquared
+SalaryBonusRatio
+RoleSalaryRatio
+AttritionFlag
+DeptSalaryRatio
+TotalCompensationCalculated
+
+MISSING VALUES AFTER CLEANING:
+------------------------------
+                   missing_count  missing_percentage
+Salary                        40                2.00
+Attrition                     40                2.00
+TotalCompensation             40                2.00
+Department                    39                1.95
+Gender                        39                1.95

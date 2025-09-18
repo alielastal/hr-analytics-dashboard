@@ -1,0 +1,28 @@
+HR ANALYTICS - ATTRITION ANALYSIS SUMMARY
+==================================================
+
+Overall Attrition Rate: 19.83%
+
+ATTRITION BY DEPARTMENT:
+------------------------------
+Finance: 16.72%
+Hr: 20.23%
+It: 20.26%
+Marketing: 21.54%
+Operations: 18.79%
+Sales: 21.79%
+Unknown: 15.79%
+
+Department with highest attrition: Sales (21.79%)
+
+SALARY ANALYSIS:
+------------------------------
+Average salary (Stayed): $11.04
+Average salary (Left): $11.05
+Difference: $-0.01
+
+AGE ANALYSIS:
+------------------------------
+Average age (Stayed): 40.40 years
+Average age (Left): 40.79 years
+Difference: -0.39 years

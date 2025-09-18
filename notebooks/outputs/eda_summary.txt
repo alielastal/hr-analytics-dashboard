@@ -1,0 +1,27 @@
+HR ANALYTICS - EDA SUMMARY REPORT
+==================================================
+
+Dataset Shape: (2000, 11)
+Number of features: 11
+Number of records: 2000
+
+MISSING VALUES ANALYSIS:
+------------------------------
+                   Missing Values  Percentage
+Department                     39        1.95
+Gender                         39        1.95
+Salary                         40        2.00
+Attrition                      40        2.00
+TotalCompensation              40        2.00
+
+Duplicate rows: 0
+
+DATA TYPES:
+------------------------------
+Numerical columns: 5
+Categorical columns: 6
+
+HIGHLY CORRELATED FEATURES (|r| > 0.7):
+------------------------------
+TotalCompensation  Salary               0.971371
+Salary             TotalCompensation    0.971371

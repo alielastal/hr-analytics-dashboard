@@ -1,0 +1,20 @@
+HR ANALYTICS - MODEL TRAINING SUMMARY
+==================================================
+
+MODEL PERFORMANCE:
+------------------------------
+RandomForest: Accuracy=0.795, F1=0.000, ROC-AUC=0.507
+GradientBoosting: Accuracy=0.783, F1=0.000, ROC-AUC=0.479
+LogisticRegression: Accuracy=0.455, F1=0.253, ROC-AUC=0.455
+
+BEST MODEL: RandomForest (Optimized)
+Final F1 Score: 0.940
+Final ROC-AUC: 0.999
+
+TOP 5 FEATURES:
+------------------------------
+RoleSalaryRatio: 0.098
+DeptSalaryRatio: 0.094
+Salary: 0.094
+TotalCompensationCalculated: 0.093
+SalaryBonusRatio: 0.092

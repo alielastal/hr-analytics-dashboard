@@ -1,0 +1,22 @@
+# Core
+pandas
+numpy
+pathlib
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+plotly
+pandoc
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Notebook
+jupyter
+
+# Streamlit
+streamlit
+joblib
